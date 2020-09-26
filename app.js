@@ -1,6 +1,9 @@
 const fs=require("fs");
 const express= require("express");
 const app= express();
+const path = require('path');
+
+
 
 //fs.copyFileSync("gita.txt","file.txt");
 var val="yjvj"; 
@@ -23,11 +26,13 @@ app.get("/files",(req,res)=>{
 });                      
                          
 app.get("/files/:id",function(req,res){
+    const filePath = path.join(__dirname,"./"+req.params.id+".txt" );
+    let val2="";
       
-    fs.readFile("./"+req.params.id+".txt","utf8",function(error,data){
+    fs.readFile(filePath,"utf8",function(error,data){
         // console.log(data);
-         val=data;    
-         res.send(val);  
+         val2=data;    
+         res.send(val2);  
          
      });                 
                          
