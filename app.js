@@ -26,14 +26,14 @@ app.get("/files",(req,res)=>{
 });                      
                          
 app.get("/files/:id",function(req,res){
-    const filePath = path.join(__dirname,"./"+req.params.id+".txt" );
+    const filePath = path.join(process.cwd(),"./"+req.params.id+".txt" );
     let val2="";
     
       
     fs.readFile(filePath,"utf8",function(error,data){
         // console.log(data);
-         val2=data;    
-         res.send('HARIBOL');  
+         val2=data;   
+         res.send(val2);  
          
      });                 
                          
