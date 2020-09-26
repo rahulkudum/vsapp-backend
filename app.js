@@ -10,6 +10,10 @@ fs.readFile("./gita.txt","utf8",function(error,data){
     val=data;
 });   
 //console.log(val);
+app.get ("/",(req,res)=>{
+    res.send("chant and be happy");
+});
+
 app.get("/files",(req,res)=>{
     const text=[
         {id:1, name:"chant and happy"}
