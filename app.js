@@ -2,6 +2,9 @@ const fs=require("fs");
 const express= require("express");
 const app= express();
 const path = require('path');
+var cors = require('cors')
+
+app.use(cors());
 
 
 
@@ -26,7 +29,7 @@ app.get("/files",(req,res)=>{
 });                      
                          
 app.get("/files/:id",function(req,res){
-    const filePath = path.join(process.cwd(),"./"+req.params.id+".txt" );
+    const filePath = path.join(__dirname,"./"+req.params.id+".txt" );
     let val2="";
     
       

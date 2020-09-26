@@ -28,13 +28,14 @@ export function AudioProvider({ children }) {
     useEffect(() => {
         
             console.log("error");
-        fetch("/files/" + "Vaishnava-song-book")
+        fetch("https://quiet-peak-15233.herokuapp.com/files/" + "Vaishnava-song-book")
             .then(res => {
                 //console.log(res);
                 return res.text();
             })
             .then(text => {
                 setIskcon(text);
+                console.log("CHECK");
                 
             });
        
@@ -47,7 +48,7 @@ export function AudioProvider({ children }) {
     useEffect(() => {
         if(val1==""){
             console.log("error");
-        fetch("/files/" + "Saranagati")
+        fetch("https://quiet-peak-15233.herokuapp.com/files/" + "Saranagati")
             .then(res => {
                 //console.log(res);
                 return res.text();
@@ -63,7 +64,7 @@ export function AudioProvider({ children }) {
     }, [])
     useEffect(() => {
         if(val2==""){
-        fetch("/files/" + "Gitavali")
+        fetch("https://quiet-peak-15233.herokuapp.com/files/" + "Gitavali")
             .then(res => {
                 //console.log(res);
                 return res.text();
@@ -80,7 +81,7 @@ export function AudioProvider({ children }) {
 
     useEffect(() => {
         if(val3==""){
-        fetch("/files/" + "Kalyanakalpataru")
+        fetch("https://quiet-peak-15233.herokuapp.com/files/" + "Kalyanakalpataru")
             .then(res => {
                 //console.log(res);
                 return res.text();
@@ -96,7 +97,7 @@ export function AudioProvider({ children }) {
     }, [])
     useEffect(() => {
         if(val4==""){
-        fetch("/files/" + "Gitamala")
+        fetch("https://quiet-peak-15233.herokuapp.com/files/" + "Gitamala")
             .then(res => {
                 //console.log(res);
                 return res.text();
@@ -112,7 +113,7 @@ export function AudioProvider({ children }) {
     }, [])
     useEffect(() => {
         if(val5==""){
-        fetch("/files/" + "Prarthana")
+        fetch("https://quiet-peak-15233.herokuapp.com/files/" + "Prarthana")
             .then(res => {
                 //console.log(res);
                 return res.text();
