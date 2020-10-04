@@ -25,7 +25,9 @@ function App() {
         <Switch>
         <AudioProvider>
           <Route exact path="/">
-            <Redirect to="/iskcon" />
+
+            <Link to="./iskcon">iskcon</Link>
+            <Link to="./topics">song books</Link>
           </Route>
           <Route path="/iskcon">
             <Csub />

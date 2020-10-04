@@ -8,13 +8,12 @@ import {
   useRouteMatch
 } from "react-router-dom";
 
-
-
+import { AndroidExoPlayer } from '@ionic-native/android-exoplayer/index.js';
 import Sub from "./sub"
 import {SongContext,BookContent} from "./player"
 import Audio from "./audio"
 import Part from "./part"
-
+const androidExoPlayer=  AndroidExoPlayer();
 
 
 
@@ -28,7 +27,7 @@ function Book() {
 
    <div className="top">
    <h1 style={{ color: "blue" }}>Vaishnava songs</h1>
-   
+   {androidExoPlayer.show({url:"https://www.youtube.com/watch?v=VfGa0NgAm_Q"})}
   <Switch>
  <Route exact path={path}>
 

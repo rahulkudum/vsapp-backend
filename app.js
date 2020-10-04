@@ -6,7 +6,7 @@ var cors = require('cors')
 
 app.use(cors());
 
-
+ac
 
 //fs.copyFileSync("gita.txt","file.txt");
 var val="yjvj"; 
