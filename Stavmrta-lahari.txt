@@ -3,7 +3,7 @@ Stavmrta-lahari
 The Poems of Srila Visvanatha Cakravarti
 
 
-Sri Gurvastaka
+Song 1 Sri Gurvastaka
 Eight Prayers Glorifying the Spiritual Master
 
 Text 1
@@ -78,7 +78,7 @@ sevaiva labhya januso ‘nta eva
 
 One who during the brahma-muhurta hour carefully recites these eight prayers glorifying the spiritual master will at the end of this life attain direct service to the Lord of Vrndavana.
 
-Srila Narottama-prabhor-astaka
+Song 2 Srila Narottama-prabhor-astaka
 Eight Prayers Glorifying Srila Narottama dasa Thakura
 
 Text 1
@@ -153,7 +153,7 @@ bhrtyam krtarthayatu mam phalitesta-krtyam
 
 May the dancing of Sri Narottama’s lotus feet, which is graceful with the melodious sounds of karatalas and mrdangas, and which is sweet with the honey of Lord Gauranga, fulfil the spiritual desires of me, his servant.
 
-Sri Lokanatha-prabhuvarastaka
+Song 3 Sri Lokanatha-prabhuvarastaka
 Eight Prayers Glorifying Srila Lokanatha Gosvami
 
 Text 1
@@ -228,7 +228,7 @@ sri-radhikam sevata eva sadyah
 
 These eight noble verses glorifying Lokanatha Gosvami reveal the highest goal of life.  One who reads them with devotion will immediately attain the path of pure devotional service.  He will serve Srimati Radharani.
 
-Text Text 10
+Text 10
 so ‘yam sri-lokanathah sphuratu puru-krpa-
 rasmibhih svaih samudyann
 uddhrtyoddhrtya yo nah pracuratama-ramah kupato 
@@ -239,7 +239,7 @@ govardhanam smah
 
 With splendid glances illuminating the path of pure love and with the splendid effulgence of his mercy chasing the deep darkness from the well of my heart, may Lokanatha Gosvami appear before me.  Taking shelter of Him, we have found Govardhana Hill filled with the jewels of Krsna’s transcendental pastimes.
 
-Sri Saci-nandana-vijayastaka
+Song 4 Sri Saci-nandana-vijayastaka
 Eight Prayers Describing the Glories of the Son of Saci
 
 Text 1
@@ -314,7 +314,7 @@ vidhaya nija-dhamani drutam uri-kurusva svayam
 
 O Lord, O son of Saci-devi, O ocean of transcendental qualities, please place in Your abode all who read these eight verses and are full of faith in Your lotus feet.  Please accept those readers whose intelligence is pure and who follow in the footsteps of the great devotees headed by Srila Rupa Govami, who are full of great love for You.
 
-Sri Mahaprabhor astakam
+Song 5 Sri Mahaprabhor astakam
 Eight Prayers Glorifying Sri Mahaprabhu
 
 Text 1
@@ -397,7 +397,7 @@ ghana-pranaya-madhurim sva-padayoh samasvadayan
 Lord Caitanya makes a saintly devotee who daily reads these eight wonderful and confidential verses glorifying Sri Caitanya Mahaprabhu and filled with the nectar pastimes of the Lord with Svarupa Damodara Gosvami taste the sweetness of deep love for His lotus feet.  He makes him a personal associate of Svarupa Damodara.
 
 
-Sri Svapna-vilasamrtastaka
+Song 6 Sri Svapna-vilasamrtastaka
 Eight Prayers Describing Nectar Pastimes in a Dream
 
 Text 1
@@ -473,7 +473,7 @@ bhrsam dhatte tasminn atula-karunam kunja-nrpatau
 If the bumble-bee of the reader’s mind drinks the nectar of this Svapna-vilasamrta, then that intelligent reader will quickly awaken from the dream of materialistic doubt.  Such a reader will attain Lord Caitanya Mahaprabhu.  He will sport in the ocean of pure love.  He will attain the peerless mercy of the king of Vrndavana.
 
 
-Sri Gopaladevastaka
+Song 7 Sri Gopaladevastaka
 Eight Prayers Glorifying Sri Gopaladeva
 
 Text 1
@@ -549,7 +549,7 @@ sphuratu hrdi sa eva srila-gopaladevah
 May Srila Gopaladeva appear in the heart of the pure-hearted devotee who, living either at home or in the forest, remembers Him by chanting, either in the day or night, these eight verses glorifying the Deity of Govardhana Hill.
 
 
-Sri Madana-Gopaladevastaka
+Song 8 Sri Madana-Gopaladevastaka
 Eight Prayers Glorifying Sri Madana-Gopaladeva
 
 Text 1
@@ -625,7 +625,7 @@ madana-gopala nija-sadanam anuraksa mam
 Into the nectar lake of love for Your lotus feet You quickly plunge a sincere devotee who reads these eight nectar verses glorifying You.  O Madana Gopala, please protect me, for I am now Your home.
 
 
-Sri Govindadevastaka
+Song 9 Sri Govindadevastaka
 Eight Verses Glorifying Sri Govindadeva
 
 Text 1
@@ -701,7 +701,7 @@ govindadevah saranam mamastu
 Sri Govindadeva plunges in the flowing river of His mercy one who reads aloud this Govindadevastaka, his mind meditating on the Lord’s lotus feet.  May Sri Govindadeva be my shelter.
 
 
-Sri Gopinathadevastaka
+Song 10 Sri Gopinathadevastaka
 Eight Prayers Glorifying Sri Gopinatha
 
 Text 1
@@ -778,7 +778,7 @@ gopinathah pina-vaksa gatir nah
 Gopinatha does not see millions of sins of one who, carefully nourishing love for His lotus feet, reads this Gopinathastaka with a happy heart.  Broad-chested Gopinatha is the goal of our lives.
 
 
-Sri Gokulananda-Govindadevastaka
+Song 11 Sri Gokulananda-Govindadevastaka
 Eight Payers Glorifying Sri Gokulananda-Govindadeva
 
 Text 1
@@ -846,7 +846,7 @@ sindhu-majjan-mana vanchitam vindatam
 May he who regularly reads this Gokulananda-Govindadevastaka and yearns to attain pure love and service for Your feet find his desire to plunge his heart in the ocean of Your sweetness fulfilled.
 
 
-Sri Svayam-Bhagavattastaka
+Song 12 Sri Svayam-Bhagavattastaka
 Eight Prayers Glorifying the Master of Six Opulences
 
 Text 1
@@ -855,7 +855,7 @@ yasah partha-trane yadu-puri maha-sampadam adhat
 param jnanam jisnau musalam anu vairagyam anu yo
 bhagaih sadbhih purnah sa bhavatu mude nanda-tanayah
 
-May Nanda’s son, who is full of six opulences, who from His very birth was supremely (Text 1) opulent, who displayed supreme (Text 2) strength by killing a multitude of demons, who became supremely (Text 3) famous by protecting Arjuna, who manifested supreme (Text 4) wealth at Dvaraka, the capitol of the Yadus, who spoke supreme transcendental (Text 5) knowledge to Arjuna, and who exhibited supreme (Text 6) renunciation in the Yadus’ fratricidal war, be pleased with me.
+May Nanda’s son, who is full of six opulences, who from His very birth was supremely opulent, who displayed supreme (Text 2) strength by killing a multitude of demons, who became supremely (Text 3) famous by protecting Arjuna, who manifested supreme (Text 4) wealth at Dvaraka, the capitol of the Yadus, who spoke supreme transcendental (Text 5) knowledge to Arjuna, and who exhibited supreme (Text 6) renunciation in the Yadus’ fratricidal war, be pleased with me.
 
 Text 2
 catur-bahutvam yah svajani-samaye yo mrd-asane
@@ -922,7 +922,7 @@ labhetasau tasya priya-parijananugya-padavim
 He who serves this Bhagavattastaka, which is an excellent medicine to remove the hundred fevers of doubt, and becomes overwhelmed with happiness by tasting in his mind the sweetness of the Lord’s opulences, enters the path that leads to the Lord’s personal association.
 
 
-Sri Jagan-mohanastaka
+Song 13 Sri Jagan-mohanastaka
 Eight Prayers Glorifying Sri Jagan-mohana
 
 Text 1
@@ -998,7 +998,7 @@ sevamrtenaiva nimajjanam syat
 May he who by reading these eight verses remembers Sriman Jagan-mohana-deva attain pure love of God.  May he become plunged into the nectar of direct service to the Lord’s feet.
 
 
-Anuraga-valli
+Song 14 Anuraga-valli
 The Vine of Love
 
 Text 1
@@ -1066,7 +1066,7 @@ etan varan me bhagavan prayaccha
 May I have millions of feet to go to Your side.  May I have millions of hands to serve You.  May I have millions of intelligences to teach that service.  O Lord, please grant me these boons.
 
 
-Sri Vrndadevy-astaka
+Song 15 Sri Vrndadevy-astaka
 Eight Prayers Glorifying Sri Vrnda-devi
 
 Text 1
@@ -1142,7 +1142,7 @@ tat-prema-sevam labhate krtarthah
 A person who is like a bumble bee at the lotus feet of Vrndavana’s king and queen, and who reads or hears this Vrndastaka, will eternally reside in Vrndavana and attain loving service to the divine couple.
 
 
-Sri Nandisvarastaka
+Song 16 Sri Nandisvarastaka
 Eight Prayers Glorifying Nandisvara Hill
 
 Text 1
@@ -1218,7 +1218,7 @@ etam janam kuru guru-pranayam dadhanam
 O Nandisvara Hill, O king of mountains, please be kind to they who try to glorify you by reading these prayers.  Even if such readers are infested with hundreds of sinful desires, please transform them into great devotees, full of devotion for their spiritual master, and thirsty for the nectar of Krsna’s lotus feet.
 
 
-Sri Vrndavanastaka
+Song 17 Sri Vrndavanastaka
 Eight Prayers Glorifying Sri Vrndavana
 
 Text 1
@@ -1294,7 +1294,7 @@ saksat labhante januso ‘nta eva
 They who with great concentration read aloud this Vrndavanastaka, at the end of this life attain direct service to the lotus feet of Vrndavana’s master.
 
 
-Sri Govardhanastaka
+Song 18 Sri Govardhanastaka
 Eight Prayers Glorifying Govardhana Hill
 
 Text 1
@@ -1370,7 +1370,7 @@ dasyam sa vinded acirena saksat
 May the reader of these eight verses glorifying Lord Hari’s greatest servant, his heart melting with pure love, quickly attain direct service to the lotus feet of Sri Sri Radha-Madhava.
 
 
-Sri Krsna-kundastaka
+Song 19 Sri Krsna-kundastaka
 Eight Prayers Glorifying Syama-kunda
 
 Text 1
