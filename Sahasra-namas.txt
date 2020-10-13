@@ -599,19 +599,20 @@ durgater nāśako durga-
  . . . who is the best (variṣṭha), who is the youngest (yaviṣṭha), who is the greatest (bhūriṣṭha), who is the master of the earth (bhuvaḥ patiḥ), who kills misfortune (durgater nāśaka), who saves the lost (durga-pālaka), who kills the wicked (duṣṭa-nāśaka), . . .
 
 
-Texts 60 and 61
+Texts 60
 
 kāliya-sarpa-damano
      yamunā-nirmalodakaḥ
 yamunā-puline ramye
      nirmāle pāvanodake
-
+ . . . who defeated the Kāliya serpent (kāliya-sarpa-damana), who played in the Yamunā's pure waters (yamunā-nirmalodaka),...
+Text 61
 vasantaṁ bāla-gopāla-
      rūpa-dhārī girām-patiḥ
 vāg-dātā vāk-prado vāṇī-
      nātho brāhmaṇa-rākṣakaḥ
 
- . . . who defeated the Kāliya serpent (kāliya-sarpa-damana), who played in the Yamunā's pure waters (yamunā-nirmalodaka), who is a cowherd boy playing on the charming shore of the pure Yamunā (yamunā-puline ramye nirmale pāvanodake vasantaṁ bāla-gopāla-rūpa-dhārī), who is the master of words (girām-pati and vāṇī-nātha), who speaks eloquent words (vāg-dātā and vāk-prada), who protects the brāhmaṇas (brāhmaṇa-rākṣaka), . . .
+... who is a cowherd boy playing on the charming shore of the pure Yamunā (yamunā-puline ramye nirmale pāvanodake vasantaṁ bāla-gopāla-rūpa-dhārī), who is the master of words (girām-pati and vāṇī-nātha), who speaks eloquent words (vāg-dātā and vāk-prada), who protects the brāhmaṇas (brāhmaṇa-rākṣaka), . . .
 
 
 Text 62
@@ -1508,11 +1509,9 @@ ity etat kathitaṁ devi
 
      O goddess, now I have spoken the thousand names of the Supreme Lord, Viṣṇu, who becomes a child.
 
-Śruti-phala
-The Result of Hearing
 
 
-Text 1
+Text 151
 
 yaḥ paṭhet paṭhayed vāpi
      śṛṇuyāt śrāvayīta vā
@@ -1522,22 +1521,24 @@ kiṁ phalaṁ labhate devi
      What result does one attain who reads, makes someone else read, hears, or makes someone else hear these names? O goddess, O beloved, I do not have the power to say.
 
 
-Texts 2 and 3
+Texts 152
 
 dvādaśyāṁ paurṇamāsyāṁ vā
      saptamyāṁ ravi-vāsare
 pakṣa-dvaye ca samprāpya
      hari-vāsaraṁ eva ca
+A person who on Dvādaśi, the full-moon day, Saptamī, Sunday, the two Pakṣas, or on Ekādaśī...
+Text 153
 
 ya paṭhet śṛṇuyād vāpi
      na janus tasya vidyate
 satyaṁ satyaṁ maheśāni
      satyaṁ satyaṁ na saṁśayaḥ
 
-     A person who on Dvādaśi, the full-moon day, Saptamī, Sunday, the two Pakṣas, or on Ekādaśī reads or hears these names does not take birth again. O goddess, this is the truth. It is the truth. It is the truth. It is the truth. Do not doubt it.
+...reads or hears these names does not take birth again. O goddess, this is the truth. It is the truth. It is the truth. It is the truth. Do not doubt it.
 
 
-Text 4
+Text 154
 
 ekādaśyāṁ śucir bhūtvā
      sevyā bhaktir hare śubhā
@@ -1547,7 +1548,7 @@ ekādaśyāṁ śucir bhūtvā
      A person who on Ekādaśi becomes clean, engages in auspicious service to Lord Hari, and hears these thousand names, is rescued from hell.
 
 
-Text 5
+Text 155
 
 nātaḥ parataraṁ stotraṁ
      nātaḥ parataro manuḥ
@@ -1557,7 +1558,7 @@ nātaḥ parataro devo
      No prayer is greater than this. No mantra is greater. In the four yugas no Deity is greater than He.
 
 
-Text 6
+Text 156
 
 hari-bhakteḥ parā nāsti
      mokṣa-śreṇī nagendraje
@@ -1567,22 +1568,23 @@ vaiṣṇavebhyaḥ paraṁ nāsti
      O daughter of the king of mountains, a host of liberations is not greater than devotion to Lord Hari. No one is greater than the Vaiṣṇavas. To Me they are more dear than life.
 
 
-Texts 7 and 8
+Texts 157
 
 vaiṣṇaveṣu ca saṅgo me
      sadā bhavatu sundari
 yasya vaṁśe kvacid daivād
      vaiṣṇavo rāga-varjitaḥ
-
+ O beautiful one, I pray that I may always have the Vaiṣṇavas' association.
+Text 158
 bhavet tad-vaṁśake ye ye
      pūrve syuḥ pitaras tathā
 bhavanti nirmalās te hi
      yānti nirvāṇatāṁ hare
 
-     O beautiful one, I pray that I may always have the Vaiṣṇavas' association. In a family where a renounced Vaiṣṇava takes birth all the ancestors become purified. They attain liberation in the world of Lord Hari.
+In a family where a renounced Vaiṣṇava takes birth all the ancestors become purified. They attain liberation in the world of Lord Hari.
 
 
-Text 9
+Text 159
 
 bahunā kiṁ ihoktena
      vaiṣṇavānāṁ tu darśanāt
@@ -1592,7 +1594,7 @@ nirmalāḥ pāpa-rahitāḥ
      What more can I say? By seeing a Vaiṣṇava, the sinful become pure and sinless. Of this there is no doubt.
 
 
-Text 10
+Text 160
 
 kalau bāleśvaro devaḥ
      kalau gaṅgaiva kevalā
@@ -1602,7 +1604,7 @@ kalau nāsty eva nāsty eva
      In Kali-yuga the boy Kṛṣṇa is the Deity. In Kali-yuga the Gaṅgā is the river. In Kali-yuga there is no other, no other, no other way.
 
 
-Text 11
+Text 161
 
 śrī-bāla-kṛṣṇasya sahasra-nāmnaḥ
      stotrasya kalpākhya-sura-drumasya
@@ -1612,7 +1614,7 @@ vyāso vadaty akhila-śāstra-nirdeśa-kartā
      After from Śuka hearing it, Vyāsa, the best of Surarṣis and the author of all the scriptures, spoke to the sages this desire-tree prayer of the thousand names of Śrī Bāla-Kṛṣṇa.
 
 
-Text 12
+Text 162
 
 parā maharṣayaḥ sarve
      nāradaṁ daṇḍake vane
@@ -1622,22 +1624,24 @@ jijñāsanti sma bhaktyā ca
      In the Daṇḍaka forest all the great sages with great devotion asked Nārada about these thousand names of Lord Gopāla.
 
 
-Texts 13 and 14
+Texts 163
 
 nāmnaḥ sahasraṁ paramaṁ
      śṛṇu devi samāsataḥ
 śrutvā śrī-bāla-kṛṣṇasya
      nāmnaḥ sahasrakaṁ priye
+     O goddess, please hear all of these thousand names. O beloved, when these thousand names of Lord Bāla-Kṛṣṇa are heard...
 
+Text 164
 vyāpaiti sarva-pāpāni
      brahma-hatyādikāni ca
 kalau bāleśvaro devaḥ
      kalau vṛndāvanaṁ vanam
 
-     O goddess, please hear all of these thousand names. O beloved, when these thousand names of Lord Bāla-Kṛṣṇa are heard the sin of killing a brāhmaṇa, and all other sins as well, perish. In Kali-yuga Bāla-Kṛṣṇa is the Deity. In Kali-yuga Vṛndāvana is the forest.
+   ...the sin of killing a brāhmaṇa, and all other sins as well, perish. In Kali-yuga Bāla-Kṛṣṇa is the Deity. In Kali-yuga Vṛndāvana is the forest.
 
 
-Text 15
+Text 165
 
 kalau gaṅgā mukti-dātrī
      kalau gītā parā gatiḥ
