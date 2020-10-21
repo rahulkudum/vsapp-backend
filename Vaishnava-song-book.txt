@@ -16,7 +16,7 @@ link HG Sivarama Prabhu https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajan
 link HH Bhakti Caru Swami https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_others/Adharam_Madhuram_Vadanam_Madhuram/Adharam_Madhuram_Vadanam_Madhuram-01_-_Sung_by_HH_Bhakti_Caru_Swami_IDT.mp3
 link HH Vedavyasa Priya Swami https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_others/Adharam_Madhuram_Vadanam_Madhuram/Adharam_Madhuram_Vadanam_Madhuram_-_Sung_by_HH_Vedavyasa_Priya_Swami_IDT.mp3
 Author: Vallabhacarya
-Book: More-Songs-of-the-Vaisnava-Acaryas/0
+book More-Songs-of-the-Vaisnava-Acaryas/0
 Official Name: Sri Madhurastakam
 
 Akrodha Paramananda, 66
@@ -26,7 +26,7 @@ link HG Sivarama Prabhu https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajan
 link HH Radhanath Swami https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Lochan_Das_Thakur/Akrodha_Paramananda/Akrodha_Paramananda_-_Sung_by_HH_Radhanath_Swami_IDT.mp3
 link HH Vedavyasa Priya Swami https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Lochan_Das_Thakur/Akrodha_Paramananda/Akrodha_Paramananda-01_-_Sung_by_HH_Vedavyasa_Priya_Swami_IDT.mp3
 Author: Locana Dasa Thakura
-Book: More-Songs-of-the-Vaisnava-Acaryas/1
+book More-Songs-of-the-Vaisnava-Acaryas/1
 
 Amar Jivan,
 link Srila Prabhupada https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Bhaktivinoda_Thakur/Amar_Jivan/Amar_Jivan_-_Sung_by_His_Divine_Grace_A_C_Bhaktivedanta_Swami_Prabhupada_IDT.mp3
@@ -36,7 +36,7 @@ link HH Bhakti Caru Swami https://audio.iskcondesiretree.com/06_-_More/10_-_Bhaj
 link HH Radhanath Swami https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Bhaktivinoda_Thakur/Amar_Jivan/Amar_Jivan_-_Sung_by_HH_Radhanath_Swami_IDT.mp3
 link HH Suhotra Swami https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Bhaktivinoda_Thakur/Amar_Jivan/Amar_Jivan_-_Sung_by_HH_Suhotra_Swami_IDT.mp3
 Author: Bhaktivinoda Thakura
-Book: Saranagati/1/3
+book Saranagati/1/3
 Official Name: Dainya Song 4
 
 Amar Nitai Mile Na, 100
@@ -47,7 +47,7 @@ Author:  Traditional
 Ambudanjanendra Nila, 80
 link HG Jai Sachinanadana Prabhu https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Krsnadasa_Kaviraja_Goswami/Ambudanjanendra_Nila/Ambudanjanendra_Nila_-_Sung_by_HG_Jai_Sachinanadana_Prabhu_IDT.mp3
 Author: Krsnadasa Kaviraja
-Book: More-Songs-of-the-Vaisnava-Acaryas/2
+book More-Songs-of-the-Vaisnava-Acaryas/2
 Official Name: Sri Krsna Candrastakam
 
 Ami Jamuna Puline, 19
@@ -59,13 +59,13 @@ link HG Sivarama Prabhu https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajan
 link HG Vaiyasaki Prabhu https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Bhaktivinoda_Thakur/Ami_Jamuna_Puline/Ami_Jamuna_Puline_-_Sung_by_HG_Vaiyasaki_Prabhu_IDT.mp3
 Author: Bhaktivinoda Thakura
 Official Name: Lila Kirtana Song 2
-Book: Kalyanakalpataru/12/1
+book Kalyanakalpataru/12/1
 
 Ami To’ Durjana Ati Sada Duracar, 19
 link HG Jai Sachinanadana Prabhu https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Bhaktivinoda_Thakur/Ami_To_Durjana_Ati_Sada_Duracar/Ami_To_Durjana_Ati_Sada_Duracar_-_Sung_by_HG_Jai_Sachinanadana_Prabhu_IDT.mp3
 Author: Bhaktivinoda Thakura
 Official Name: Ucchvasa: Prarthana Dainyamayi Song 2
-Book: Kalyanakalpataru/5/1
+book Kalyanakalpataru/5/1
 
 Anadi Karama Phale, 20   
 link Srila Prabhupada https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Bhaktivinoda_Thakur/Anadi_Karama_Phale/Anadi_Karama_Phale_-_Sung_by_His_Divine_Grace_A_C_Bhaktivedanta_Swami_Prabhupada_IDT.mp3
@@ -74,13 +74,13 @@ link HG Sivarama Prabhu https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajan
 link HH Suhotra Swami https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Bhaktivinoda_Thakur/Anadi_Karama_Phale/Anadi_Karama_Phale_-_Sung_by_HH_Suhotra_Swami_IDT.mp3
 Author: Bhaktivinoda Thakura
 Official Name: Sri Siksastakam Song 5
-Book: Gitavali/11/4
+book Gitavali/11/4
 
 Antara Mandire Jago Jago, 101
 link HH Lokanatha Swami https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_others/Antara_Mandire_Jago_Jago/Antara_Mandire_Jago_Jago_-_Sung_by_HH_Lokanatha_Swami_IDT.mp3
 link HH Vedavyasa Priya Swami https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_others/Antara_Mandire_Jago_Jago/Antara_Mandire_Jago_Jago-01_-_Sung_by_HH_Vedavyasa_Priya_Swami_IDT.mp3
 Author:  Mira Bai
-Book: More-Songs-of-the-Vaisnava-Acaryas/4
+book More-Songs-of-the-Vaisnava-Acaryas/4
 
 Ar Ke Bajabe Bamsi, 101
 link Vaishnavas https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_others/Ar_Ke_Bajabe_Bamsi/Ar_Ke_Bajabe_Bamsi_-_IDT.mp3
@@ -91,20 +91,20 @@ link HG Jai Sachinanadana Prabhu https://audio.iskcondesiretree.com/06_-_More/10
 link HG Sivarama Prabhu https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Bhaktivinoda_Thakur/Ara_Keno_Maya_Jale/Ara_Keno_Maya_Jale_-_Sung_by_HG_Sivarama_Prabhu_IDT.mp3
 Author: Bhaktivinoda Thakura
 Official Name: Sreyo-Nirnaya Song 2
-Book: Gitavali/8/1
+book Gitavali/8/1
 
 Ar Koto Kal, 101 
 link HH Vedavyasa Priya Swami https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_others/Ar_Koto_Kal/Ar_Koto_Kal_-_Sung_by_HH_Vedavyasa_Priya_Swami_IDT.mp3
 link Vaishnava (01) https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_others/Ar_Koto_Kal/Ar_Koto_Kal-01_-_IDT.mp3
 link Vaishnavas (02) https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_others/Ar_Koto_Kal/Ar_Koto_Kal-02_-_IDT.mp3 
 Author:  Mira Bai
-Book: More-Songs-of-the-Vaisnava-Acaryas/5
+book More-Songs-of-the-Vaisnava-Acaryas/5
 
 Are Bhai Bhaja Mora, 53
 link HG Jai Sachinanadana Prabhu https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Narottam_Das_Thakur/Are_Bhai_Bhaja_Mora_Gauranga_Carana/Are_Bhai_Bhaja_Mora_Gauranga_Carana_-_Sung_by_HG_Jai_Sachinanadana_Prabhu_IDT.mp3
 Author: Narottama Dasa Thakura
 Official Name: Gauranga Nistha
-Book: Prarthana/13/0
+book Prarthana/13/0
 
 Asalo Katha Bolte, 21
 link HG Jai Sachinanadana Prabhu https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Bhaktivinoda_Thakur/Asalo_Katha_Bolte/Asalo_Katha_Bolte_-_Sung_by_HG_Jai_Sachinanadana_Prabhu_IDT.mp3
@@ -115,7 +115,7 @@ Atma Nivedana Tuwa Pade, 21
 link HG Jai Sachinanadana Prabhu https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Bhaktivinoda_Thakur/Atma_Nivedana_Tuwa_Pade/Atma_Nivedana_Tuwa_Pade_-_Sung_by_HG_Jai_Sachinanadana_Prabhu_IDT.mp3
 Author: Bhaktivinoda Thakura
 Official Name: Atma Nivedana Song 8
-Book: Saranagati/2/8
+book Saranagati/2/8
 
 Avatara Sara Gora Avatara, 65
 link HG Jai Sachinanadana Prabhu  https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Lochan_Das_Thakur/Avatara_Sara_Gora_Avatara/Avatara_Sara_Gora_Avatara_-_Sung_by_HG_Jai_Sachinanadana_Prabhu_IDT.mp3
@@ -1495,7 +1495,7 @@ link HG Jai Sachinanadana Prabhu https://audio.iskcondesiretree.com/06_-_More/10
 Sarac Candra Bhrantim
 link HH Bhakti Caru Swami https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Krsna_Daipayana_Vyasa/Nityanandastakam/Nityanandastakam_-_Sung_by_HH_Bhakti_Caru_Swami_IDT.mp3
 Author: Prabhodananda Sarasvati
-Book: other-songs/0
+book other-songs/0
 Official Name: Nityanandastakam
 
 
