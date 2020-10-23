@@ -424,7 +424,7 @@ pūrila sakala manoratha ithe bañcita, narahari biphala janama dhika jībane
      Text 4 Wild with bliss, He freely gives away the precious jewels of spiritual love. He removes all calamities. The worlds are filled with His glories. He fulfills everyone’s desire. Only Narahari’s desire is not fulfilled. Narahari’s birth and life in this world is fruitless and pathetic. 
 
  
-Song 20 (Naṭa-rāga)
+Song Text 20 (Naṭa-rāga)
  
 
 Text 1 nācata śacī-tanaya gaura-mādhurī mana mohe
@@ -670,7 +670,7 @@ rāya anantera hiyā nā bhulila rase
      Text 4 A monsoon of ecstatic spiritual love brings great floods. All of Śāntipura floats in those waters. Alas! Ananta Rāya’s heart was not swept away by those flooding nectar waters.
 
  
-Song 30 (Suha-i-rāga)
+Song Text 30 (Suha-i-rāga)
  
 
 Text 1 saṅkīrtana chale      gaura nitā-i
@@ -3025,7 +3025,7 @@ hena dayāmaya pahuṁ caraṇe bimukha
      Text 8 How can anyone turn away from the feet of merciful Lord Advaita, Lord Advaita who is Narahari dāsa’s very life?
 
  
-Song 120 (Aśābarī-rāga)
+Song 1Text 20 (Aśābarī-rāga)
  
 
 Text 1 dekha adwaita guṇera maṇi
@@ -3295,7 +3295,7 @@ kṛpā kari rākha more pada-chāyā diyā
      Text 4 Vāsudeva Ghoṣa says: O Lord, I grasp Your feet. Please be kind and give me protection in the shade of Your feet.
 
  
-Song 130 (Śrī-rāga)
+Song 1Text 30 (Śrī-rāga)
  
 
 Text 1 āre mora gaurāṅga soṇā
@@ -3887,15 +3887,15 @@ Text 8 jaya jaya śrībāsa jaya gadādhara
 jaya swarūpa rāmānanda premera sāgara
 Text 9 jaya jaya sanātana jaya śrī-rūpa
 jaya jaya raghunātha prāṇera swarūpa
-Text 10 jaya gaura-bhakta-bṛnda dayā kara more
+Text  jaya gaura-bhakta-bṛnda dayā kara more
 sabāra caraṇa-dhūli dhari nija śire
-1Text 1 jaya jaya nīlācala-candra jagannātha
+Text 11 jaya jaya nīlācala-candra jagannātha
 mo pāpire dayā kari kara ātma-sātha
-1Text 2 jaya jaya gopāla deba bhakata-batsala
+Text 12 jaya jaya gopāla deba bhakata-batsala
 naba ghana jini tanu parama ujjwala
-1Text 3 jaya jaya gopīnātha prabhu prāṇa mora
+Text 13 jaya jaya gopīnātha prabhu prāṇa mora
 purī gosāñīra lāgi yāra nāma kṣīra-cora
-1Text 4 śrī-guru-baiṣṇaba-pāda-padma kari āśa
+Text 14 śrī-guru-baiṣṇaba-pāda-padma kari āśa
 nāma saṅkīrtana kahe narottama dāsa
 
 
@@ -3909,10 +3909,10 @@ nāma saṅkīrtana kahe narottama dāsa
      Text 8 Glory, glory to Śrīvāsa! Glory to Gadādhara! Glory to Svarūpa Dāmodara and Rāmānanda Rāya, who are like oceans of ecstatic spiritual love!
      Text 9 Glory to Rūpa Gosvāmī and Sanātana Gosvāmī! Glory to Svarūpa Dāmodara Gosvāmī, who is Raghunātha dāsa Gosvāmī's very life! 
      Text 10 Glory to Lord Gaura's devotees! O devotees, please be merciful to me. I take the dust of all your feet. I place that dust upon my head.
-     1Text 1 Glory, glory to Lord Jagannātha, the moon of Nīlācala! O Lord, please be kind and accept this sinner as one of Your personal associates.
-     1Text 2 Glory, glory to Lord Gopāla, who loves the devotees, and whopse glorious form is more splendid than new monsoon clouds!
-     1Text 3 Glory, glory to Lord Gopīnātha, who is like my life and breath! Iśvara Purī Gosvāmī explained that this Deity bears the name Kṣīra-cora.
-     1Text 4 The lotus feet of his spiritual master and the Vaiṣṇavas the only goal he yearns to attain, Narottama dāsa sings this song of holy names.
+     Text 11 Glory, glory to Lord Jagannātha, the moon of Nīlācala! O Lord, please be kind and accept this sinner as one of Your personal associates.
+     Text 12 Glory, glory to Lord Gopāla, who loves the devotees, and whopse glorious form is more splendid than new monsoon clouds!
+     Text 13 Glory, glory to Lord Gopīnātha, who is like my life and breath! Iśvara Purī Gosvāmī explained that this Deity bears the name Kṣīra-cora.
+     Text 14 The lotus feet of his spiritual master and the Vaiṣṇavas the only goal he yearns to attain, Narottama dāsa sings this song of holy names.
 
  
 Song 153 (Gurjarī-rāga)
@@ -3938,21 +3938,21 @@ Text 9 jaya jaya sarba-śreṣṭha śrī-bṛndābana
 debera agocara sthāna kandarpa-mohana
 Text 10 jaya jaya lalitā-kuṇḍa jaya śyāma-kuṇḍa
 jaya jaya rādhā-kuṇḍa pratāpa pracaṇḍa
-1Text 1 jaya jaya mānasa-gaṅgā jaya gobardhana
+Text 11 jaya jaya mānasa-gaṅgā jaya gobardhana
 jaya jaya dāna-ghāṭa līlā sarbottama
-1Text 2 jaya jaya nanda-ghāṭa jaya akṣara-baṭa
+Text 12 jaya jaya nanda-ghāṭa jaya akṣara-baṭa
 jaya jaya cīra-ghāṭa yamunā nikaṭa
-1Text 3 jaya jaya keśi-ghāṭa parama mohana
+Text 13 jaya jaya keśi-ghāṭa parama mohana
 jaya baṁśī-baṭa rādhā-kṛṣṇa manorama
-1Text 4 jaya jaya rāma-ghāṭa parama nirjana
+Text 14 jaya jaya rāma-ghāṭa parama nirjana
 yāṁhā rāsa-līlā kaila rohiṇī-nandana
-1Text 5 jaya jaya bimala-kuṇḍa jaya nandīśwara
+Text 15 jaya jaya bimala-kuṇḍa jaya nandīśwara
 jaya jaya kṛṣṇa-keli pābana-sarobara
-1Text 6 jaya jaya yābaṭa grāma abhimanyālaya
+Text 16 jaya jaya yābaṭa grāma abhimanyālaya
 sakhī saṅge rā-i yāṁhā sadā birājaya
-1Text 7 jaya jaya bṛṣabhānu-pura nāme grāma
+Text 17 jaya jaya bṛṣabhānu-pura nāme grāma
 jaya jaya saṅkeṭa rādhā-kṛṣṇa-līlā-sthāna
-1Text 8 śrī-guru-baiṣṇaba-pāda-padma kari āśa
+Text 18 śrī-guru-baiṣṇaba-pāda-padma kari āśa
 nāma saṅkīrtana kahe narottama dāsa
 
 
@@ -3966,14 +3966,14 @@ nāma saṅkīrtana kahe narottama dāsa
      Text 8 Glory, glory to Madhuvana, the place where the Lord drinks honey! It is there that Lord Balarāma becomes intoxicated by drinking honey.
      Text 9 Glory, glory to Śrī Vṛndāvana, the best of all the forests! That place is more enchanting than Kāmadeva. Even the demigods cannot understand that place.
      Text 10 Glory, glory to Lalitā-kuṇḍa! Glory to Śyāma-kuṇḍa! Glory, glory to Rādhā-kuṇḍa, which is supremely glorious!
-     1Text 1 Glory, glory to Mānasa-gaṅgā! Glory to Govardhana! Glory, glory to Dāna-ghāṭa, where the Lord enjoys the most sublime pastimes!
-     1Text 2 Glory, glory to Nanda-ghāṭa! Glory to Akṣara-vaṭa! Glory, glory to Cīra-ghāṭa, near the Yamunā! 
-     1Text 3 Glory, glory to Keśi-ghāṭa, which is supremely charming! Glory to Vaṁśī-vaṭa, which delights the hearts of Śrī Śrī Rādhā and Kṛṣṇa!
-     1Text 4 Glory, glory to Rāma-ghāṭa, which is very secluded! It is there that Lord Balarāma enjoys the rāsa dance.
-     1Text 5 Glory, glory to Vimala-kuṇḍa! Glory to Nandīśvara! Glory, glory to Pāvana-sarovara, where Lord Kṛṣṇa enjoys many pastimes!
-     1Text 6 Glory, glory to Yāvaṭa-grāma, Abhimanyu's home! Rādhā and Her friends are gloriously manifest there always.
-     1Text 7 Glory, glory to the village named Vṛṣabhānu-pura! Glory, glory to Saṅkeṭa, where Rādhā and Kṛṣṇa enjoy many pastimes!
-     1Text 8 The lotus feet of his spiritual master and the Vaiṣṇavas the only goal he yearns to attain, Narottama dāsa sings this song of holy names.
+     Text 11 Glory, glory to Mānasa-gaṅgā! Glory to Govardhana! Glory, glory to Dāna-ghāṭa, where the Lord enjoys the most sublime pastimes!
+     Text 12 Glory, glory to Nanda-ghāṭa! Glory to Akṣara-vaṭa! Glory, glory to Cīra-ghāṭa, near the Yamunā! 
+     Text 13 Glory, glory to Keśi-ghāṭa, which is supremely charming! Glory to Vaṁśī-vaṭa, which delights the hearts of Śrī Śrī Rādhā and Kṛṣṇa!
+     Text 14 Glory, glory to Rāma-ghāṭa, which is very secluded! It is there that Lord Balarāma enjoys the rāsa dance.
+     Text 15 Glory, glory to Vimala-kuṇḍa! Glory to Nandīśvara! Glory, glory to Pāvana-sarovara, where Lord Kṛṣṇa enjoys many pastimes!
+     Text 16 Glory, glory to Yāvaṭa-grāma, Abhimanyu's home! Rādhā and Her friends are gloriously manifest there always.
+     Text 17 Glory, glory to the village named Vṛṣabhānu-pura! Glory, glory to Saṅkeṭa, where Rādhā and Kṛṣṇa enjoy many pastimes!
+     Text 18 The lotus feet of his spiritual master and the Vaiṣṇavas the only goal he yearns to attain, Narottama dāsa sings this song of holy names.
 
  
 Song 154 (Gurjarī-rāga)
@@ -3999,9 +3999,9 @@ Text 9 śuna śuna āre bhā-i karita prārthanā
 braje rādhā-kṛṣṇa-sebā karaha bhābanā
 Text 10 chāḍi anya karma asat ālāpane
 braje rādhā-kṛṣṇa karaha bhābane
-1Text 1 iha saba līlā-sthāna ye kare smaraṇa
+Text 11 iha saba līlā-sthāna ye kare smaraṇa
 janme janme śire dharoṁ tāṁhāra caraṇa
-1Text 2 śrī-guru-baiṣṇaba-pāda-padma kari āśa
+Text 12 śrī-guru-baiṣṇaba-pāda-padma kari āśa
 nāma saṅkīrtana kahe narottama dāsa
 
 
@@ -4015,8 +4015,8 @@ nāma saṅkīrtana kahe narottama dāsa
      Text 8 Glory, glory to the jewel pavilion and the jewel throne! Glory, glory to the gopīs that are Rādhā and Kṛṣṇa's friends and associates!
      Text 9 Listen, listen, O my brother. Meditate on service to Rādhā and Kṛṣṇa in Vraja. Pray that you will attain service to Them there.
      Text 10 Turn away from all other duties. Turn away from useless gossip. Meditate on Rādhā and Kṛṣṇa in Vraja.
-     1Text 1 Birth after birth I place on my head the feet of anyone who meditates on all these pastime places.
-     1Text 2 The lotus feet of his spiritual master and the Vaiṣṇavas the only goal he yearns to attain, Narottama dāsa sings this song of holy names.
+     Text 11 Birth after birth I place on my head the feet of anyone who meditates on all these pastime places.
+     Text 12 The lotus feet of his spiritual master and the Vaiṣṇavas the only goal he yearns to attain, Narottama dāsa sings this song of holy names.
 
  
 Song 155 (Dhānaśī-rāga)
@@ -4314,32 +4314,6 @@ karuṇāra jala siñca tabe rakṣā pā-i
      Text 6 "Save me! Save me, O Vaiṣṇava Gosāi! Throw upon me the water of your mercy and save me!"
 
  
-Song 166 (Suha-i-rāga)
- 
-
-Text 1 nikuñja nibāse        mahā-rāsa-rase
-          rasika-śekhara ye
-so rādhā-ballabha        jagata durlabha
-          āmāra ballabha se
-Text 2 yāra bāṅkā āṅkhi      gopī hiyā dekhi
-          hoyata tikhinī śara
-so gopikeśwara      biśwera īśwara
-          se-i mora prāṇeśwara
-Text 3 gopī-kuca-kumbhe      yo kara pallabe
-          hoyata parama śotā
-kāṭe bhaba-bandha        tachu pada-dwandwa
-          munira mānasa lobhā
-Text 4 yo pahuṁ gokule       gopīra dukūle
-          corā-ola hāsi hāsi
-e gokula dāse       tāra pada āśe
-          dhyāyaye dibasa niśi
-
-
-     Text 1 Rādhā's beloved, who is the crown of rasikas, who enjoys pastimes in the forest, who tastes the nectar of rāsa-dance pastimes, and whois rarely found in this world, is my dear Lord.
-     Text 2 His crooked glances are sharp arrows that pierce the gopīs' hearts. He is the master of the gopīs. He is the master of all the worlds. He is the master of my life.
-     Text 3 His hands are leaves and flowers in the vases of the gopiś' breasts. His feet cut the bonds of repeated birth and death. The sages' hearts yearn to attain Him.
-     Text 4 He is the master of Gokula. Laughing and laughing, He stole the gopīs' garments. This Gokula dāsa yearns to attain Him. Gokula dāsa meditates on Him night and day.
-
  
 Song 167 (Dhānaśī-rāga)
  
@@ -4447,21 +4421,21 @@ Text 9 thira nāhi haya prabhura nayanera jala
 dīna-hīna janere dhariyā deya kola
 Text 10 dheyāṁiyā pūraba pirīti parasaṅga
 nā jāni kāhāra bhābe ha-iyā tri-bhaṅga
-1Text 1 prema-rase bhāsā-iyā akhila saṁsāra
+Text 11 prema-rase bhāsā-iyā akhila saṁsāra
 phuṭila śrī-bṛndābana suradhunī dhāra
-1Text 2 brahmā maheśwara yāre kare anweṣaṇa
+Text 12 brahmā maheśwara yāre kare anweṣaṇa
 bhābiyā nā pāna yāṁre sahasra-locana
-1Text 3 matta mātaṅga gati madhura mṛdu hāsa
+Text 13 matta mātaṅga gati madhura mṛdu hāsa
 yaśomati mātā yāṁra bhubane prakāśa
-1Text 4 ratipati jini rūpa ati manohara
+Text 14 ratipati jini rūpa ati manohara
 līlā lābaṇya yāra ati anupama
-1Text 5 basudeba-suta se-i śrī-nanda-nandana
+Text 15 basudeba-suta se-i śrī-nanda-nandana
 śacīra nandana ebe bale sarba-jana
-1Text 6 catur-bhuja rūpa haila aty-āścarya-maya
+Text 16 catur-bhuja rūpa haila aty-āścarya-maya
 sābadhāna prāṇa-nātha gorā rasamaya
-1Text 7 hari hari bala bhā-i kara mahā-yajña
+Text 17 hari hari bala bhā-i kara mahā-yajña
 kṣiti-tale janmi keha nā haiya abijña
-1Text 8 e cautriśa padābalī ye kare kīrtana
+Text 18 e cautriśa padābalī ye kare kīrtana
 dāsa narottama māge tāhāre caraṇa
 
 
@@ -4475,14 +4449,14 @@ dāsa narottama māge tāhāre caraṇa
      Text 8 Lord Gaurāṅga's ears never listened to anything but descriptions of Lord Kṛṣṇa. His heart was plunged in the nectar of songs glorifying Lord Kṛṣṇa.
      Text 9 He could not be peaceful. Tears of ecstatic spiritual love flowed from Lord Gaurāṅga's eyes. The Lord hugged the poor fallen souls.
      Text 10 He meditated on the loving pastimes He previously enjoyed with His associates, pastimes He enjoyed as Lord Kṛṣṇa. Who was the person with a threefold-bending form standing before Him? He did not know.
-     1Text 1 He made the whole world float in the nectar of ecstatic spiritual love. On the Gaṅgā's banks He manifested the beautiful spiritual world of Vṛndāvana.
-     1Text 2 Brahmā, Śiva, and all the demigods search for Him. Thousand-eyed Indra meditates on Him but cannot find Him.
-     1Text 3 He walked like a graceful intoxicated elephant. His gentle smile was sweet. In His home Mother Yaśodā was present.
-     1Text 4 His charming form defeated Kāmadeva. His handsomeness and playfulness were without peer.
-     1Text 5 Everyone says that Lord Kṛṣṇa, who was the son of Vasudeva and the son of Nanda, has now become Śacī's son. 
-     1Text 6 He manifested a wonderful six-armed form. Lord Gaura is sweet like nectar. He is the master of my life.
-     1Text 7 O my brothers, please chant, "Hari! Hari!" Please perform a great yajña of chanting Lord Hari's holy names. Now that everyone chants the holy names, no one remains foolish and bewildered on the surface of the earth.
-     1Text 8 Narottama dāsa prays at the feet of anyone who chants these 34 lines.
+     Text 11 He made the whole world float in the nectar of ecstatic spiritual love. On the Gaṅgā's banks He manifested the beautiful spiritual world of Vṛndāvana.
+     Text 12 Brahmā, Śiva, and all the demigods search for Him. Thousand-eyed Indra meditates on Him but cannot find Him.
+     Text 13 He walked like a graceful intoxicated elephant. His gentle smile was sweet. In His home Mother Yaśodā was present.
+     Text 14 His charming form defeated Kāmadeva. His handsomeness and playfulness were without peer.
+     Text 15 Everyone says that Lord Kṛṣṇa, who was the son of Vasudeva and the son of Nanda, has now become Śacī's son. 
+     Text 16 He manifested a wonderful six-armed form. Lord Gaura is sweet like nectar. He is the master of my life.
+     Text 17 O my brothers, please chant, "Hari! Hari!" Please perform a great yajña of chanting Lord Hari's holy names. Now that everyone chants the holy names, no one remains foolish and bewildered on the surface of the earth.
+     Text 18 Narottama dāsa prays at the feet of anyone who chants these 34 lines.
 
      Note: The first letters of the lines of this song follow the sequence of consonants in the Bengali alphabet (k, kh, g, gh, ṅ, c, ch, j, jh, ñ, ṭ, ṭh, ḍ, ḍh, ṇ, t, th, d, dh, n, p, ph, b, bh, m, y, r, l, b, ś, ṣ, s, h, kṣ).
 
@@ -4510,57 +4484,57 @@ Text 9 baṁśīra ballabha nabadwīpa sunāgara
 bhubana-bijāyī sarba-jana-mugdha-kara
 Text 10 rasikendra cūḍā-maṇi rasika su-ṭhāma
 bhaktādhīna bhakta-priya sarbānanda-dhāma
-1Text 1 swarūpera sukha-dātā rūpera jībana
+Text 11 swarūpera sukha-dātā rūpera jībana
 śrī-sanātanera nātha nitya sanātana
-1Text 2 śrī-jība-batsala prabhu bhakata-batsala
+Text 12 śrī-jība-batsala prabhu bhakata-batsala
 bhaṭṭa gosāñīra priya durbalera bala
-1Text 3 śrī-raghunāthera nātha śrībāsera bāsa
+Text 13 śrī-raghunāthera nātha śrībāsera bāsa
 bhagabān bhakta-rūpa ananta-prakāśa
-1Text 4 lokanātha lokāśraya bhakata-rañjana
+Text 14 lokanātha lokāśraya bhakata-rañjana
 śrī-raghunātha dāsera hṛdayera dhana
-1Text 5 abhirāma ṭhākurera sakhā sarba-pātā
+Text 15 abhirāma ṭhākurera sakhā sarba-pātā
 cintāmaṇi cintanīya hari-nāma-dātā
-1Text 6 parameśa parāt-para duḥkha-bimocana
+Text 16 parameśa parāt-para duḥkha-bimocana
 jagā-i mādhā-i ādi pāpī uddhāraṇa
-1Text 7 rasa-rāja-mūrti rāmānanda-bimohana
+Text 17 rasa-rāja-mūrti rāmānanda-bimohana
 sārbabhauma paṇḍitera garba bināśana
-1Text 8 amoghera prāṇa-dātā durjana-dalana
+Text 18 amoghera prāṇa-dātā durjana-dalana
 pūrṇa-kāma nirmalātmā lajjā-nikāraṇa
-1Text 9 paramātmā sārāt-sāra baiṣṇaba-jībana
+Text 19 paramātmā sārāt-sāra baiṣṇaba-jībana
 sukha-dātā sukhamaya bhubana-bhābana
-20. biśwa-rūpa biśwa-nātha biśwa-bimohana
+Text 20. biśwa-rūpa biśwa-nātha biśwa-bimohana
 śrī-gaura gobinda bhakta-citta-surañjana
-2Text 1 nayanera abhirāma bhābuka-ramaṇa
+Text 21 nayanera abhirāma bhābuka-ramaṇa
 bhakta-citta-cora bhakta-citta-binodana
-2Text 2 nadīyā-bihārī hari ramaṇī-mohana
+Text 22 nadīyā-bihārī hari ramaṇī-mohana
 dwija-kula-candra dwija-kula-pūjyatama
-2Text 3 su-kabi śrī-nidhi-dakṣa nayana-rañjana
+Text 23 su-kabi śrī-nidhi-dakṣa nayana-rañjana
 bāreka āmāra hṛde deha śrī-caraṇa
-2Text 4 bhābuka sannyāsī saba jība-bistāraka
+Text 24 bhābuka sannyāsī saba jība-bistāraka
 bhābuka janāra sukha-dātā su-nayaka
-2Text 5 pratāparuderara abhilāṣa pūrṇa-kārī
+Text 25 pratāparuderara abhilāṣa pūrṇa-kārī
 swarūpādi bhakatera sada ājñā-kārī 
-2Text 6 sarba-abatāra-sāra karuṇā-nidhāna
+Text 26 sarba-abatāra-sāra karuṇā-nidhāna
 parama udāra prabhu more kara trāṇa
-2Text 7 ananta prabhura nāma ananta mahimā
+Text 27 ananta prabhura nāma ananta mahimā
 anantādi debe yāre dite nāre sīmā
-2Text 8 gaurāṅga madhura nāma kara mana sāra
+Text 28 gaurāṅga madhura nāma kara mana sāra
 yāṁhā binā kali-yuge gati nāhi āra
-2Text 9 ye-i nāma se-i gorā jānahi niścaya
+Text 29 ye-i nāma se-i gorā jānahi niścaya
 nāmera sahita prabhu satata āchaya
-30. gaura-nāma hari-nāma eka-i ye haya
+Text 30. gaura-nāma hari-nāma eka-i ye haya
 bhāgabata bākya e-i kabhu mithyā naya
-3Text 1 kara kara ore mana nāma-saṅkīrtana
+Text 31kara kara ore mana nāma-saṅkīrtana
 pāpa tāpa dūre yābe pābe prema-dhana
-3Text 2 gaura-nāma kṛṣṇa-nāma ati su-madhura
+Text 32gaura-nāma kṛṣṇa-nāma ati su-madhura
 sadā āswādaye ye-i se saba catura
-3Text 3 śiba ādi ye-i nāma sadā kare gāna
+Text 33 śiba ādi ye-i nāma sadā kare gāna
 se nāme bañcita haile kise habe trāṇa
-3Text 4 e-i śata aṣṭa nāma ye kare paṭhana
+Text 34 e-i śata aṣṭa nāma ye kare paṭhana
 anāyāse pāya se-i caitanya-caraṇa
-3Text 5 śata āsta nāma ye-i karaye srabaṇa
+Text 35 śata āsta nāma ye-i karaye srabaṇa
 tāra prati tuṣṭa sadā śacīra nandana
-3Text 6 śrī-jahnabā rāma-pada kariyā śaraṇa
+Text 36 śrī-jahnabā rāma-pada kariyā śaraṇa
 śata āsta nāma gāya e śacīnandana
 
 
@@ -4574,32 +4548,32 @@ tāra prati tuṣṭa sadā śacīra nandana
      Text 8 He is dear to Jagadānanda. He is like a glistening moon in Navadvīpa. He is worshiped by Lord Advaita. He is Lord Kṛṣṇa HImself. He is the Supreme Person. He is supremely independent.
      Text 9 He is dear to Vaṁśī dāsa Ṭhākura. He is the hero of Navadvīpa. He is victorious in all the worlds. He enchants all people .
      Text 10 He is the crest jewel of the kings of rasikas. He is the shelter of the rasikas. He is controlled by His devotees. He is dear to His devotees. He is the abode of all bliss
-     1Text 1 He delights Svarūpa Dāmodara . He is the life of Rūpa Gosvāmī. He is the master of Śrī Sanātana Gosvāmī. He is eternal.
-     1Text 2 He is affectionate to Śrī Jīva Gosvāmī. He is the supreme master. He is affectionate to the devotees. He is dear to Gopala Bhaṭṭa Gosvāmī Gosvāmī. He is the strength of the weak.
-     1Text 3 He is the master of Śrī Raghunātha Bhaṭṭa Gosvāmī. He is the abode where Śrīvāsa Ṭhākura takes shelter. He is the Supreme Personality of Godhead manifest as a devotee. His manifestations have no end.
-     1Text 4 He is the master of the worlds. He is the shelter of the worlds. He delights the devotees. He is the treasure in Śrī Raghunātha dāsa Gosvāmī's heart.
-     1Text 5 He is Abhirāma Ṭhākura's friend. He is everyone's protector. He is like a cintāmaṇi jewel. He is the object of meditation. He gives the gift of Lord Hari's holy names.
-     1Text 6 He is the supreme controller. He is greater than the greatest. He is the deliverer from suffering. He delivers Jagāi, Mādhāi, and a host of other sinners .
-     1Text 7 He is the personified king of rasa. He enchants Rāmānanda Rāya. He destroyed Sārvabhauma Paṇḍita's pride. 
-     1Text 8 He revived Amogha. He rips apart the demons. He fulfills all desires. He is supremely pure. He removes the devotees' shyness.
-     1Text 9 He is the Paramātmā. He is the best of the best. He is the life of the Vaiṣṇavas. He is the giver of bliss. He is full of bliss. He is the creator of all the worlds.
-     20. He is the universal form. He is the master of the universes. He enchants all the universes. He is handsome and fair. He is Lord Govinda Himself. He delights the devotees' hearts
-     2Text 1 He delights the eyes. He delights the devotees. He robs the devotees' hearts. He delights the devotees' hearts.
-     2Text 2 He enjoys pastimes in Nadīyā. He is Lord Hari Himself, Lord Hari who charms the gopīs. He is the moon of the brāhmaṇas. He is the most worshipable of all brāhmaṇas.
-     2Text 3 He is the greatest poet. He is a treasure of glory and handsomeness. He delights the eyes. O Lord, this one time please place Your glorious feet in my heart.
-     2Text 4 He is ausopicious and glorious. He delights the people. He is the greatest hero.
-     2Text 5 He fulfilled King Pratāparudra's desire. He always accepts the advice given by Svarūpa Dāmodara and other trusted devotees. 
-     2Text 6 He is the best of all avatāras. He is the abode of compassion. He is the most generous. O Lord, please protect me.
-     2Text 7 His holy names are limitless. His glories are limitless. Neither Lord Ananta nor any other deva can see the limits of His glories.
-     2Text 8 O Lord Gaurāṅga, please place Your sweet holy names in my heart. In the Kali-yuga there is no shelter but You.
-     2Text 9 Please know for certain that Lord Gaura is the same as His name. The Lord is always manifest whenever His holy name is spoken.
-     30. The name Gaura and the name Hari are one. This is the statement of Śrīmad-Bhāgavatam and the devotees. Their words are never untrue.
-     3Text 1 O my heart, please chant these holy names of the Lord. Then you will throw sins and sufferings far away. Then you will attain the treasure of ecstatic spiritual love.
-     3Text 2 The name Gaura and the name Kṛṣṇa are both very, very sweet. Anyone who always tastes the nectar of these holy names is very wise.
-     3Text 3 Lord Śiva and the other demigods always sing these holy names. How will a person cheated of these holy names be saved?
-     3Text 4 Anyone who chants these 108 holy names will easily attain Lord Caitanya's feet.
-     3Text 5 Anyone who hears these 108 holy names always satisfies Śacī's son.
-     3Text 6 Taking shelter of the feet of Śrī Jāhnavā and Rāmacandra dāsa, Śacīnandana dāsa sings these 108 holy names.
+     Text 11 He delights Svarūpa Dāmodara . He is the life of Rūpa Gosvāmī. He is the master of Śrī Sanātana Gosvāmī. He is eternal.
+     Text 12 He is affectionate to Śrī Jīva Gosvāmī. He is the supreme master. He is affectionate to the devotees. He is dear to Gopala Bhaṭṭa Gosvāmī Gosvāmī. He is the strength of the weak.
+     Text 13 He is the master of Śrī Raghunātha Bhaṭṭa Gosvāmī. He is the abode where Śrīvāsa Ṭhākura takes shelter. He is the Supreme Personality of Godhead manifest as a devotee. His manifestations have no end.
+     Text 14 He is the master of the worlds. He is the shelter of the worlds. He delights the devotees. He is the treasure in Śrī Raghunātha dāsa Gosvāmī's heart.
+     Text 15 He is Abhirāma Ṭhākura's friend. He is everyone's protector. He is like a cintāmaṇi jewel. He is the object of meditation. He gives the gift of Lord Hari's holy names.
+     Text 16 He is the supreme controller. He is greater than the greatest. He is the deliverer from suffering. He delivers Jagāi, Mādhāi, and a host of other sinners .
+     Text 17 He is the personified king of rasa. He enchants Rāmānanda Rāya. He destroyed Sārvabhauma Paṇḍita's pride. 
+     Text 18 He revived Amogha. He rips apart the demons. He fulfills all desires. He is supremely pure. He removes the devotees' shyness.
+     Text 19 He is the Paramātmā. He is the best of the best. He is the life of the Vaiṣṇavas. He is the giver of bliss. He is full of bliss. He is the creator of all the worlds.
+     Text 20. He is the universal form. He is the master of the universes. He enchants all the universes. He is handsome and fair. He is Lord Govinda Himself. He delights the devotees' hearts
+     Text 21 He delights the eyes. He delights the devotees. He robs the devotees' hearts. He delights the devotees' hearts.
+     Text 22 He enjoys pastimes in Nadīyā. He is Lord Hari Himself, Lord Hari who charms the gopīs. He is the moon of the brāhmaṇas. He is the most worshipable of all brāhmaṇas.
+     Text 23 He is the greatest poet. He is a treasure of glory and handsomeness. He delights the eyes. O Lord, this one time please place Your glorious feet in my heart.
+     Text 24 He is ausopicious and glorious. He delights the people. He is the greatest hero.
+     Text 25 He fulfilled King Pratāparudra's desire. He always accepts the advice given by Svarūpa Dāmodara and other trusted devotees. 
+     Text 26 He is the best of all avatāras. He is the abode of compassion. He is the most generous. O Lord, please protect me.
+     Text 27 His holy names are limitless. His glories are limitless. Neither Lord Ananta nor any other deva can see the limits of His glories.
+     Text 28 O Lord Gaurāṅga, please place Your sweet holy names in my heart. In the Kali-yuga there is no shelter but You.
+     Text 29 Please know for certain that Lord Gaura is the same as His name. The Lord is always manifest whenever His holy name is spoken.
+     Text 30. The name Gaura and the name Hari are one. This is the statement of Śrīmad-Bhāgavatam and the devotees. Their words are never untrue.
+     Text 31O my heart, please chant these holy names of the Lord. Then you will throw sins and sufferings far away. Then you will attain the treasure of ecstatic spiritual love.
+     Text 32The name Gaura and the name Kṛṣṇa are both very, very sweet. Anyone who always tastes the nectar of these holy names is very wise.
+     Text 33 Lord Śiva and the other demigods always sing these holy names. How will a person cheated of these holy names be saved?
+     Text 34 Anyone who chants these 108 holy names will easily attain Lord Caitanya's feet.
+     Text 35 Anyone who hears these 108 holy names always satisfies Śacī's son.
+     Text 36 Taking shelter of the feet of Śrī Jāhnavā and Rāmacandra dāsa, Śacīnandana dāsa sings these 108 holy names.
 
  
 Song 172 (Dhānaśī-rāga)
@@ -4625,61 +4599,61 @@ Text 9 ananta rākhila nāma anta nā pā-iyā
 kṛṣṇa-nāma rākhe garga dhyānete jāniyā
 Text 10 kaṇva-muni nāma rākhe deba cakra-pāṇi
 bana-mālī nāma rākhe banera hariṇī
-1Text 1 gaja-hastī nāma rākhe śrī-madhusūdana
+Text 11 gaja-hastī nāma rākhe śrī-madhusūdana
 ajāmila nāma rākhe deba nārāyaṇa
-1Text 2 purandara nāma rākhena deba śrī-gobinda
+Text 12 purandara nāma rākhena deba śrī-gobinda
 kuntī-debī rākhe nāma pāṇḍaba-ānanda
-1Text 3 draupadī rākhila nāma deba dīna-bandhu
+Text 13 draupadī rākhila nāma deba dīna-bandhu
 pāpī tāpī rākhe nāma karuṇāra sindhu
-1Text 4 sudāma rākhilā nāma dāridrya-bhañjana
+Text 14 sudāma rākhilā nāma dāridrya-bhañjana
 braja-bāsī nāma rākhe brajera jībana
-1Text 5 darpa-hārī nāma rākhe arjuna su-dhīra
+Text 15 darpa-hārī nāma rākhe arjuna su-dhīra
 paśupati nāma rākhe khaga-rāja-bīra
-1Text 6 yudhiṣṭhira nāma rākhe deba yadu-bara
+Text 16 yudhiṣṭhira nāma rākhe deba yadu-bara
 bidura rākhila nāma kāṅgālera ṭhākura
-1Text 7 bāsuki rākhila nāma deba sṛṣṭi-sthiti
+Text 17 bāsuki rākhila nāma deba sṛṣṭi-sthiti
 dhrubaloke nāma rākhe dhrubera sārathi
-1Text 8 nārada rākhilā nāma bhakta-prāṇa-dhana
+Text 18 nārada rākhilā nāma bhakta-prāṇa-dhana
 bhīṣmadeba nāma rākhe lakṣmī-nārāyaṇa
-1Text 9 satyabhāmā nāma rākhe satyera sārathi
+Text 19 satyabhāmā nāma rākhe satyera sārathi
 jāmbubatī nāma rākhe deba yuddhā-pati
-20. biśwāmitra nāma rākhe saṁsārera sāra
+Text 20. biśwāmitra nāma rākhe saṁsārera sāra
 ahalyā rākhila nāma pāṣāṇa-uddhāra
-2Text 1 bhṛgu-muni nāma rākhe jagatera hari
+Text 21 bhṛgu-muni nāma rākhe jagatera hari
 pañca-mukhe rāma-nāma jape tripurāri
-2Text 2 kuñja-keśī nāma rākhe bali sadācārī
+Text 22 kuñja-keśī nāma rākhe bali sadācārī
 prahlāda rākhila nāma nṛsiṁha murāri
-2Text 3 daityāri dwārakā-nātha dāridrya-bhañjana
+Text 23 daityāri dwārakā-nātha dāridrya-bhañjana
 dayāmaya draupadīra lajjā-nibāraṇa
-2Text 4 swarūpe sabhāya haya golokete sthiti
+Text 24 swarūpe sabhāya haya golokete sthiti
 baikuṇṭhe kṣīrodakaśāyī kamalāra pati 
-2Text 5 rasamya rasika nāgara anupāma
+Text 25 rasamya rasika nāgara anupāma
 nikuñja-bihārī hari naba-ghana-śyāma
-2Text 6 śālagrāma dāmodara śrī-pati śrī-dhara
+Text 26 śālagrāma dāmodara śrī-pati śrī-dhara
 tāraka-brahma sanātana parama īśwara
-2Text 7 kalpa-taru kamala-locana hṛṣīkeśa
+Text 27 kalpa-taru kamala-locana hṛṣīkeśa
 patita-pābana guru jñāna-upadeśa
-2Text 8 cintāmaṇi catur-bhuja deba cakra-pāṇi
+Text 28 cintāmaṇi catur-bhuja deba cakra-pāṇi
 dīna-bandhu debakī-nandana yadu-maṇi
-2Text 9 ananta kṛṣṇera nāma ananta mahimā
+Text 29 ananta kṛṣṇera nāma ananta mahimā
 nāradādi byāsadeba dite nāre sīmā
-30. nāma bhaja nāma cinta nāma kara sāra
+Text 30. nāma bhaja nāma cinta nāma kara sāra
 ananta kṛṣṇera nāma mahimā apāra
-3Text 1 śaṅkha-bhari subarṇa go-koṭi kare dāna
+Text 31śaṅkha-bhari subarṇa go-koṭi kare dāna
 tathāpi nā haya kṛṣṇa-nāmera samāna
-3Text 2 ye-i nāma se-i kṛṣṇa bhaja niṣṭhā kari
+Text 32ye-i nāma se-i kṛṣṇa bhaja niṣṭhā kari
 nāmera sahita āchena āpani śrī-hari
-3Text 3 brahmā ādi deba yāre dhyāne nāhi pāya
+Text 33 brahmā ādi deba yāre dhyāne nāhi pāya
 ye hari bañcita haile ki habe upāya
-3Text 4 hiraṇyakaśipura udara-bidāraṇa
+Text 34 hiraṇyakaśipura udara-bidāraṇa
 prahlāde karila rakṣā deba nārāyaṇa
-3Text 5 balira chailte prabhu ha-ilā bāmana
+Text 35 balira chailte prabhu ha-ilā bāmana
 draupadīra lajjā hari kaila nibāraṇa
-3Text 6 aṣṭottara-śata nāma ye kare paṭhana
+Text 36 aṣṭottara-śata nāma ye kare paṭhana
 anāyāse pāya rādhā-kṛṣṇera caraṇa
-3Text 7 bhakta-bāñchā pūrṇa kara nandera nandana
+Text 37 bhakta-bāñchā pūrṇa kara nandera nandana
 mathurāya kaṁsa-dhwaṁsa laṅkāya rābaṇa
-3Text 8 bakāsura badha ādi kāliya-damana
+Text 38 bakāsura badha ādi kāliya-damana
 dwija hari-dāsa kahe nāma-saṅkīrtana
 
 
@@ -4693,34 +4667,34 @@ dwija hari-dāsa kahe nāma-saṅkīrtana
      Text 8 Kubjā called Him Patita-pāvana (the purifier of the fallen) and Hari (He who takes away the devotees' sufferings). Candrāvalī called Him Mohana (charming) and Vaṁśī-dhārī (He who holds a flute).
      Text 9 She also called Him Ananta (endless). Rapt in meditation, Garga Muni named the boy Kṛṣṇa.
      Text 10 Kaṇva Muni gave the boy the names Deva (Lord) and cakra-pāṇi (He who holds the cakra in His hand). The does in the forest named Him Vana-mālī (He who wears a garland of forest flowers).
-     1Text 1 Gajendra called Him by the name Śrī Madhusūdana (the killer of Madhu). Ajāmila called the Lord by the name Nārāyaṇa. 
-     1Text 2 Indra called Him by the name Śrī Govinda. Kuntī-devī called Him by thr name Pāṇḍavānanda (the bliss of the Pāṇḍavas).
-     1Text 3 Draupadī called the lord by the name Dīna-bandhu (friend of the poor). The anguished sinners called Him by the name Karuṇā-sindhu (ocean of mercy).
-     1Text 4 Sudāmā Brāhmaṇa called HIm by the name Dāridrya-bhañjana (He who breaks poverty into pieces). The people of Vraja called Him by the name Vraja-jīvana (the life of Vraja).
-     1Text 5 Saintly Arjuna called Him Darpa-hārī (the remover of pride). Lord Śiva called Him Khaga-rāja-vīra (the hero-king of the demigods).
-     1Text 6 Yudhiṣṭhira called HIm Yadu-vara (the best of the Yadus). Vidura called Him Kāṅgāla-ṭhākura (the Lord of the beggars).
-     1Text 7 Vāsuki called the Lord Sṛṣṭi-sthiti (the creator and maintainer). The people of Dhruvaloka called the Lord by the name Dhruva-sārathi (Dhruva's chariot-driver).
-     1Text 8 Nārada called the Lord by the name Bhakta-prāṇa-dhana (the devotees' life-treasure). Bhīṣmadeva called the Lord by the name Lakṣmī-Nārāyaṇa.
-     1Text 9 Satyabhāmā called Him by the name Satyā-sārathi (Satyabhāmā's chariot-driver). Jāmbavatī called the Lord by the name Yuddhā-pati (the master of battle).
-     20. Viśvāmitra called Him by the name Saṁsāra-sāra (the best in all the worlds). Ahalyā called Him by ther name Pāṣāṇa-uddhāra (He who delivered Ahalyā from stone).
-     2Text 1 Bhṛgu Muni called Him by the name Jagad-dhari (the savior of the worlds). With his five mouths Lord Śiva chants the Lord's name Rāma.
-     2Text 2 Saintly Bali called Him by the name Kuñja-keśī. Śrī Prahlāda called HIm by ther names Nṛsiṁha and Murāri.
-     2Text 3 The Lord was also called by the names Daityāri (enemy of the demons), Dvārakā-nātha (Lord of Dvārakā), Dāridrya-bhañjana (He who breaks poverty into pices), Dayāmaya (merciful), and Draupadī-lajjā-nivāraṇa (He who removed Draupadī's shame).
-     2Text 4 In the world of Goloka the Lord manifests His original form. In the world of Vaikuṇṭha He is known as Kṣīrodakaśāyī (He who reclines on the ocean of milk) and Kamalā-pati (Lakṣmī's husband).
-     2Text 5 The Lord is also called by thr names Rasamaya (filled with nectar), rasika (expert at tasting nectar), Nāgara (hero), Anupama (peerless), Nikuñja-vihārī (He who enjoys pastimes in the forest groves), Hari (He who removes all that is inauspicious), and Nava-ghana-śyāma (He who is dark like a new raincloud).
-     2Text 6 The Lord is also known by the names Śālagrāma (He who is manifest as the Śālagrāma-śilā), Dāmodara (He whose waist was bound by a rope), Śrī-pati and Śrī-dhara (the husband of the goddess of fortune), Tāraka-brahma (the deliverer), Sanātana (eternal), and Parameśvara (the supreme controller).
-     2Text 7 He Lord is also known by the names Kalpa-taru (a kalpa-taru tree), Kamala-locana (lotus-eyed), Hṛṣīkeśa (the master of the senses), Patita-pāvana (the purifier of the fallen), Guru (the original spiritual master), and Jñānopadeśa (the original teacher).  
-     2Text 8 The Lord is also known by the names Cintāmaṇi (a cintāmaṇi jewel), Catur-bhuja (four-armed), Cakra-pāṇi (He who holds a cakra in His hand), Dīna-bandhu (the friend of the poor). Devakī-nandana (Devakī's son), and Yadu-maṇi (the jewel of the Yadus.
-     2Text 9 Lord Kṛṣṇa's names are endless. His glories are endless. Neither Nārada, Vyāsa, nor any of the sages know the end of Lord Kṛṣṇa's names and glories.
-     30. Therefore please chant Lord Kṛṣṇa's holy names. Meditate on them. Think of Lord Kṛṣṇa's names as most precious and valuable. Lord Kṛṣṇa's names names are endless. The ocean of Lord Kṛṣṇa;s glories has no shore.
-     3Text 1 One may give in charity ten million cows and a billion bharas of gold. But still that is not equal to chanting Lord Kṛṣṇa's holy name.
-     3Text 2 Please worship Lord Kṛṣṇa with faith. Lord Kṛṣṇa is the same as His name. When His holy name is uttered, Lord Kṛṣṇa is personally present.
-     3Text 3 Rapt in meditation, Brahmā and the demigods cannot see Lord Kṛṣṇa. If Lord Kṛṣṇa wishes to cheat someone, what remedy exists to counteract His cheating?
-     3Text 4 Ripping up Kiraṇyakaśipu's belly, Lord Nārāyaṇa rescued Prahlāda.
-     3Text 5 To cheat Mahārāja Bali, Lord Kṛṣṇa manifested the form of Vāmana. Lord Kṛṣṇa removed Draupadī's shame.
-     3Text 6 Anyone who chants these 108 holy names easily attains the feet of Śrī Śrī Rādhā and Kṛṣṇa.
-     3Text 7 Nanda's son fulfills the devotee's desires. In Mathurā He killed Kaṁsa. In Laṅkā He killed Rāvaṇa.
-     3Text 8 He killed Bakāsura and host of demons. He defeated Kāliya. The brāhmaṇa Hari dāsa sings this song of Lord Kṛṣṇa's holy names.
+     Text 11 Gajendra called Him by the name Śrī Madhusūdana (the killer of Madhu). Ajāmila called the Lord by the name Nārāyaṇa. 
+     Text 12 Indra called Him by the name Śrī Govinda. Kuntī-devī called Him by thr name Pāṇḍavānanda (the bliss of the Pāṇḍavas).
+     Text 13 Draupadī called the lord by the name Dīna-bandhu (friend of the poor). The anguished sinners called Him by the name Karuṇā-sindhu (ocean of mercy).
+     Text 14 Sudāmā Brāhmaṇa called HIm by the name Dāridrya-bhañjana (He who breaks poverty into pieces). The people of Vraja called Him by the name Vraja-jīvana (the life of Vraja).
+     Text 15 Saintly Arjuna called Him Darpa-hārī (the remover of pride). Lord Śiva called Him Khaga-rāja-vīra (the hero-king of the demigods).
+     Text 16 Yudhiṣṭhira called HIm Yadu-vara (the best of the Yadus). Vidura called Him Kāṅgāla-ṭhākura (the Lord of the beggars).
+     Text 17 Vāsuki called the Lord Sṛṣṭi-sthiti (the creator and maintainer). The people of Dhruvaloka called the Lord by the name Dhruva-sārathi (Dhruva's chariot-driver).
+     Text 18 Nārada called the Lord by the name Bhakta-prāṇa-dhana (the devotees' life-treasure). Bhīṣmadeva called the Lord by the name Lakṣmī-Nārāyaṇa.
+     Text 19 Satyabhāmā called Him by the name Satyā-sārathi (Satyabhāmā's chariot-driver). Jāmbavatī called the Lord by the name Yuddhā-pati (the master of battle).
+     Text 20. Viśvāmitra called Him by the name Saṁsāra-sāra (the best in all the worlds). Ahalyā called Him by ther name Pāṣāṇa-uddhāra (He who delivered Ahalyā from stone).
+     Text 21 Bhṛgu Muni called Him by the name Jagad-dhari (the savior of the worlds). With his five mouths Lord Śiva chants the Lord's name Rāma.
+     Text 22 Saintly Bali called Him by the name Kuñja-keśī. Śrī Prahlāda called HIm by ther names Nṛsiṁha and Murāri.
+     Text 23 The Lord was also called by the names Daityāri (enemy of the demons), Dvārakā-nātha (Lord of Dvārakā), Dāridrya-bhañjana (He who breaks poverty into pices), Dayāmaya (merciful), and Draupadī-lajjā-nivāraṇa (He who removed Draupadī's shame).
+     Text 24 In the world of Goloka the Lord manifests His original form. In the world of Vaikuṇṭha He is known as Kṣīrodakaśāyī (He who reclines on the ocean of milk) and Kamalā-pati (Lakṣmī's husband).
+     Text 25 The Lord is also called by thr names Rasamaya (filled with nectar), rasika (expert at tasting nectar), Nāgara (hero), Anupama (peerless), Nikuñja-vihārī (He who enjoys pastimes in the forest groves), Hari (He who removes all that is inauspicious), and Nava-ghana-śyāma (He who is dark like a new raincloud).
+     Text 26 The Lord is also known by the names Śālagrāma (He who is manifest as the Śālagrāma-śilā), Dāmodara (He whose waist was bound by a rope), Śrī-pati and Śrī-dhara (the husband of the goddess of fortune), Tāraka-brahma (the deliverer), Sanātana (eternal), and Parameśvara (the supreme controller).
+     Text 27 He Lord is also known by the names Kalpa-taru (a kalpa-taru tree), Kamala-locana (lotus-eyed), Hṛṣīkeśa (the master of the senses), Patita-pāvana (the purifier of the fallen), Guru (the original spiritual master), and Jñānopadeśa (the original teacher).  
+     Text 28 The Lord is also known by the names Cintāmaṇi (a cintāmaṇi jewel), Catur-bhuja (four-armed), Cakra-pāṇi (He who holds a cakra in His hand), Dīna-bandhu (the friend of the poor). Devakī-nandana (Devakī's son), and Yadu-maṇi (the jewel of the Yadus.
+     Text 29 Lord Kṛṣṇa's names are endless. His glories are endless. Neither Nārada, Vyāsa, nor any of the sages know the end of Lord Kṛṣṇa's names and glories.
+     Text 30. Therefore please chant Lord Kṛṣṇa's holy names. Meditate on them. Think of Lord Kṛṣṇa's names as most precious and valuable. Lord Kṛṣṇa's names names are endless. The ocean of Lord Kṛṣṇa;s glories has no shore.
+     Text 31One may give in charity ten million cows and a billion bharas of gold. But still that is not equal to chanting Lord Kṛṣṇa's holy name.
+     Text 32Please worship Lord Kṛṣṇa with faith. Lord Kṛṣṇa is the same as His name. When His holy name is uttered, Lord Kṛṣṇa is personally present.
+     Text 33 Rapt in meditation, Brahmā and the demigods cannot see Lord Kṛṣṇa. If Lord Kṛṣṇa wishes to cheat someone, what remedy exists to counteract His cheating?
+     Text 34 Ripping up Kiraṇyakaśipu's belly, Lord Nārāyaṇa rescued Prahlāda.
+     Text 35 To cheat Mahārāja Bali, Lord Kṛṣṇa manifested the form of Vāmana. Lord Kṛṣṇa removed Draupadī's shame.
+     Text 36 Anyone who chants these 108 holy names easily attains the feet of Śrī Śrī Rādhā and Kṛṣṇa.
+     Text 37 Nanda's son fulfills the devotee's desires. In Mathurā He killed Kaṁsa. In Laṅkā He killed Rāvaṇa.
+     Text 38 He killed Bakāsura and host of demons. He defeated Kāliya. The brāhmaṇa Hari dāsa sings this song of Lord Kṛṣṇa's holy names.
 
  
 Part 4: Poems Glorifying Lord Gaurāṅga
@@ -5215,79 +5189,79 @@ Text 10 yaśodā-prāṇa-māṇikya
 śrīmad-vṛndāvana-svāmin
      kiśora rāsa-nāyaka
 
-1Text 1 govardhana-dharānanda
+Text 11 govardhana-dharānanda
      śrī-gopāla-cūḍāmaṇe
 he dīna-dayārdra nātha
      pūtanā-gati-dāyaka
 
-1Text 2 govinda bāla mukunda
+Text 12 govinda bāla mukunda
      navanītasya-taskara
 brahmaṇya-deva brahmātman
      brahma-darpa-vighātaka
 
-1Text 3 devendra paramānanda
+Text 13 devendra paramānanda
      govinda nanda-bālaka
 rādhā-vinodinī-svāmin
      śrī-gopī-jana-vallabha
 
-1Text 4 acyuta kamalā-kānta
+Text 14 acyuta kamalā-kānta
      devendra-pada-vandita
 vāmana bali-darpa-ghna
      śrī-nṛsiṁha dayāmbudhe
 
-1Text 5 dāmodara dīna-bandho
+Text 15 dāmodara dīna-bandho
      śrīdhara parameśvara
 devakī-nandana kṛṣṇa
      cintāmaṇe jagat-pate
 
-1Text 6 śrīman-nārāyaṇa brahman
+Text 16 śrīman-nārāyaṇa brahman
      śrī-pate puruṣottama
 yādava mādhava deva
      keśava rāma rāghava
 
-1Text 7 mathureśa hṛṣīkeśa
+Text 17 mathureśa hṛṣīkeśa
      dvārikeśa janārdana
 vāsudeva hayagrīva
      cakra-pāṇe gadādhara
 
-1Text 8 sarvāntar-yāmin govinda
+Text 18 sarvāntar-yāmin govinda
      viśvādhāra jaganmaya
 nārāyaṇa jagannātha
      śrī-viṣṇo śrī-janārdana
 
-1Text 9 śrī-kṛṣṇa puṇḍarīkākṣa
+Text 19 śrī-kṛṣṇa puṇḍarīkākṣa
      viśvambhara jagad-guro
 vidagdha catura dakṣa
      śrī-kṛṣṇa viśva-mohana
 
-20. sarveśvara jagat-pāla
+Text 20. sarveśvara jagat-pāla
      bhagavan hare īśvara
 murāre kṛṣṇa kaṁsārin
      hatāri-gati-dāyaka
 
-2Text 1 karaṇaṁ karaṇaṁ deva
+Text 21 karaṇaṁ karaṇaṁ deva
      tvam eva śaraṇaṁ prabho
 dīna-bandho kṛpā-sindho
      gati-nātha gati-prada
 
-2Text 2 patita-pāvana nātha
+Text 22 patita-pāvana nātha
      anādir ādir īśvara
 yady ahaṁ nirguṇo hīnaḥ
      pāpiṣṭho 'py adhamādhamaḥ
 tathāpi jagatāṁ nātha
      tvam eva śaraṇaṁ prabho
 
-2Text 3 mādṛśaḥ pātaki-śreṣṭho
+Text 23 mādṛśaḥ pātaki-śreṣṭho
      nāsti kṛṣṇa bhū-maṇḍale
 ataḥ paraṁ prapanno 'haṁ
      prasīda dīna-vatsala
 
-2Text 4 hā kṛṣṇa karuṇā-sindho
+Text 24 hā kṛṣṇa karuṇā-sindho
      dīna-bandho dayāmaya
 trāhi māṁ sarvato nātha
      tyaktuṁ nārhasi cāśritam
 
-2Text 5 rādhayā sahitaṁ nāma
+Text 25 rādhayā sahitaṁ nāma
      jihvāgre yasya vartate
 satyaṁ satyaṁ punaḥ satyaṁ
      sa yāti paramaṁ padam
@@ -5303,236 +5277,20 @@ satyaṁ satyaṁ punaḥ satyaṁ
      Text 8 Enchanter of the gopīs! Kṛṣṇa! Lord who enjoys pastimes with Rādhā! O master! O Kṛṣṇa! You are the Supreme Personality of Godhead. O Lord who fulfill the desires of every heart! Master of Rādhā! Master of the gopīs! Lord who enchants Rādhā's heart!
      Text 9 Lord who plays delightful flute-music! Expert flute-player! Lord who enjoys the rāsa-dance pastime! Self-satisfied Lord! Lord present everywhere in this world!
      Text 10 Ruby of Yaśodā's heart! Lord who is Rādhā's necklace! Master of glorious Vṛndāvana! Youthful Lord! Hero of the rasa-dance!
-     1Text 1 Lifter of Govardhana Hill! Supreme bliss! Crest jewel of the cowherd boys! O Lord melting with compassion for hte poor fallen souls! O master! O Lord who gave a transcendentasl destination to Pūtanā!
-     1Text 2 O Govinda! Child! Giver of liberation! Butter-thief! Lord whorshiped by the brahmanas! Lord who keep the brahmaṇas in Your heart! Lord who destroys Brahmā's pride!
-     1Text 3 King of the devas! Supreme bliss! Govinda! Son of Nanda! Master of playful Rādhā! Beloved of the gopīs!
-     1Text 4 Infallible Lord! Beloved of lotuslike Lakṣmī! Lord before whose feet the kings of the devas bow! Lord who was manifest as Vāmana! Lord who destroyed Bali's pride! Śrī Nṛsiṁha! Ocean of mercy!
-     1Text 5 O Lord whose belly was bound by a rope! Friend of the poor! Lord embraced by Goddess Lakṣmī! Supreme controller! Delight of Devakī! Kṛṣṇa! Cintāmaṇi-jewel! Master of the worlds!
-     1Text 6 Śrīmān Nārāyaṇa! Supreme Brahman! Master of Goddess Lakṣmī! Supreme person! Descendent of Yadu! Husband of Goddess Lakṣmī! Lord! Master of Brahmā and Śiva! Rāma! Descendent of Raghu!
-     1Text 7 Master of Mathurā! Master of the senses! Master of Dvārakā! Lord who rescue the devotees from distress! Son of Vasudeva! Hayagrīva! Lord who hold the cakra in Your hand! Lord who hold a club!
-     1Text 8 Lord present in every heart! Govinda! Resting-place of the worlds! Lord present everywhere in the universe! Nārāyaṇa! Jagannātha! Śrī Viṣṇu! Lord who rescue the devotees from troubles!
-     1Text 9 Śrī Kṛṣṇa! Lotus-eyed Lord! Maintainer of the worlds! Guru of the worlds! Intelligent one! Wise one1 Expert one! Śrī Kṛṣṇa! Lord who charm all the worlds!
-     20. Master of all! Protector of the universes! Supreme Personality of Godhead full of all opulences! Lord who remove all that is auspicious! Supreme controller! Enemy of Mura! Kṛṣṇa! Enemy of Kaṁsa! Lord who give liberation to the enemies You kill!
-     2Text 1 Cause of causes! Lord! O master! You are my shelter. O friend of the poor! Ocean of mercy! Master of liberation! Giver of liberation!
-     2Text 2 Purifier of the fallen! Master! Beginningless Lord! Origin of all! Supreme controller! Although I am worthless, lowly, sinful, the lowest of the low, still, O master of the worlds, You have become my shelter.
-     2Text 3 O Lord Krsna, in the circle of this earth no one is more sinful than I. Therefore I now surrender unto You. O Lord affectionate to the poor, please be merciful to me. 
-     2Text 4 O Krsna! O ocean of mercy! Friewnd of the poor! Merciful one! Please rescue me! O master of all, You should not reject a soul that has taken shelter of You.
-     2Text 5 A person on whose tongue the names of Śrī Rādhā and Śrī Kṛṣṇa stay will attain the spiritual world. That is the truth. It is the truth. It is the truth.
+     Text 11 Lifter of Govardhana Hill! Supreme bliss! Crest jewel of the cowherd boys! O Lord melting with compassion for hte poor fallen souls! O master! O Lord who gave a transcendentasl destination to Pūtanā!
+     Text 12 O Govinda! Child! Giver of liberation! Butter-thief! Lord whorshiped by the brahmanas! Lord who keep the brahmaṇas in Your heart! Lord who destroys Brahmā's pride!
+     Text 13 King of the devas! Supreme bliss! Govinda! Son of Nanda! Master of playful Rādhā! Beloved of the gopīs!
+     Text 14 Infallible Lord! Beloved of lotuslike Lakṣmī! Lord before whose feet the kings of the devas bow! Lord who was manifest as Vāmana! Lord who destroyed Bali's pride! Śrī Nṛsiṁha! Ocean of mercy!
+     Text 15 O Lord whose belly was bound by a rope! Friend of the poor! Lord embraced by Goddess Lakṣmī! Supreme controller! Delight of Devakī! Kṛṣṇa! Cintāmaṇi-jewel! Master of the worlds!
+     Text 16 Śrīmān Nārāyaṇa! Supreme Brahman! Master of Goddess Lakṣmī! Supreme person! Descendent of Yadu! Husband of Goddess Lakṣmī! Lord! Master of Brahmā and Śiva! Rāma! Descendent of Raghu!
+     Text 17 Master of Mathurā! Master of the senses! Master of Dvārakā! Lord who rescue the devotees from distress! Son of Vasudeva! Hayagrīva! Lord who hold the cakra in Your hand! Lord who hold a club!
+     Text 18 Lord present in every heart! Govinda! Resting-place of the worlds! Lord present everywhere in the universe! Nārāyaṇa! Jagannātha! Śrī Viṣṇu! Lord who rescue the devotees from troubles!
+     Text 19 Śrī Kṛṣṇa! Lotus-eyed Lord! Maintainer of the worlds! Guru of the worlds! Intelligent one! Wise one1 Expert one! Śrī Kṛṣṇa! Lord who charm all the worlds!
+     Text 20. Master of all! Protector of the universes! Supreme Personality of Godhead full of all opulences! Lord who remove all that is auspicious! Supreme controller! Enemy of Mura! Kṛṣṇa! Enemy of Kaṁsa! Lord who give liberation to the enemies You kill!
+     Text 21 Cause of causes! Lord! O master! You are my shelter. O friend of the poor! Ocean of mercy! Master of liberation! Giver of liberation!
+     Text 22 Purifier of the fallen! Master! Beginningless Lord! Origin of all! Supreme controller! Although I am worthless, lowly, sinful, the lowest of the low, still, O master of the worlds, You have become my shelter.
+     Text 23 O Lord Krsna, in the circle of this earth no one is more sinful than I. Therefore I now surrender unto You. O Lord affectionate to the poor, please be merciful to me. 
+     Text 24 O Krsna! O ocean of mercy! Friewnd of the poor! Merciful one! Please rescue me! O master of all, You should not reject a soul that has taken shelter of You.
+     Text 25 A person on whose tongue the names of Śrī Rādhā and Śrī Kṛṣṇa stay will attain the spiritual world. That is the truth. It is the truth. It is the truth.
 
  
-Poem 182 Śrī Kṛṣṇa-premāmṛta-rasāyana-stotra (The Nectar Elixir of Love for Śrī Kṛṣṇa)
- 
-
-Text 1 ekadā kṛṣṇa-virahād
-     dhyāyantī priya-saṅgamam
-mano-bāṣpa-nirāsāya
-     jalpantīdaṁ muhur muhuḥ
-
-Text 2 kṛṣṇaḥ kṛṣṇendur ānando
-     govindo gokulotsavaḥ
-gopālo gopa-gopīśo
-     ballavendro vrajeśvaraḥ
-
-Text 3 praty-ahaṁ nūtanataras
-     taruṇānanda-vigrahaḥ
-ānandaika-sukha-svāmī
-     santoṣākṣaya-koṣa-bhūḥ
-
-Text 4 abhīrikā-navānandaḥ
-     paramānanda-kandalaḥ
-vṛndāvana-kalānātho
-     vrajānanda-navāṅkuraḥ
-
-Text 5 nayanānanda-kusumo
-     vraja-bhāgya-phalodayaḥ
-pratikṣaṇāti-sukhado
-     mohano madhura-dyutiḥ
-
-Text 6 sudhā-niryāsa-nicayaḥ
-     sundaraḥ śyāmalākṛtiḥ
-nava-yauvana-sampannaḥ
-     śyāmāmṛta-rasārṇavaḥ
-
-Text 7 indranīla-maṇi-svaccho
-     dalitāñjana-cikkaṇaḥ
-indīvara-sukha-sparśo
-     nīrada-snigdha-sundaraḥ
-
-Text 8 karpūrāguru-kasturī-
-     kuṅkumāktāṅga-dhūsaraḥ
-su-kuñcita-kaca-srastol-
-     lasac-cāru-śikhaṇḍakaḥ
-
-Text 9 mattāli-vilasat-pāri-
-     jāta-puṣpāvataṁsakaḥ
-ānanendu-jitānanta-
-     pūrṇa-śārada-candramāḥ
-
-Text 10 śrīmal-lalāṭa-pāṭīra-
-     tilakālaka-rañjitaḥ
-līlonnata-bhrū-vilāso
-     madālasa-vilocanaḥ
-
-1Text 1 ākarṇa-rakta-saundarya-
-     laharī-dṛṣṭi-mantharaḥ
-ghūrṇāyamāna-nayanaḥ
-     sācīkṣaṇa-vicakṣaṇaḥ
-
-1Text 2 apāṅgeṅgita-saubhāgya-
-     taralī-kṛta-cetanaḥ
-īṣan-mudrita-lolākṣaḥ
-     sunāsā-puṭa-sundaraḥ
-
-1Text 3 gaṇḍa-prāntollasat-svarṇa-
-     makarākṛti-kuṇḍalaḥ
-prasannānanda-vadano
-     jagad-āhlāda-kārakaḥ
-
-1Text 4 susmerāmṛta-saundarya-
-     prakāśī-kṛta-diṅ-mukhaḥ
-sindūrāruṇa-susnigdha-
-     māṇikya-daśanacchadaḥ
-
-1Text 5 pīyūṣādhika-mādhvīka-
-     sūkti-śruti-rasāyanaḥ
-tribhaṅga-lalita-tiryag-
-     grīvas trailokya-mohanaḥ
-
-1Text 6 kuñcitādhara-saṁsakta-
-     kūjad-veṇu-vinodakaḥ
-kaṅkanāṅgada-keyūra-
-     mudrikā-vilasad-bhujaḥ
-
-1Text 7 svarṇa-sūtra-suvinyasta-
-     kaustubhāmukta-kandharaḥ
-muktāhārollasad-vakṣaḥ-
-     sphurac-chrīvatsa-lañchanaḥ
-
-1Text 8 āpīna-hṛdayo nīpa-
-     mālyavān bandhurodaraḥ
-samvīta-pīta-vasano
-     raśanā-vilast-kaṭiḥ
-
-1Text 9 antarīya-paṭī-bandha-
-     prapadāndolitāñcalaḥ
-aravinda-pada-dvandva-
-     kvaṇat-kārita-nūpuraḥ
-
-20. pallavāruṇa-mādhurya-
-     sukumāra-padāmbujaḥ
-nakha-candra-jitāśeṣa-
-     darpaṇendu-maṇi-prabhaḥ
-
-2Text 1 dhvaja-vajrāṅkuśāmbhoja-
-     rājac-caraṇa-pallavaḥ
-trailokyādbhuta-saundarya-
-     paripāka-manoharaḥ
-
-2Text 2 sākṣāt-keli-kalā-mūrtiḥ
-     parihāsa-rasārṇavaḥ
-yamunopavana-śreṇī-
-     vilāsī vraja-nāgaraḥ
-
-2Text 3 gopāṅganā-janāsakto
-     vṛndāraṇya-purandaraḥ
-abhīra-nāgarī-prāṇa-
-     nāyakaḥ kāma-śekharaḥ
-
-2Text 4 yamunā-nāviko gopī-
-     pārāvāra-kṛtodyamaḥ
-rādhāvarodhana-rataḥ
-     kadamba-vana-mandiraḥ
-
-2Text 5 vraja-yoṣit-sadā-hṛdyo
-     gopī-locana-tārakaḥ
-jīvanānanda-rasikaḥ
-     pūrṇānanda-kutūhalaḥ
-
-2Text 6 gopikā-kuca-kastūrī-
-     paṅkilaḥ keli-lālasaḥ
-alakṣita-kuṭīra-stho
-     rādhā-sarvasva-lampaṭaḥ
-
-2Text 7 ballavī-vadanāmbhoja-
-     madhu-pāna-madhuvrataḥ
-nigūḍha-rasa-vid gopī-
-     cittāhlāda-kalānidhiḥ
-
-2Text 8 kālindī-pulinānandī
-     krīḍā-tāṇḍava-paṇḍitaḥ
-abhīrikā-janānaṅga-
-     raṅga-bhūmi-sudhākaraḥ
-
-2Text 9 vidagdha-gopavanitā-
-     cittākūta-vinodakaḥ
-nānopāyana-pāṇistha-
-     gopanārī-gaṇāvṛtaḥ
-
-30. vāñchā-kalpa-taruḥ kāma-
-     kalārasa-śiromaṇiḥ
-kandarpa-koṭi-lāvaṇyaḥ
-     koṭīndu-lalita-dyutiḥ
-
-3Text 1 navīna-madhura-snehaḥ
-     preyasī-prema-sañcayaḥ
-gopī-manorathākrānto
-     nāṭya-līlā-viśāradaḥ
-
-3Text 2 jagat-traya-mano-moha-
-     karo manmatha-manmathaḥ
-gopasīmantinī-śaśvad-
-     bhāvāpekṣā-parāyaṇaḥ
-
-3Text 3 pratyaṅga-rabhasāveśa-
-     pramadā-prāṇa-vallabhaḥ
-rāsollasa-madonmatto
-     rādhikā-rati-lampaṭaḥ
-
-3Text 4 helā-līlā-pariśrāntaḥ
-     svedāṅkura-citānanaḥ
-gopikāṅkālasaḥ śrīmān
-     malayānila-sevitaḥ
-
-3Text 5 ity evaṁ prāṇa-nāthasya
-     premāmṛta-rasāyanam
-yaḥ paṭhec chrāvayed vāpi
-     sa premṇi pramilad dhruvam
-
- 
-     Text 1 Distraught by separation from Lord Kṛṣṇa, and rapt in meditation on Him, to wash away the tears from her heart a certain gopī again and again spoke these words.
-     Text 2 Lord Kṛṣṇa is glorious like a dark moon. He is bliss personified. He delights the senses. For all of Gokula He is a festival of bliss. He is the protector of the cows, the master of the gopas and gopīs, the king of the gopas, and the master of Vraja.
-     Text 3 Day after day He is always new and young and fresh. His form is filled with the bliss of new youth. He is the master of spiritual bliss. He is a treasure-house of eternal bliss.
-     Text 4 To the gopīs He brings newer and newer bliss. He is a young sprout of sublime bliss. In Vrndavana He is the master of graceful arts. For Vraja He is a new sprout of glorious bliss.
-     Text 5 He is a flower that delights the eyes. He is the fruit of Vraja's good fortune. At every momente rbings great delight. He is enchanting. He is sweet and splendid.
-     Text 6 He is a flood of nectar. He is handsome. His form is dark. He is a neew youth. He is an ocean of dark nectar.
-     Text 7 He glistens like sapphire. He glistens like black añjana. His touch is the delightful touch of a blue lotus. He glistens like a raincloud.
-     Text 8 His limbs are anointed with camphor, aguru, musk, and kuṅkuma. A peacock feather gracefuilly rests in His curly hair.
-     Text 9 Intoxicated black bees play in His pārijāta garland. Numberless autumn full-moons are defeated by the moon of His face.
-     Text 10 His forehead is glorious with curly hair and sandal-paste tilaka. His eyebrows curve playfully. His eyes are languid with bliss.
-     1Text 1 From His reddish eyes that reach almost to His ears, He casts languid glances splashed with waves of graceful charm. His eyes are restless. He is expert at casting sidelong glances.
-     1Text 2 The good fortune of attaining His sidelong-glance hints makes the heart tremble. His half-closed eyes are restless. His nostrils are graceful.
-     1Text 3 Shark-shaped golden earrings glisten at the edge of His cheeks. His face shines with cheerfulness. He delights all the worlds.
-     1Text 4 The nectar handsomeness of His smile fills the directions with light. His lips glisten like red sindūra or like rubies. 
-     1Text 5 His words sweeter than nectar are a glorious elixir poured into the ears. He gracefully bends His form in three places. His tilts His neck. He enchants the three worlds.
-     1Text 6 He plays sweet melodies on the cooing flute placed to His pursed lips. His arms and hands glisten with rings, bracelets, and armlets.
-     1Text 7 A golden necklace with a Kaustubha gem rests on His neck. The Śrīvatsa mark is manifest on His chest glorious with a string of pearls.
-     1Text 8 His chest is broad. He wears a kadamba garland. His waist is graceful. He wears yellow garments. A belt glistens at His waist.
-     1Text 9 The edge of His garment is moved to and fro against His toes. Anklets jangle at His lotus feet.
-     20. His lotus feet are soft and delicate like reddish new sprouts. The moons of His toenails defeat the glistening moonstone mirrors.
-     2Text 1 His flowerlike feet are glorious with marks of a flag, thunderbolt, elephant-goad, and lotus. His enchanting handsomeness fills the three worlds with wonder.
-     2Text 2 He is charming playfulness personified. He is a nectar ocean of jokes and laughter. He enjoys pastimes on the Yamunā's banks. He is Vraja's hero.
-     2Text 3 He is attached to the gopīs. He is like Indra in Vṛndāvana forest. He is the gopīs' hero more dear than life. He is the crown of all Kāmadevas.
-     2Text 4 He is a boatman on the Yamunā. He tries to ferry the gopīs across the river. He likes to tease Rādhā. He stays in a kadamba-grove palace.
-     2Text 5 He always delights the vraja-gopīs' hearts. He glistens in the gopīs' eyes. He tastes the nectar of blissful pastimes. He is blissful.
-     2Text 6 He is marked with musk from the gopīs' breasts. He yearns to enjoy pastimes with them. He hides in a cottage. He is the rake that is Rādhā's everything.
-     2Text 7 He is a black bee sipping nectar from the lotus flowers of the gopīs' faces. In secluded places He tastes nectar. He is a graceful moon that delights the gopīs' hearts.
-     2Text 8 On the Yamunā's banks He enjoys blissful pastimes. He is a paṇḍita in pastimes of vigorous dancing. For the gopīs He is a nectar moon where Kāmadeva dances.
-     2Text 9 His pastimes fulfill the desires in the wise gopīs' hearts. With various stratagems He captures the gopīs in His hands.
-     30. He is a kalpa-vṛkṣa tree. He is the crest jewel of they who taste Kāmadeva's nectar. He is more handsome than millions of Kāmadevas. He is more charming and splendid than millions of moons.
-     3Text 1 His love is always new and sweet. He dearly loves the gopīs. He fulfills the gopīs' desires. He is expert at pastimes of dancing.
-     3Text 2 He enchants the hearts of the three worlds. He is the Kāmadeva of Kāmadevas. He loves the gopīs eternally. 
-     3Text 3 For the gopīs whose every limb is filled with amorous passion, He is more dear than life. In the rāsa dance He is wild with bliss. He is the rake that enjoys pastimes with Rādhā.
-     3Text 4 He is exhausted from amorous pastimes. Perspiration anoints his face. He languidly rests in a gopī's embrace. He is handsome and glorious. The Malaya breezes serve HIm.
-     3Text 5 Anyone who reads to himself or reads aloud so others may hear, this nectar elixir of love for the master of that gopīs' life will fall in love with Kṛṣṇa. He will meet Kṛṣṇa. That is certain.
-Copyright © 2002-2003 by the Respective Owners
-

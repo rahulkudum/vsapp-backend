@@ -647,13 +647,13 @@ Text 9 bāmana ābeśa beśa śohe
 bhaṅgīte bhubana-mana mohe
 Text 10 hāsi mṛdu su-madhura bhāṣe
 bhikṣā māge bhakatera pāśe
-1Text 1 sabe cāhe prāṇa bhikṣā dite
+Text 11 sabe cāhe prāṇa bhikṣā dite
 ye de-i tāhā nā bhāya cite
-1Text 2 deba-nārī mānuṣe niśā-i
+Text 12 deba-nārī mānuṣe niśā-i
 bhikṣā dena cānda-mukha cā-i
-1Text 3 kebā bā nā nichaye jībana
+Text 13 kebā bā nā nichaye jībana
 jaya-dhwani kare sarba-jana
-1Text 4 bhaṇe ghanaśyāma miśrālaye
+Text 14 bhaṇe ghanaśyāma miśrālaye
 sukhera samudra uthalaye
 
 
@@ -667,10 +667,10 @@ sukhera samudra uthalaye
      Text 8 In His hand and on His shoulder are a brahmacāri-daṇḍa and a jhuli alms-bag. Seeing Him who can remain peaceful and indifferent?
      Text 9 He is glorious like Lord Vāmana Himself. His every gesture charms the hearts of all the worlds.
      Text 10 Gently smiling He speaks sweet words. Approaching the devotees He begs alms.
-     1Text 1 Everyone gazes at Him. In their hearts they give their life's breath to Him as alms. No fear in their hearts they offer alms to Him.
-     1Text 2 Infiltrating the crowd of human ladies the demigoddesses gaze at Lord Gaura's moonlike face. They also offer alms to Him.
-     1Text 3 Who does not worship Lord Gaura dedicating his whole life to Him? Everyone calls out “Jaya!"
-     1Text 4 Ghanaśyāma says: An ocean of bliss now floods Jagannātha Miśra's house.
+     Text 11 Everyone gazes at Him. In their hearts they give their life's breath to Him as alms. No fear in their hearts they offer alms to Him.
+     Text 12 Infiltrating the crowd of human ladies the demigoddesses gaze at Lord Gaura's moonlike face. They also offer alms to Him.
+     Text 13 Who does not worship Lord Gaura dedicating his whole life to Him? Everyone calls out “Jaya!"
+     Text 14 Ghanaśyāma says: An ocean of bliss now floods Jagannātha Miśra's house.
 
 
 Song 5 (Kāmoda-rāga)
@@ -2122,9 +2122,9 @@ Text 9 śuci bā aśuci kibā ācāra bicāra
 nā mānila sabāre karila bhaba pāra
 Text 10 nāma-saṅkīrtana prabhu nauka sājā-iyā
 pāra kaila sarba-loke āpani yāciyā
-1Text 1 ye-jana palāya tāre dhare kole kari
+Text 11 ye-jana palāya tāre dhare kole kari
 bhaba-nadī kare pāra gaurāṅga śrī-hari
-1Text 2 locana kahiche pahuṁ sarba-loka-pati
+Text 12 locana kahiche pahuṁ sarba-loka-pati
 karuṇā prakāśi lokera kaila śuddha-mati
 
 
@@ -2138,8 +2138,8 @@ karuṇā prakāśi lokera kaila śuddha-mati
      Text 8 The people who lived in the east Lord Gaura begged to accept the holy name. He gave them the chanting of Lord Kṛṣṇa's holy name.
      Text 9 He did not consider who was pure or impure, or who had acted well or ill. Everyone He carried to farther bank of the river of birth and death.
      Text 10 Lord Gaura built a boat of nāma-saṅkirtana (chanting of the holy names). He personally begged everyone to enter that boat. With that boat He brought them all to the farther bank of the river of birth and death.
-     1Text 1 Anyone who fled from Him, He caught in His arms. Lord Gaurāṅga, who is Lord Kṛṣṇa Himself, carried those persons to the farther bank of the river of birth and death.
-     1Text 2 Locana dāsa says: Lord Gaura is the master of all the worlds. Giving His mercy to the people, He made them all pure at heart.
+     Text 11 Anyone who fled from Him, He caught in His arms. Lord Gaurāṅga, who is Lord Kṛṣṇa Himself, carried those persons to the farther bank of the river of birth and death.
+     Text 12 Locana dāsa says: Lord Gaura is the master of all the worlds. Giving His mercy to the people, He made them all pure at heart.
 
 
 Song 5 (Dhānaśī-rāga)
@@ -3115,9 +3115,9 @@ Text 9 nari-gane de-i yajakara
 bhāṭa-gaṇe karaye maṅgala kāyabāra
 Text 10 nṛtya gīta bādya nānā bhāti
 upamā dibāra nā-i kāhāra śakati
-1Text 1 kebā nā balaye bhāla bhāla
+Text 11 kebā nā balaye bhāla bhāla
 jaga-bhari jaya jaya śabada rasāla
-1Text 2 mānuṣe miśāye deba=gaṇe
+Text 12 mānuṣe miśāye deba=gaṇe
 dekhi adhibāsa-raṅga narahari bhaṇe
 
 
@@ -3131,8 +3131,8 @@ dekhi adhibāsa-raṅga narahari bhaṇe
      Text 8 No one has the power to say where the bliss of that festival comes to an end. Mother Śacī is glorious. Her actions are all auspicious.
      Text 9 The ladies give gifts. The poets recite auspicious poems.
      Text 10 There are many glorious kinds of dancing, singing, and instrumental music. Who has the power to speak proper metaphors and similes to compare these activities to anything else? No one has that power.
-     1Text 1 Who does not say, "Excellent! Glorious!"? The whole world is filled with sweet sounds of "Jaya! Jaya!"
-     1Text 2 Mingling amongst the human beings, the demigods watch Lord Gaura's adhivāsa festival. This Narahari says.
+     Text 11 Who does not say, "Excellent! Glorious!"? The whole world is filled with sweet sounds of "Jaya! Jaya!"
+     Text 12 Mingling amongst the human beings, the demigods watch Lord Gaura's adhivāsa festival. This Narahari says.
 
 
 Song 30 (Dhānaśī-rāga)
@@ -3347,23 +3347,23 @@ Text 9 ehena barere uruthita
 kanyāra jananī cale āyo-gaṇa sāte
 Text 10 se śobhā kahite kabe pāre
 sapta-dīpa hate sapta-pradakṣiṇa kare
-1Text 1 parama adbhuta strī-ācāre
+Text 11 parama adbhuta strī-ācāre
 bara urathiyā ghare gamana sabāra
-1Text 2 ballabha ācārya bhāgyabān
+Text 12 ballabha ācārya bhāgyabān
 ānā-ilā kanyāya karite kanyā-dāna
-1Text 3 basā-ilā dibya-siṁhāsane
+Text 13 basā-ilā dibya-siṁhāsane
 ha-ila ujwala mahā aṅgera kiraṇe
-1Text 4 ati su-komala tanu-khāni
+Text 14 ati su-komala tanu-khāni
 hāsi makha badana pūrṇimā-cānda jini
-1Text 5 paridheya bicitra basana
+Text 15 paridheya bicitra basana
 jhalamala kare nānā ratna ābharaṇa
-1Text 6 hena kanyā bibidha bidhāne
+Text 16 hena kanyā bibidha bidhāne
 karila pradāna miśra śacīra nandane
-1Text 7 bipra-gaṇe kare beda-dhwani
+Text 17 bipra-gaṇe kare beda-dhwani
 ulu-lulu de-i yata kulera kāminī
-1Text 8 bāje bādya bibidha prakāra
+Text 18 bāje bādya bibidha prakāra
 nācaye nartaka bhāṭa paḍe kāyabāra
-1Text 9 deba-gaṇa bimāne caḍiyā
+Text 19 deba-gaṇa bimāne caḍiyā
 bariṣe kusuma alakhita jaya diyā
 20. bhubana byāpila mahā sukhe
 narahari kata na kahiba eka mukhe
@@ -3379,15 +3379,15 @@ narahari kata na kahiba eka mukhe
      Text 8 He is gracefully decorated with bracelets and armlets. How many Kāmadevas become ashamed when they see Him?
      Text 9 Seeing that the bridegroom has come, the bride's mother comes with seven maidservants.
      Text 10 Who has the power to describe Lord Gaura's handsomeness? Seven lamps in her hand, the bride's mother sven times circumambulates Lord Gaura.
-     1Text 1 She performs the ritual of welcoming the bridegroom, and they all enter the house.
-     1Text 2 Fortunate Vallabha Acārya now brings his daughter for the wedding ceremony.
-     1Text 3 He has her sit on the splendid throne. Her body is effulgent.
-     1Text 4 Her body is soft and delicate. Her smiling face defeats the full moon.
-     1Text 5 Her garments are colorful and wonderful. Her multi-jeweled ornaments glisten.
-     1Text 6 Performing many rityals, Vallabha Acārya offers his beautiful daughter to Śacī's son.
-     1Text 7 The brāhmaṇas chant the Vedas. The beautiful girls make sounds of "Ulu-lulu!"
-     1Text 8 Musical instruments are sounded in many different ways. Dancers dance. Poets recite poems.
-     1Text 9 From their airplanes the demigods shower flowers. Unnoticed, they come and chant, "Jaya!"
+     Text 11 She performs the ritual of welcoming the bridegroom, and they all enter the house.
+     Text 12 Fortunate Vallabha Acārya now brings his daughter for the wedding ceremony.
+     Text 13 He has her sit on the splendid throne. Her body is effulgent.
+     Text 14 Her body is soft and delicate. Her smiling face defeats the full moon.
+     Text 15 Her garments are colorful and wonderful. Her multi-jeweled ornaments glisten.
+     Text 16 Performing many rityals, Vallabha Acārya offers his beautiful daughter to Śacī's son.
+     Text 17 The brāhmaṇas chant the Vedas. The beautiful girls make sounds of "Ulu-lulu!"
+     Text 18 Musical instruments are sounded in many different ways. Dancers dance. Poets recite poems.
+     Text 19 From their airplanes the demigods shower flowers. Unnoticed, they come and chant, "Jaya!"
      20. The whole world is filled with bliss. How many details of this pastime Narahari will not describe, will not describe because he has only one mouth?
 
 
@@ -3635,17 +3635,17 @@ Text 9 kebā nāhi gorā-guṇa gāya
 nā jānaye kata sukha bāḍhaye hiyāya
 Text 10 nānā bādya bāje nānā chānde
 nāce bāla bṛddha ke-u thira nāhi bāndhe
-1Text 1 kata śata mahā-dīpa jwale
+Text 11 kata śata mahā-dīpa jwale
 dharaṇī chā-ila ālo gagana maṇḍale
-1Text 2 keha kula-raṅga prakāśaya
+Text 12 keha kula-raṅga prakāśaya
 byāpaye sakala mahī-tale yāhā haya
-1Text 3 miśra mahā ullasita mane
+Text 13 miśra mahā ullasita mane
 jāmātā la-iyā kole prabeśe bhabane
-1Text 4 apūrba āsane basā-iyā
+Text 14 apūrba āsane basā-iyā
 kare puṣpa-bṛṣṭi cānda-mukha-pāne cāñā
-1Text 5 jaya jaya dhwani anibāra
+Text 15 jaya jaya dhwani anibāra
 bādābādi baya bādya bādaka doṅhāra
-1Text 6 miśra kare jāmātā baraṇa
+Text 16 miśra kare jāmātā baraṇa
 narahari tāhā dekhi juḍāya nayana
 
 
@@ -3659,12 +3659,12 @@ narahari tāhā dekhi juḍāya nayana
      Text 8 Even though they have no power to walk, grasping their canes they had slowly, slowly walked on the path.
      Text 9 Who did not sing of Lord Gaura's glories? Who did not feel his heart fill with bliss?
      Text 10 A veriety of musical instruments are sounded in many different ways. The young and old dance. No one is peaceful.
-     1Text 1 How many hundreds of great lamps glisten? The sky and the earth are filled with light.
-     1Text 2 Everyone is blissful. The guests fill the whole area.
-     1Text 3 With a joyous heart Sanātana Misra hugs his son-in-law and takes Him into the house.
-     1Text 4 He makes Lord Gaura sit on a wonderful throne. He showers Him with flowers. He gazes at His moonlike face.
-     1Text 5 "Jaya! Jaya!" everyone calls without stop. The musicians play their instruments.
-     1Text 6 Sanātana Miśra formally welcomes his son-in-law. Gazing at all this, Narahari feels his eyes become filled with cooling bliss.
+     Text 11 How many hundreds of great lamps glisten? The sky and the earth are filled with light.
+     Text 12 Everyone is blissful. The guests fill the whole area.
+     Text 13 With a joyous heart Sanātana Misra hugs his son-in-law and takes Him into the house.
+     Text 14 He makes Lord Gaura sit on a wonderful throne. He showers Him with flowers. He gazes at His moonlike face.
+     Text 15 "Jaya! Jaya!" everyone calls without stop. The musicians play their instruments.
+     Text 16 Sanātana Miśra formally welcomes his son-in-law. Gazing at all this, Narahari feels his eyes become filled with cooling bliss.
 
 
 Song 48 (Tuḍī-rāga)
@@ -4856,15 +4856,15 @@ Text 10 hāṭera koṭāla        ṭhākura gopāla
           dāna-ghāṭi gopīnātha
 hāṭera pālana       śrī-raghunandana
           karena sundara sātha
-1Text 1 dibā rāti nā-i       bājāra sadā-i
+Text 11 dibā rāti nā-i       bājāra sadā-i
           ye yāya se prema pāya
 premera pasāra        karala bithāra
           śacīra dulāla rāya
-1Text 2 bhā/ngila ākāla       mātila kā/ngāla
+Text 12 bhā/ngila ākāla       mātila kā/ngāla
           khā-iyā bharala peṭa
 dekhiyā śamana      karaye bhābana
           badana kariyā heṭa
-1Text 3 jarā mṛtyu nā-i      ānanda sadā-i
+Text 13 jarā mṛtyu nā-i      ānanda sadā-i
           śoka-bhaya nāhi haya
 āśā-jhuli kari      śekhara bhikhārī
           bājāre māgiya khāya
@@ -4878,9 +4878,9 @@ dekhiyā śamana      karaye bhābana
      Text 8 Howe many names can I write? All these merchants spread out their goods. They spread out various ornaments, like weeping, standing up of the body's hairs, and other symptoms of ecstatic spiritual love.
      Text 9 There are merchants selling goods from stalls, and there are devotee dancers dancing. Paying the price of humbleness, the customers buy the goods of ecstatic spiritual love. The buying and selling continues without stop.
      Text 10 Gopāla Ṭhākura is the marketplace-watchman. Gopīnātha is the collector of payments. Śrī Raghunandana is the worker for marketplace-maintenance. He keeps the marketplace beautiful.
-     1Text 1 Day or night make no difference. This marketplace is always open. Here the customers always came and purchase the wares of ecstatic spiritual love. Śacī's dear son personally spreads out the wares of ecstatic spiritual love.
-     1Text 2 In this marketplace all troubles are broken into pieces. Even the poor beggars are joyful. Eating, they fill their bellies. Gazing at this marketplace, Yāmarāja becomes rapt in thought. Humbly he lowers his head.
-     1Text 3 In this marketpladce there is no old-age and no death. In this marketplace spiritual bliss is alsways manifest. Here there is neither grief nor fear. In this marketplace the beggar Śekhara Rāya bows, begs some food, and eats.
+     Text 11 Day or night make no difference. This marketplace is always open. Here the customers always came and purchase the wares of ecstatic spiritual love. Śacī's dear son personally spreads out the wares of ecstatic spiritual love.
+     Text 12 In this marketplace all troubles are broken into pieces. Even the poor beggars are joyful. Eating, they fill their bellies. Gazing at this marketplace, Yāmarāja becomes rapt in thought. Humbly he lowers his head.
+     Text 13 In this marketpladce there is no old-age and no death. In this marketplace spiritual bliss is alsways manifest. Here there is neither grief nor fear. In this marketplace the beggar Śekhara Rāya bows, begs some food, and eats.
 
 
 Song 5 (Kānaḍa-rāga)
@@ -6118,5 +6118,4 @@ kiye duhum prema akara
 hera-ite jaga-jana       tanu mana bhulaya
 yadu kiye pa-oba para
 
-Copyright © 2002-2003 by the Respective Owners
 

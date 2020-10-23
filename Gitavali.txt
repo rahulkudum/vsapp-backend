@@ -969,17 +969,19 @@ rādhā - Rādhā; kṛṣṇa - Kṛṣṇa; bolaḥ - say;saṅge - in associa
 
 Song 5
  
-
+(refrain)
+gāya gorācanda jībera tore
+hare kṛṣṇa hare 
+To deliver the conditioned souls, Lord Caitanya sings,  Hare! Kṛṣṇa! Hare!" 
     
 
 Text 1
  
-gāya gorācanda jībera tore
-hare kṛṣṇa hare 
+
 hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
 hare rāma hare rāma rāma rāma hare hare
 
- To deliver the conditioned souls, Lord Caitanya sings,  Hare! Kṛṣṇa! Hare!" 
+ 
      He sings, "Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare, Hare Rāma Hare Rāma Rāma Rāma Hare Hare."
   
 Text 2 
@@ -1039,6 +1041,10 @@ gopāla govinda rāma śrī-madhusūdana
 
 Song 7
 
+(refrain)
+hare kṛṣṇa hare
+     "Hare! Kṛṣṇa! Hare!"
+
 
 Text 1
 
@@ -1082,16 +1088,20 @@ e - this; nāma - name; nārada - Nārada; jape - chants;bīṇā-tantre - with 
 
 Song 8
 
+(refrain)
+hari bole modera gaura elo
 
+   hari - Hari; bole - said; modera - with joy; gaura - LordCaitanya; elaḥ - came.
+Joyfully chanting, "Hari!", Lord Caitanya came.
      
 Text 1
-hari bole modera gaura elo
+
 elo re gaurāṅgacānda preme elothelo
 nitāi-adwaita-saṅge godrume paśilo
      
 elaḥ - went; re - Oh; gaurāṅgacānda - Lord Caitanya;preme - with love; elothelaḥ - overcome; nitāi-adwaita-saṅge - in the company ofNityānanda and Advaita; godrume - Godruma; paśilaḥ - entered.
 
-Joyfully chanting, "Hari!", Lord Caitanya came.
+
      Overcome with ecstatic love, Lord Caitanya entered Godruma with Nityānanda and Advaita.
 
 Text 2 
@@ -1155,13 +1165,19 @@ Part 5 Śrīman Mahāprabhura śata-nāma
 
 Song 1
 
+(refrain)
+nadīyā-nagare nitāi nece' nece' gāya re
+ nadīyā - of Nadīyā; nagare - in the towns; nitāi - Lord Nityānanda; nece' - dancing; nece' - and dancing;gāya - sang; re - Oh.
+Dancing and dancing in Nadīyā's towns, Lord Nityānanda sang:
+
+
 
 Text 1
-nadīyā-nagare nitāi nece' nece' gāya re
+
 jagannātha-suta mahāprabhu biśwambhara
 māyāpura-śaśī nabadwīpa-sudhākara
 
-Dancing and dancing in Nadīyā's towns, Lord Nityānanda sang:
+
 O Lord Caitanya, O son of Jagannātha Miśra (Jagannātha-suta), O great Lord (Mahāprabhu), O maintainer of the worlds (Viśvambhara), O moon of Mayapura (Māyāpura-śaśī), O nectar 
 moon of Navadvīpa (Navadvīpa-sudhākara)!
 
@@ -1391,15 +1407,18 @@ Part 6 Śrī Kṛṣṇera Viṁśottara-śata-nāma
 
 Song 1
 
-
+(refrain)
+nagare nagare gorā gāya
+nagare - in town; nagare - after town; gorā - Lord Caitanya; gāya - sings.
+In town after town Lord Caitanya sings:
 
 
 Text 1
-nagare nagare gorā gāya
+
 jaśomatī-stanya-pāyī śrī-nanda-nandana
 indranīla-maṇi braja-janera jībana
 
-In town after town Lord Caitanya sings:
+
 O infant who drank at Yaśodā's breast (Yaśomatī-stanya-pāyī), O son of Nanda (Śrī Nanda-nandana), O Lord splendid like sapphires (Indranīla-maṇi), O life of Vraja's people (Braja-
 janera jībana)!
 
