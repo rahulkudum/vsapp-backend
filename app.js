@@ -11,53 +11,53 @@ app.use(cors());
 //fs.copyFileSync("gita.txt","file.txt";
 let val; 
       
-fs.readFile("./PBC.txt","utf8",function(error,data){
-  let sname=0;
-  let ntext="";
-  while(sname!==-1){
+// fs.readFile("./PBC.txt","utf8",function(error,data){
+//   let sname=0;
+//   let ntext="";
+//   while(sname!==-1){
   
-  sname=data.indexOf("Song",sname+5);
-  let tsname=data.indexOf("TEXT",sname+5);   
- let ename=data.indexOf("Song",sname+5);
+//   sname=data.indexOf("Song",sname+5);
+//   let tsname=data.indexOf("TEXT",sname+5);   
+//  let ename=data.indexOf("Song",sname+5);
  
- let vtext=data.slice(sname,ename);
- ntext = ntext.concat("\n"+data.slice(sname,tsname));
-let tname=0;
-while(tname!==-1){
+//  let vtext=data.slice(sname,ename);
+//  ntext = ntext.concat("\n"+data.slice(sname,tsname));
+// let tname=0;
+// while(tname!==-1){
    
-    tname=vtext.indexOf("TEXT",tname+5);
-    tename=vtext.indexOf("TEXT",tname+5)!==-1 ? vtext.indexOf("Text",tname+5) : ename;
-    let dtext=vtext.slice(tname,tename).split(/\r\n|\n/);
+//     tname=vtext.indexOf("TEXT",tname+5);
+//     tename=vtext.indexOf("TEXT",tname+5)!==-1 ? vtext.indexOf("Text",tname+5) : ename;
+//     let dtext=vtext.slice(tname,tename).split(/\r\n|\n/);
     
-    let left=false;
-  let right=false;
-  for(let i in dtext){
+//     let left=false;
+//   let right=false;
+//   for(let i in dtext){
       
-      if(left){
-          if(dtext[i]!=="" && dtext[i]!==" ") right=true;
-      } 
-      if(dtext[i].indexOf(";")!==-1) left=true;
-      if(dtext[i]!=="" && dtext[i]!==" ") ntext=ntext.concat("\n"+dtext[i]);
-      if(left && right) break;
+//       if(left){
+//           if(dtext[i]!=="" && dtext[i]!==" ") right=true;
+//       } 
+//       if(dtext[i].indexOf(";")!==-1) left=true;
+//       if(dtext[i]!=="" && dtext[i]!==" ") ntext=ntext.concat("\n"+dtext[i]);
+//       if(left && right) break;
       
 
 
-  }  
+//   }  
 
-}
+// }
 
-console.log(ntext);
+// console.log(ntext);
 
  
   
-  }  
+//   }  
   
-  fs.writeFile("./PBC.txt",ntext, function (err) {
-    if (err) throw err;
-    console.log('Replaced!');
-  });
+//   fs.writeFile("./PBC.txt",ntext, function (err) {
+//     if (err) throw err;
+//     console.log('Replaced!');
+//   });
    
-});
+// });
 
 
 
