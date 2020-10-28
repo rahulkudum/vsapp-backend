@@ -11,7 +11,7 @@ app.use(cors());
 //fs.copyFileSync("gita.txt","file.txt";
 let val; 
       
-fs.readFile("./SB1.txt","utf8",function(error,data){
+fs.readFile("./PBC.txt","utf8",function(error,data){
   let sname=0;
   let ntext="";
   while(sname!==-1){
@@ -52,7 +52,7 @@ console.log(ntext);
   
   }  
   
-  fs.writeFile("./SB1.txt",ntext, function (err) {
+  fs.writeFile("./PBC.txt",ntext, function (err) {
     if (err) throw err;
     console.log('Replaced!');
   });

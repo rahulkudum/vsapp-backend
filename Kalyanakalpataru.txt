@@ -1,8 +1,7 @@
 Folio Archives
 Kalyana-Kalpataru
 
-Part 0 Maṅgalācaraṇa
-Invoking Auspiciousness
+Part 0 Maṅgalācaraṇa-Invoking Auspiciousness
 
 Song 1
 
@@ -304,9 +303,7 @@ bhakti-bale koro' dūra kutarka-anala
 
 
 
-Part One
-Updeśa
-Teaching
+Part 1 Updeśa-Teaching
 Song 0
 
 Text 1
@@ -1448,9 +1445,7 @@ chāro bhāi aparādhā-doṣa
 
 
 
-Part Two – Chapter-1 
-Anutāpa-lakṣaṇa-upalabdhi
-Repentance
+Part 2 Anutāpa lakṣaṇa upalabdhi-Repentance
 
 Song 1
 
@@ -1720,9 +1715,7 @@ pāra habe e bipada ghora
 
 
 
-Part Two – Chapter-2 
-Nirveda-lakṣaṇa-upalabdhi
-Renunciation
+Part 3 Nirveda lakṣaṇa upalabdhi-Renunciation
 
 Song 1
 
@@ -2102,9 +2095,7 @@ paramārtha nā hoibe bādha
 
 
 
-Part Two – Chapter-3 
-Sambandha-abhidheya-prayojana
-The Soul's Relationship with the Supreme Lord, His Activities in that Relationship, and the final Goal of Life
+Part 4 Sambandha abhidheya prayojana-The Soul's Relationship with the Supreme Lord, His Activities in that Relationship, and the final Goal of Life
 
 Song 1
 
@@ -2801,9 +2792,7 @@ gṛhe thāko bane thāko ithe tarka akāraṇa
 
 
 
-Part Three-Chapter-1 
-Prārthanā Dainyamayī
-Humble Prayers
+Part 5 Prārthanā Dainyamayī-Humble Prayers
 
 Song 1
 
@@ -3209,9 +3198,7 @@ bhakatibinoda nāre hoibāre pāra
 
 
 
-Part Three-Chapter-2
-Prārthanā Lalasāmayī
-Prayers Filled With Longing
+Part 6 Prārthanā Lalasāmayī-Prayers Filled With Longing
 
 Song 1
 
@@ -4171,9 +4158,7 @@ dekhāibe dāsa māni'
 
 
 
-Part Three-Chapter-3
-Vijñapti
-Appeals
+Part 7 Vijñapti-Appeals
 
 Song 1
 
@@ -4534,13 +4519,9 @@ binoda dhoriche pāya
 
 
 
-Part Three-Chapter-4
-Ucchwāsa-kīrtana
-Ecstatic Chanting
 
-Part Three-Chapter-4 Section One
-Nama-kīrtana
-Chanting of the Holy Names
+
+Part 8 Nama kīrtana-Chanting of the Holy Names
 
 Song 1
 
@@ -4677,9 +4658,7 @@ rākho bacana mana mora
 
 
 
-Part Three-Chapter-4 Section Two
-Rūpa-kīrtana
-Singing the Glories of the Lord's Form
+Part 9 Rūpa kīrtana-Singing the Glories of the Lord's Form
 
 Song 1
 
@@ -4763,9 +4742,7 @@ anāyāse pāi         kṛṣṇa-guṇa gāi
 
 
 
-Part Three-Chapter-4 Section Three
-Guṇa-kīrtana
-Singing the Glories of the Lord's Qualities
+Part 10 Guṇa kīrtana-Singing the Glories of the Lord's Qualities
 
 Song 1
 
@@ -4879,9 +4856,7 @@ dīna-hīna-binodera gati
 
 
 
-Part Three-Chapter-4 Section Four
-Līlā-kīrtana
-Chanting the Glories of the Lord's Pastimes
+Part 11 Līlā kīrtana-Chanting the Glories of the Lord's Pastimes
 
 Song 1
 
@@ -4983,9 +4958,7 @@ binoda minati kore'
 
 
 
-Part Three-Chapter-4 Section Five
-Rasa-kīrtana
-Chanting the Glories of the Transcendental Mellows
+Part 12 Rasa kīrtana-Chanting the Glories of the Transcendental Mellows
 
 Song 1
 
