@@ -1,7 +1,7 @@
 Folio Archives
-Prarthana (Prayers)
+Prarthana-Prayers
 
-Part 1 Lalasamayi (Longings)
+Part 1 Lalasamayi-Longings
 
 Song 1
 
@@ -49,7 +49,7 @@ prārthanā karaye sadā narottama dāsa
      My only aspiration is to attain the lotus feet of the Six Gosvamis headed by Srila Rupa Gosvami and Srila Raghunatha dasa Gosvami.  Narottama dasa constantly prays to attain their lotus feet.
 
 
-Part 2 Samprarthanatmika (Appeal)
+Part 2 Samprarthanatmika-Appeal
 
 Song 2
 
@@ -95,7 +95,7 @@ kahe doṅhe purāo mana-sādhe
 
      O Radha, all glories to You. O Krsna all glories to You. O Radha and Krsna, all glories, all glories to You. O Krsna, O Krsna, all glories to You, O Radha, all glories to You.  Narottama dasa places His folded hands upon his head, and falls to the ground before You.  Please fulfill the desires of his heart.
 
-Part 3 Dainya-bodhika (The Author Describes His Fallen Condition)
+Part 3 Dainya bodhika-The Author Describes His Fallen Condition
 
 Song 3
 
@@ -323,7 +323,7 @@ narottama dāsa kahe jīvera ucita nahe
 
      My mind is absorbed in sense-gratification, and I do not take pleasure in the association of devotees.  For this reason pain and regret arise within my heart.  Narottama dasa says: It is not good to live without serving the spiritual master and the Vaisnavas.
 
-Part 4 Dainya-bodhika prarthana (Prayer Wherein the Author Describes His Fallen Condition)
+Part 4 Dainya bodhika prarthana-Prayer Wherein the Author Describes His Fallen Condition
 
 Song 8
 
@@ -381,7 +381,7 @@ tanū mana saṁpinū āpanā
 
      I shall now concentrate my mind on the lotus feet of Sri Sri Radha and Krsna, and all my material desires will flee far away.  Narottama dasa says---Now that I have fixed my mind on Sri Sri Radha and Krsna, I am no longer afraid of my future.
 
-Part 5 Swabhista-lalasa (Longings)
+Part 5 Swabhista lalasa-Longings
 
 Song 9
 
@@ -711,8 +711,7 @@ narottama māge ei dāna
 
      O Lokanatha Gosvami, O my spiritual master, O friend of the poor and wretched conditioned souls, O ocean of mercy, please hear the appeal of this person who is very misrable and poor-hearted.  O Radha and Krsna, O holy land of Vrndavana, O intimate gopi-friends of the Divine Couple, I beg that you all grant this charity to me.  Please fulfill these desires.
 
-Part 6 Punah Svabhista-lalasa (The Author Continues the 
-Description of His Longings
+Part 6 Punah Svabhista lalasa-The Author Continues the Description of His Longings
 
 Song 15
 
@@ -770,7 +769,7 @@ narottama karibe śravaṇe
 
      When will I directly see the lotus faces of the Divine Couple?  When will Narottama dasa jubilantly hear Kundalata-devi's narration of the nectarean pastimes performed by the Divine Couple in the groves of Vrndavana? When will that day be?
 
-Part 7 Lalasa (Longings)
+Part 7 Lalasa-Longings
 
 Song 16
 
@@ -1204,7 +1203,7 @@ tūmi ta dayālu prabhu! cāha eka bāra
 
      O master, if you are at all merciful to me, then please glance upon me one time.  Please dispell the darkness in Narottama dasa's heart.
 
-Part 8 Sadhaka-dehocita Lalasa (The Devotee's Aspiration)
+Part 8 Sadhaka dehocita lalasa-The Devotee's Aspiration
 
 
 
@@ -1264,7 +1263,7 @@ prārthanā karaye sadā narottama dāsa
      All of You please be merciful to me and fulfill my desire.  This is the constant prayer of Narottama dasa.
 
 
-Part 9 Sadhaka-dehocita-Sri-brndabana-basa-lalasa (The Devotee's Aspiration to Reside in Sri Vrndavana)
+Part 9 Sadhaka dehocita Sri brndabana basa lalasa-The Devotee's Aspiration to Reside in Sri Vrndavana
 
 Song 26
 
@@ -1487,7 +1486,7 @@ kabe vā emana daśā haibe āmāra
 
      Narottama dasa renounces the materialistic way of life and says:  "When will I attain this perfection of spiritual life?"
 
-Part 10 Sa-bilapa Sri -brndabana-basa-lalasa (Lamentation and Yearning to Reside in Sri Vrndavana)
+Part 10 Sa bilapa Sri brndabana basa lalasa-Lamentation and Yearning to Reside in Sri Vrndavana
 
 Song 30
 
@@ -1540,8 +1539,7 @@ narottama dāsa kare āśa
 
      Narottama dasa hopes that he will be able to reside in Vrndavana in the association of the saintly devotees.
 
-Part 11 Mathura-virahocita Darsana-lalasa
-(The Author Yearns to Again see Mathura)
+Part 11 Mathura virahocita darsana lalasa-The Author Yearns to Again see Mathura
 
 Song 31
 
@@ -1727,7 +1725,7 @@ hasa--of joking an laughing; bilasa--of pastimes; rasa--nectar; sarala--sincere;
 
      With the nectar of Their joking and laughter, and the sweetness of Their charming talks, the Divine Couple fulfills all the desires of Narottama dasa. Dressed in wonderful colorful garments, Their hair decorated with flowers, the Divine Couple performs pastimes, enchanting the eyes of everyone.
 
-Part 12 Swa-nistha (My Faith)
+Part 12 Swa nistha-My Faith
 
 Song 36
 
@@ -1763,7 +1761,7 @@ kahe dīna narottama dāsa
 
      My mind is firmly convinced of the spiritual  benefit obtained by eating the remnants of foodstuff left by the devotees.   The names of the devotees are my happiness. The land of Vrndavana is the enclosure within which I keep my mind. Poor-hearted Narottama dasa speaks in this way.
 
-Part 13 Nityanda-nistha (Faith in Lord Nityananda)
+Part 13 Nityanda nistha-Faith in Lord Nityananda
 
 Song 37
 
@@ -1811,7 +1809,7 @@ rākha rāṅgā caraṇera pāśa
 
      The lotus feet of Lord Nityananda are not illusion; they are a fact, and therefore one who engages in the transcendental loving service of Nityananda is also transcendental.  For this reason one should always try to catch the lotus feet of Lord Nityananda.  O Lord Nityananda, this Narottama dasa is very unhappy, and therefore I am praying that You please make me happy.  Please keep me in a corner of Your reddish lotus feet.
 
-Part 14 Gauranga-nistha (Faith in Lord Caitanya)
+Part 14 Gauranga nistha-Faith in Lord Caitanya
 
 Song 38
 
@@ -1855,7 +1853,7 @@ nā bhajite deya prema-dhana
 
      If you place Lord Gauranga, the brahmana king of dancers, within your heart, then what will death be able to do to you? Narottama dasa says: There is no one equal to Lord Gauranga.  Even if one will not become His devotee, still Lord Gauranga will freely give him the treasure of love of Krsna.
 
-Part 15 Sabarana-Gaura-mahima (The Glories of Lord Gauranga)
+Part 15 Sabarana Gaura mahima-The Glories of Lord Gauranga
 
 Song 39
 
@@ -1900,7 +1898,7 @@ narottama māge tā’ra saṅga
 
      If one says: "Let me dive deep into the waves of the nectarean ocean of the transcendental loving movement introduced by Lord Caitanya," he immediately becomes  one of the confidential devotees of Radha and Krsna.  It does not matter whether one is a householder living at home or a vanaprastha or sannyasi living in the forest, if he chants "O Gauranga", and becomes a devotee of Lord Caitanya, then Narottama dasa begs to have his association.
 
-Part 16 Punah Prarthana (Another Prayer)
+Part 16 Punah Prarthana-Another Prayer
 
 Song 40
 
@@ -1952,8 +1950,7 @@ rāmacandra-saṅga māge narottama-dāsa
 
      O Sri Svarupa Damodara Gosvami, O Sri Sanatana Gosvami, O Sri  Rupa Gosvami, O Sri Raghunatha dasa Gosvami, O Sri  Raghunatha Bhatta Gosvami and Sri  gopala Bhatta Gosvami, O Sri  Jiva Gosvami, O my master, Sri  Lokanatha Gosvami, O Sri Srinivasa Acarya, I beg you all to please be merciful to me. Narottama dasa prays that he may always have the company of Ramacandra Cakravarti.
 
-Part 17 Sa-parsada-bhagavad-viraha-janita-vilapa
-(Separated from the Lord and His Associates, the Author Laments)
+Part 17 Sa parsada bhagavad viraha janita vilapa-Separated from the Lord and His Associates, the Author Laments
 
 Song 41
 
@@ -2001,7 +1998,7 @@ se-saṅga nā paiya kānde narottama dāsa
 
      Being unable to obtain the association of Lord Gauranga accompanied by all of these devotees in whoseassociation He performed His pastimes, Narottama dasa simply weeps.
 
-Part 18 Aksepa (regret)
+Part 18 Aksepa-regret
 
 Song 42
 
@@ -2095,7 +2092,7 @@ dhik dhik narottama dāsa
 
      Haridasa Thakura and the other devotees travelled about absorbed in a sonstant festival of the glorification of Lord Krsna, but i myself was unable to see these blissful pastimes.  How sad is my tale.  I have wasted my life.  Fie, fie on Narottama dasa.
 
-Part 19 Baisnaba-mahima (Glorification of the Devotees)
+Part 19 Baisnaba mahima-Glorification of the Devotees
 
 Song 44
 
@@ -2143,7 +2140,7 @@ mora daśā kena haila bhaṅga
 
      Moment after moment my mind finds constant pleasure in the association of the Vaisnavas.  I always seek out the company of those who are devoted to Lord Krsna.  Poor-hearted Narottama dasa breaks down and cries. How has this fallen condition come upon me?
 
-Part 20 Baisnaba-bijnapti  (Prayer to the Vaisnavas)
+Part 20 Baisnaba bijnapti-Prayer to the Vaisnavas
 
 Song 45
 
@@ -2295,7 +2292,7 @@ ei-bāra narottame karaha nistāra
 
      O master, O purifier of the sinful, O savior of the fallen souls, please rescue this Narottama dasa.
 
-Part 21 Sri - rupa-rati manjaryah Vijnaptih (Prayer to Sri Rupa manjari and Sri Rati-manjari)
+Part 21 Sri rupa rati manjaryah Vijnaptih-Prayer to Sri Rupa manjari and Sri Rati manjari
 
 Song 48
 
@@ -2353,7 +2350,7 @@ prārthanā karaye sadā narottama dāsa
 
      Please allow me to join the eternal pastimes of the Divine Couple in Vrndavana.  Narottama dasa constantly prays in this way.
 
-Part 22 Sakhi-vrnde Vijnaptih (Prayer to the Gopis)
+Part 22 Sakhi vrnde vijnaptih-Prayer to the Gopis
 
 Song 49
 
@@ -2411,8 +2408,7 @@ sri-krsna-caitanya-prabhura--of Sri Krsna Caitanya Mahaprabhu; dasera--of the se
 
      Narottama dasa, the servant of the servant of Sri Krsna Caitanya Mahaprabhu, longs for this service to the Divine Couple.
 
-Part 23 Siddha-dehena Sri -vrndavanaisvaryam saksad-vijnaptih
-(The Author Prays to Attain a Spiritual body in Sri Vrndavana-dhama)
+Part 23 Siddha dehena Sri vrndavanaisvaryam saksad vijnaptih-The Author Prays to Attain a Spiritual body in Sri Vrndavana dhama
 
 Song 50
 
@@ -2524,7 +2520,7 @@ duṅhu-jana heraba nayāne
 
      Narottama dasa hopes that some day he will be able to drink the sweet honey of the service of the lotus feet of the Divine Couple.  Will that day ever be?  I do not see any indication that I will become able to directly see the Divine Couple with my own eyes.
 
-Part 24 Sri Krsne Vijnaptih  (Prayer to Sri Krsna)
+Part 24 Sri Krsne Vijnaptih-Prayer to Sri Krsna
 
 Song 52
 
