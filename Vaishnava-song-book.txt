@@ -137,7 +137,7 @@ book SVA_1_15
 
 
 Bhaja Gauranga Kaha Gauranga, 102
-link HG Sandhini Mataji https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Krsnadasa_Kaviraja_Goswami/Bhaja_Gauranga_Kaha_Gauranga/Bhaja_Gauranga_Kaha_Gauranga_-_Sung_by_Sarbani_Mataji_IDT.mp3
+link HG Sandhini Mataji https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Krsnadasa_Kaviraja_Goswami/Bhaja_Gauranga_Kaha_Gauranga/Bhaja_Gauranga_Kaha_Gauranga_-_Sung_by_HG_Sandhini_Mataji_IDT.mp3
 link HG Sarbani Mataji https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Krsnadasa_Kaviraja_Goswami/Bhaja_Gauranga_Kaha_Gauranga/Bhaja_Gauranga_Kaha_Gauranga_-_Sung_by_Sarbani_Mataji_IDT.mp3
 
 
@@ -1385,7 +1385,8 @@ link HG Krsna Kirtan Prabhu https://audio.iskcondesiretree.com/06_-_More/10_-_Bh
 book SVA_2_9
 
 
-
+Nitya Siddha Parsada Saba Radha Krsna Smare,
+link HG Ananda Radhe Mataji https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_A_C_Bhaktivedanta_Swami_Prabhupada/Nitya_Siddha_Parsada_Saba_Radha_Krsna_Smare/Nitya_Siddha_Parsada_Saba_Radha_Krsna_Smare_-_Sung_by_HG_Ananda_Radhe_Mataji_IDT.mp3
 
 
 
@@ -1562,6 +1563,10 @@ link HG Vaiyasaki Prabhu https://audio.iskcondesiretree.com/06_-_More/10_-_Bhaja
 
 
 
+Sambandha Janiya Yeba Jivana Yuddha Kore,
+link HG Ananda Radhe Mataji https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_A_C_Bhaktivedanta_Swami_Prabhupada/Sambandha_Janiya_Yeba_Jivana_Yuddha_Kore/Sambandha_Janiya_Yeba_Jivana_Yuddha_Kore_-_Sung_by_HG_Ananda_Radhe_Mataji_IDT.mp3
+
+
 Sakhe Kalaya Gauram Udaram, 78
 link HG Jai Sachinanadana Prabhu https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_Rupa_Goswami/Sakhe_Kalaya_Gauram_Udaram/Sakhe_Kalaya_Gauram_Udaram_-_Sung_by_HG_Jai_Sachinanadana_Prabhu_IDT.mp3
  
@@ -1610,7 +1615,8 @@ book Saranagati_3_2
 
 
 
-
+Sisya Hoiya Kore Yei Gitar Sravana,
+link HG Ananda Radhe Mataji https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_A_C_Bhaktivedanta_Swami_Prabhupada/Sisya_Hoiya_Kore_Yei_Gitara_Sravana/Sisya_Hoiya_Kore_Yei_Gitara_Sravana_-_Sung_by_HG_Ananda_Radhe_Mataji_IDT.mp3
 
 
 
@@ -1936,7 +1942,8 @@ link HG Jai Sachinanadana Prabhu https://audio.iskcondesiretree.com/06_-_More/10
 
 
 
-
+Vrndavana Dhame Ami Boseyachi Eka,
+link HG Ananda Radhe Mataji https://audio.iskcondesiretree.com/06_-_More/10_-_Bhajans_and_Kirtans_-_Categories/Bhajans_by_A_C_Bhaktivedanta_Swami_Prabhupada/Vrindavana_Dhame_Ami_Bose_Achi_Eka/Vrindavana_Dhame_Ami_Bose_Achi_Eka_-_Sung_by_HG_Ananda_Radhe_Mataji_IDT.mp3
 
 
 
@@ -2019,6 +2026,7 @@ Done
 
 
 Abanika Majhe Dekha Dona Bhai
+Author: Vrndavana dasa Thakura
 (1)
 abanika majhe dekha dona bha-i
 aparupa rupa goracanda nita-i
@@ -2041,7 +2049,7 @@ TRANSLATION
 
 Song Name
 Bara Bara Plan Kori
-
+Author: A.C. Bhaktivedanta Swami
 (1)
 bāra bāra plan kori bāra bāra bhańge
 kakhon bhumite paḍi, kakhon ta’ pańke
@@ -2069,7 +2077,94 @@ TRANSLATION
 4) Beyond the ocean of material existence is multicolored with limitless pure consciousness. There is eternal peace and happiness where everyone is happily enjoying.
 
 Song Name
+Sambandha Janiya Yeba Jivana Yuddha Kore
+Author: A.C. Bhaktivedanta Swami
+
+(1)
+“sambandha” janiya yeba jivana yuddha kore
+sei to’ vańciya thake ar saba mare
+ 
+(2)
+“sambandha” na jani jeba ana pathe dhaya
+kṛṣṇa pritii nahi mile vṛtha janma jay
+ 
+(3)
+kṛṣṇa se sambandha adi bhalo kore bujha
+se sambandha rakhi tumi maya sathe jujh
+ 
+(4)
+taha chaḍi hoy yeba jnana karma vira
+mokṣa nahi paya tara hoy to asthira
+ 
+1) One who fights the war of life knowing his true relationship, He will remain alive while all others will perish.
+ 
+2) One who does not know his relationship, and takes up some other path, He will never attain love of god, and his whole life is useless.
+ 
+3) First understand properly your relationship with Krsna, and then keeping that relationship, go and fight with maya.
+ 
+4) Other than this all the heroes of jnana and karma never attained liberation, they were all uncertain.
+
+Song Name
+Sisya Hoiya Kore Yei Gitar Sravana
+Author: A.C. Bhaktivedanta Swami
+(1)
+siṣya hoiya kore yei gitara sravaṇa
+ghucibe ajnana ara saḿsara bandhana
+ 
+(2)
+saḿsara ghucilo kintu bahya nyasi noy
+gitar tatparye gṛhi e rupa bujhay
+ 
+(3)
+“kariṣye vacanaḿ tava” sei mantra siddhi
+ataeva yuddhe tanra ho’lo yaso-vṛddhi
+ 
+(4)
+vaiṣṇava niriha saba mala japa kore
+e kon vaiṣṇava arjuna saḿsara bhitore
+ 
+1) Becoming a disciple, Arjuna listened to the Bhagavad-gita. All his ignorance dissipated as well as his material bondage.
+ 
+2) His material bondage was cut, but he was not dressed as a sannyasi. The householders understand the Gita's meaning this way.
+ 
+3) The perfection of mantras was “I will do what you say.” Therefore, the war that he fought brought him an increase in fame.
+ 
+4) Vaisnavas have no desires. They all chant on beads. What kind of Vaisnava is Arjuna in the middle of the material world?
+
+
+Song Name
+Vrndavana Dhame Ami Boseyachi Eka
+Author: A.C. Bhaktivedanta Swami
+(1)
+vrndavana dhame ami bose'achi eka
+e bhavana madhye madhye deya more dekha
+ 
+(2)
+ache mora stri putra kanya nati saba
+kintu artha nai boli biphala vaibhava
+ 
+(3)
+pakrtira nagnarupa dekhale sri krsṇa
+tava krpa bale aja hayechi vitrsṇa
+ 
+(4)
+"yasyaham anugrhṇami hariye tad-dhanaḿ sanaiḥ"
+krpamoyer ei krpa bujhilam kai?
+ 
+ 
+1) I am sitting alone in the holy land of Vrndavana. In this mood, many realizations have been coming about.
+ 
+2) I have my wife, sons, daughters, grandchildren, and everyone. Because I have no wealth, however, they consider me fruitless and without any opulence.
+ 
+3) Sri Krsna has shown me material existence in its naked form. Because of the strength of Your mercy, I’ve become disguisted by it.
+ 
+4) “To whom I show favor to, I will take away his wealth, gradually.” how will I understand the mercy of the merciful Lord?
+
+
+
+Song Name
 Sarac Candra Bhrantim
+Author: Prabodhananda Sarasvati
 (1)
 sarac-candra-bhrāntiḿ sphurad-amala-kāntiḿ gaja-gatiḿ
 hari-premonmattaḿ dhṛta-parama-sattvaḿ smita-mukham
@@ -2129,6 +2224,7 @@ TRANSLATION
 Song Name
 
 Batula Kahaye Setha Saba Nirakara
+Author: A.C. Bhaktivedanta Swami
 (1)
 bātula kahaye “sethā saba nirākāra”
 nirviśeṣa tini yena śunyera prakāra”
@@ -2150,6 +2246,7 @@ TRANSLATION
 
 Song Name
 Bhakti Ahaituki Hoy Sva Prakasita
+Author: A.C. Bhaktivedanta Swami
 (1)
 bhakti ahaitukī hoy sva prakāśita
 nitya siddha vastu kintu āche āvarita
@@ -2213,7 +2310,7 @@ Song Name
 
 
 Maha Vadanya Isvara Sri Gaura Sundara
-
+Author: A.C. Bhaktivedanta Swami
 (1)
 maha vadanya isvara sri gaura sundara
 tańhara amṛta vaṇi madhura mukhara
@@ -2239,7 +2336,32 @@ TRANSLATION
  
 4) Those who are not performing transcendental service are are not able to taste these pastimes. In the material body one cannot relish this transcendental nectar.
 
-Song Name 
+Song Name
+Author: A.C. Bhaktivedanta Swami
+Nitya Siddha Parsada Saba Radha Krsna Smare 
+(1)
+nitya siddha parṣada saba radha kṛṣṇa smare
+tandera smaraṇa jiver sarva-papa hare
+ 
+(2)
+anukaraṇa kori yadi sei bhava dhare
+maya kavalita hoy saḿsara na tore
+ 
+(3)
+pracar koroho sada jiva ghare ghare
+saphala hoibe jivana pracarera dvare
+ 
+(4)
+sri dayita dasa prabhu dena ei sikṣa
+koro ucchaiḥ svare nama ei tańra dikṣa
+ 
+1) They are all eternally perfect associates of the Lord and always remember Radha and Krsna. Remembering them all the conditioned souls sins are cleared away.
+ 
+2) If he tries to imitate them taking on their dress and characteristics, he becomes the plaything of maya and does not cross over the material ocean.
+ 
+3) Always preach! From door to door for all the spirit souls! Your life will be successful as a result of your preaching.
+ 
+4) Sri Dayita Dasa (Srila Bhaktisiddhanta Sarasvati Thakura) gave this instruction, “In a loud voice, chant the holy name! That is initiation!”
 
 
 
@@ -2250,7 +2372,7 @@ Song Name
 
 
 
-
+Song Name
 Jagannatha Tattva
 (1)
 jaya jagannatha, jaya jagannatha, jaya jagannatha, jaya jagannatha
@@ -2282,6 +2404,7 @@ TRANSLATION
 Song Name
 
 Karma Phale Ase Saba Nana Vesa Dhari
+Author: A.C. Bhaktivedanta Swami
 (1)
 karma phale ase saba nana vesa dhari
 vesete majiya thake bhuliya sri hari
