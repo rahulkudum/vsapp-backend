@@ -4700,10 +4700,11 @@ dwija hari-dāsa kahe nāma-saṅkīrtana
 Part 4 Poems Glorifying Lord Gaurāṅga
 
  
-Poem 173 Śrī Śacītanayāṣṭaka (Eight Prayers Glorifying Śacī's Son) 
+Song 173  (Eight Prayers Glorifying Śacī's Son) 
  
 
-Text 1 ujjvala-varaṇa-gaura-vara-dehaṁ
+Text 1 Śrī Śacītanayāṣṭaka
+ ujjvala-varaṇa-gaura-vara-dehaṁ
      vilasita-niravadhi-bhāva-videham
 tri-bhuvana-pāvana-kṛpāyāḥ lesāṁ
      taṁ praṇamāmi ca śrī-śacī-tanayam
@@ -4754,10 +4755,11 @@ kalevara-kaiśora-nartaka-veśaṁ
      Text 8 I offer my respectful obeisances to Śacī's glorious son. His eyes rebuke the red lotus-petals. His graceful arms reach to His knees. His youthful form wears the garments of a dancer.
 
  
-Poem 174 Śrī Caitanya-nāma-stotram (Prayers Glorifying Lord Caitanya's Holy Names)
+Song 174  (Prayers Glorifying Lord Caitanya's Holy Names)
  
 
-Text 1 śrī-gaurāṅgaś cid-ānandaḥ
+Text 1 Śrī Caitanya-nāma-stotram
+śrī-gaurāṅgaś cid-ānandaḥ
      kṛṣṇaś caitanya-vigrahaḥ
 navadvīpa-nivāsī ca
      jagannātha-sutas tathā
@@ -4787,10 +4789,11 @@ abhyantare śyāma-varṇo
 Part 5 Poems Glorifying Lord Govinda
 
  
-Poem 175 Śrī Kṛṣṇāṣṭaka (Eight Prayers Glorifying Lord Kṛṣṇa)
+Song 175  (Eight Prayers Glorifying Lord Kṛṣṇa)
  
 
-Text 1 śriyāśliṣṭo viṣṇuḥ sthira-cara-vapur veda-viṣayo
+Text 1 Śrī Kṛṣṇāṣṭaka
+śriyāśliṣṭo viṣṇuḥ sthira-cara-vapur veda-viṣayo
      dhiyāṁ sākṣī śuddho harir asura-hantābja-nayanaḥ
 gadī saṅkhī cakrī vimala-ghana=mālī sthira-ruciḥ
      śaraṇyo lokeśo mama bhavatu kṛṣṇo 'kṣi-viṣayaḥ
@@ -4841,10 +4844,11 @@ satāṁ dhātā svaccho nigama-gaṇa-gīto vraja-patiḥ
      Text 8 I take shelter of Lord Kṛṣṇa, the master of all the worlds. I pray that some day I will see Him with my own eyes. Whenevr there is a decline of religion and the people of the worlds are distrubed by troubles, then Lord Kṛṣṇa, who is the unborn master of the worlds and the upholder of religious principles, manifests His form in this world. He is the protector of the saintly devotees. He is effulgent, pure, and handsome. He is glorified in all the scriptures. He is the master of Vraja.
 
 
-Poem 176 Śrī Kṛṣṇāṣṭaka (Eight Prayers Glorifying Lord Kṛṣṇa)
+Song 176  (Eight Prayers Glorifying Lord Kṛṣṇa)
  
 
-Text 1 bhaje vrajaika-maṇḍanaṁ samasta-pāpa-khaṇḍanaṁ
+Text 1 Śrī Kṛṣṇāṣṭaka
+bhaje vrajaika-maṇḍanaṁ samasta-pāpa-khaṇḍanaṁ
      sva-bhakta-citta-rañjanaṁ sadaiva nanda-nandanam
 su-piccha-guccha-mastakaṁ su-nāda-veṇu-hastakam
      anaṅga-raṅga-sāgaraṁ namāmi kṛṣṇa-nāgaram
@@ -4899,10 +4903,11 @@ Text 9 pramāṇikāṣṭaka-dvayaṁ japaty adhītya yaḥ pumān
      Text 9 I pray that whoever reads or recites these eight prayers will be fervently devoted to Nanda's son, devoted birth after birth.
 
  
-Poem 177 Śrī Govindāṣṭaka (Eight Prayers Glorifying Lord Govinda)
+Song 177  (Eight Prayers Glorifying Lord Govinda)
  
 
-Text 1 cid-ānandākāraṁ śruti-sarasa-sāraṁ sama-rasaṁ
+Text 1 Śrī Govindāṣṭaka
+cid-ānandākāraṁ śruti-sarasa-sāraṁ sama-rasaṁ
      nirādhārādhāraṁ bhava-jaladhi-pāraṁ para-guṇam
 ramā-grīvā-hāram vraja-vana-vihāraṁ hara-nutaṁ
      sadā taṁ govindaṁ parama-sukha-kandaṁ bhajata re
@@ -4954,10 +4959,11 @@ sva-niṣṭhaṁ dharmiṣṭhaṁ guru-gaṇa-gariṣṭhaṁ guru-varaṁ
      Text 8 He is supreme in all the worlds. He is the greatest. He is Indra's younger brother Upendra. He is the master of all yajñas. He is the most powerful. He is the best. He is the most exalted in the three worlds. He is the granter opf benedictions. He is independent. He is religious. He is the best of all gurus. He is the supreme master. O people, please always worship Lord Govinda, the root of all bliss.
 
  
-Poem 178 Śrī Nanda-nandanāṣṭaka (Eight Prayers Glorifying Nanda's Son
+Song 178  (Eight Prayers Glorifying Nanda's Son
  
 
-Text 1 su-cāru-vaktra-maṇḍalaṁ
+Text 1 Śrī Nanda-nandanāṣṭaka
+su-cāru-vaktra-maṇḍalaṁ
      su-karṇa-ratna-kuṇḍalam
 su-carcitāṅga-candanaṁ
      namāmi nanda-nandanam
@@ -5014,10 +5020,11 @@ tared bhavābdhi-dustaraṁ
      Text 9 I pray that the faithful person who reads or recites this Śrī Nanda-nandanāṣṭaka will cross the impassable ocean of birth and death and attain the feet of Nanda's son.
 
  
-Poem 179 Śrī Bindu-Mādhavāṣṭaka (Eight Prayers Glorifying Lord Bindu-Mādhava) 
+Song 179  (Eight Prayers Glorifying Lord Bindu-Mādhava) 
  
 
-Text 1 kalindajā-taṭāṭavī-latā-niketanāntara-
+Text 1 Śrī Bindu-Mādhavāṣṭaka
+ kalindajā-taṭāṭavī-latā-niketanāntara-
      pragalbha-ballavī-sphurad-rati-prasaṅga-saṅgatam
 sudhā-rasārdra-veṇu-nāda-moda-mādhurī-mada-
      pramatta-gopa-go-vrajaṁ bhajāmi bindu-mādhavam
@@ -5074,10 +5081,11 @@ prasiddha-bindu-mādhavāṣṭakaṁ paṭhanti ye narāḥ
      Text 9 This Bindu-Mādhavāṣṭaka follows the description of the Lord's ten avatāras, a description given in the famous book named Pañca-cāmara, a book written by a devotee of Lord Nṛsiṁha. Anyone who reads or recites these prayers attains even rare or difficult-to-attain desires.
 
  
-Poem 180 Śrī Hari-nāmāṣṭaka (Eight Prayers Glorifying the Lord Hari's Holy Names)
+Song 180  (Eight Prayers Glorifying the Lord Hari's Holy Names)
  
 
-Text 1 śrī-keśavācyuta mukunda rathāṅga-pāṇe
+Text 1 Śrī Hari-nāmāṣṭaka
+ śrī-keśavācyuta mukunda rathāṅga-pāṇe
      govinda mādhava janārdana dānavāre
 nārāyaṇāmara-pate tri-jagan-nivāsa
      jihve japeti satataṁ madhurākṣarāṇi
@@ -5134,10 +5142,11 @@ viṣṇoḥ param padam upaiti punar na jātu
      Text 9 Anyone who with fixed concentration regularly chants or reads these eight stanzas glorifying the Supreme Lord's holy names will attain Lord Viṣṇu's supreme abode. Never again will that person drink the milk from a mother's breast. That is the truth.
 
  
-Poem 181 Śrī Kṛṣṇa-nāmāvalī-stotra (Prayers Glorifying Lord Kṛṣṇa's Holy Names)
+Song 181  (Prayers Glorifying Lord Kṛṣṇa's Holy Names)
  
 
-Text 1 nāma-cintāmaṇe kṛṣṇa
+Text 1 Śrī Kṛṣṇa-nāmāvalī-stotra
+ nāma-cintāmaṇe kṛṣṇa
      caitanya-rasa-vigraha
 pūrṇa śuddha nitya muktā-
      bhinnātman karuṇāmaya
