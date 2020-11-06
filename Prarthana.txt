@@ -45,7 +45,7 @@ Text 5
 rūpa-raghunātha-pade rahu mora āśa
 prārthanā karaye sadā narottama dāsa
 
-     rupa of Rupa Gosvami; raghunatha--of Raghunatha dasa Gosvami; pade--at the lotus feet; rahu--is; mora--my; asa--aspiration; prarthana--prayer; koroye--does; sada--continually; narottama dasa--Narottama dasa; 
+     rupa of Rupa Gosvami; raghunatha--of Raghunatha dasa Gosvami; pade--at the lotus feet; rahu--is; mora--my; asa--aspiration; prarthana--prayer; koroye--does; sada--continually; narottama dasa--Narottama dasa. 
      My only aspiration is to attain the lotus feet of the Six Gosvamis headed by Srila Rupa Gosvami and Srila Raghunatha dasa Gosvami.  Narottama dasa constantly prays to attain their lotus feet.
 
 
@@ -144,11 +144,11 @@ dhik dhik narottama dāsa
 Song 4
 
 Text 1
-hari hari! biphale janama goñāinu
+hari hari! biphale janama goṣāinu
 manuṣya-janama pāiya rādhā-kṛṣṇa nā bhajiyā
 jāniyā śuniyā biṣa khāinu
 
-hari hari!—O Lord Hari!; biphale—uselessly; janama goìäinu—I have spent my life; manuñya-janama päiyä—having obtained a human birth; rädhä-kåñëa—Rädhä and Kåñëa; nä bhajiyä—having not worshiped; jäniyä çuniyä—even after knowing and hearing about it; viña khäinu—I have drunk poison.
+hari hari!—O Lord Hari!; biphale—uselessly; janama goṅāinu—I have spent my life; manuṣya-janama pāiyā—having obtained a human birth; rādhā-kṛṣṇa—Rādhā and Kṛṣṇa; nā bhajiyā—having not worshiped; jāniyā śuniyā—even after knowing and hearing about it; viṣa khāinu—I have drunk poison.
 
 
      O Lord Hari, Lord Hari, I have spent my life uselessly.  Although I have obtained a human birth, I have refused to worship Radha and Krsna, and in this way I have knowingly drunk poison.
@@ -236,7 +236,7 @@ Song 6
 Text 1
 
 hari hari! kṛpā kari rākha nija-pade
-kāma krodha chaya jane lañā phire nānā sthāne
+kāma krodha chaya jane laṣā phire nānā sthāne
 viṣaya-bhuṅjāya nānā-mate
 
 hari--O Hari; hari--O Hari; krpa--mercy; kari'--giving; rakha--place me; nija-pade--at Your feet; kama--lust; krodha--anger; chaya--six; jane--person; lana--accetp; phire--wander; nana--various; sthane--in places; bisaya--the objects of the senses; bhunjaya--enjoying; sana-mate--in various ways.
@@ -294,7 +294,7 @@ Text 2
 
 brajendranandana hari nabadvīpe avatāri
 jagata bhariyā prema dila
-muñi se pāmara-mati biśeṣe kaṭhina ati
+muṣi se pāmara-mati biśeṣe kaṭhina ati
 teṅhi more karuṇā nahila
 
      braja--of Vraja; indra--of the king; nandana--the son; hari--Lord Hari; nabadwipe--in Navadvipa; abatari'--having incarnated; jagat--the universe; bhariya--filling; prema--pure love of God; dila--the heart; muni--I; se--he; pamara--sinful; mati--minded; bisese--specifically; kathina--hard and cruel; ati--very; teni--that; more--in me; daruna--mercy; nahila--ther is not.
@@ -339,7 +339,7 @@ nāhi bhela hari-anurāga
 
 Text 2
 
-yajña dāna tīrtha-sthāna puṇya-karma japa dhyāna
+yajṣa dāna tīrtha-sthāna puṇya-karma japa dhyāna
 akāraṇe saba gela mohe
 bujhilāma mane hena upahāsa haya jena
 vastra hīna alaṅkāra dehe
@@ -535,7 +535,7 @@ attaining.
 
 Text 3
 
-teṅha kṛpābān haiñā rātula caraṇe laiñā
+teṅha kṛpābān haiṣā rātula caraṇe laiṣā
 āmāre karibe samarpaṇa
 saphala haibe daśā pūribe manera āśā
 sevi duṅhāra jugala-caraṇa
@@ -548,7 +548,7 @@ Text 4
 
 bṛndābane dui-jana caturdike sakhī-gaṇa
 sevana kariba avaśeṣe
-sakhī-gaṇa cāribhite nānā jantra laiñā hāte
+sakhī-gaṇa cāribhite nānā jantra laiṣā hāte
 dekhiba manera abhilāṣe
 
      brndabane--in Vrndavana; dui--two; jana--persons; caturddike--all around; sakhi-gana--friends; sebana--service; kariba--I will perform; abasese--specific; sakhi-gana--gopis; caribhite--on all sides; nana--various; jantra--paraphernailia; laina--attain; hate--is; dekhiba--I will see; manera--of the mind; abhilase--in the desire.
@@ -568,7 +568,7 @@ hena dina haibe āmāra
 
 Text 6
 
-śrī-rūpa-mañjarī sakhī more anāthinī dekhi
+śrī-rūpa-maṣjarī sakhī more anāthinī dekhi
 rākhibe rātula duṭī pāya
 narottama dāsa bhaṇe priya-narma-sakhī-gaṇe
 kabe dāsī karibe āmāra
@@ -591,7 +591,7 @@ duṅhu aṅge candana parāba
 
 Text 2
 
-ṭāniyā bāṅdhiba cūḍā nava guñjā-hāre beḍā
+ṭāniyā bāṅdhiba cūḍā nava guṣjā-hāre beḍā
 nānā phule gāṅthi diba hāra
 pīta-basana aṅge parāiba sakhī-saṅge
 badane tāmbūla diba āra
@@ -618,7 +618,7 @@ ei kari mane abhilāṣā
 jaya rūpa sanātana deha more ei dhana
 nivedaye narottama dāsa
 
-     sei--this; rupa--of beauty; madhuri--sweetnes; dekhiba--I will see; nayana--my eyes; bhari'--filling; ei--this; kari--I do; mane--in the mind; abhilasa--desire; jaya--all glories; rupa--of Srila Rupa Gosvami and Srila Sanatana Gosvami; deha--please give; more--to me; ei--this; dhana--treasure; nibedaye--appeals; narottama dasa--Narottama dasa; 
+     sei--this; rupa--of beauty; madhuri--sweetnes; dekhiba--I will see; nayana--my eyes; bhari'--filling; ei--this; kari--I do; mane--in the mind; abhilasa--desire; jaya--all glories; rupa--of Srila Rupa Gosvami and Srila Sanatana Gosvami; deha--please give; more--to me; ei--this; dhana--treasure; nibedaye--appeals; narottama dasa--Narottama dasa. 
 
      My desire is that some day I shall be able to directly see the sweet beauty of the transcendental forms of the Divine Couple.  O Srila Rupa Gosvami and Srila  Sanatana Gosvami, all glories to you both.  Please bestow this treasure upon me.  Please grant my desire.  Narottama dasa appeals to you in this way.
 
@@ -629,7 +629,7 @@ Text 1
 kusumita vṛndāvane nācata sakhī-gaṇe
 pika-kula bhramara jhāṅkāre
 priya-sahacari saṅge gāiyā jāibe raṅge
-manohara nikūñja-kūṭīre
+manohara nikūṣja-kūṭīre
 
      kusumita--filled with blossoming flowers; brndabane--in Vrndavana; nacate--dance; sikhi-gane--peacocks; pka-kula--cuckoos; bhramara--bees; jhankare--warble and buzz; priya--dear; sahacari--of the gopi-friends; sange--in the association; gaiya--singing; jaiba--I will go; range--in the arena; manohara--enchanting; nikunja--of the grove; kutire--in the cottage.
 
@@ -670,7 +670,7 @@ heraba mūkha-sudhākara
 Text 5
 
 nīla paṭṭāmbara yatane parāiba
-pāye diba ratana-mañjīre
+pāye diba ratana-maṣjīre
 bhṛṅgarera jale rāṅgā- caraṇa dhoyāiba
 muchāiba āpana cikure
 
@@ -732,7 +732,7 @@ muchāba āpana cikure
 kanaka-sampūṭa kari karpūra tāmbūla puri
 jogāiba dūṅhuka adhare
 
-     bhrngarera--of a pitcher; jale--with the water; ranga--reddish; carana--lotus feet; dhoyaiba--I will wash; muchaba--I will; wipe; apana--with my own; cikure--hair; kanaka--golden; samputa--box; kari'--doing; karpura--camphor; tambula--and betel-nuts puri'--filling; jogaiba--I will place; dunhuka--of the Divine Couple; adhare--on the lips; 
+     bhrngarera--of a pitcher; jale--with the water; ranga--reddish; carana--lotus feet; dhoyaiba--I will wash; muchaba--I will; wipe; apana--with my own; cikure--hair; kanaka--golden; samputa--box; kari'--doing; karpura--camphor; tambula--and betel-nuts puri'--filling; jogaiba--I will place; dunhuka--of the Divine Couple; adhare--on the lips. 
 
      When will I take water from a jar and wash the lotus feet of the Divine Couple?  When will I then dry Their feet using my own har as a towel?  When, from a golden box will I take betel-nuts and camphor, and place them on the lotus-lips of the Divine Couple?
 
@@ -761,7 +761,7 @@ mallika malati yuthi--with mallika and malati flowers; nana--various; phule--wit
 Text 5
 
 āra kabe emana habe duṅhu-mukha-nirakhiba
-līlā-rasa nikūñja-śayane
+līlā-rasa nikūṣja-śayane
 śrī-kundalatāra saṅge keli-kautuka raṅge
 narottama karibe śravaṇe
 
@@ -775,7 +775,7 @@ Song 16
 
 Text 1
 
-śrī-rūpa-mañjarī-pada sei mora sampada
+śrī-rūpa-maṣjarī-pada sei mora sampada
 sei mora bhajana-pūjana
 sei mora prāṇa-dhana sei mora ābharaṇa
 sei mora jīvanera jīvana
@@ -787,7 +787,7 @@ sri-rupa-manjari--of Sri Rupa-manjari; pada--the lotus feet; sei--they; mory--my
 
 Text 2
 
-sei mora rasa-nidhi sei mora bāñca-siddhi
+sei mora rasa-nidhi sei mora bāṣca-siddhi
 sei mora vedera dharama
 sei vrata, sei tapa sei mora mantra-japa
 sei mora dharama-karama
@@ -832,7 +832,7 @@ rī-rūpa-kṛpāya mile jugala-caraṇa
 Text 2
 
 hā hā prabhu ! sanātana gaura-paribāra
-sabe mili bāñcchā pūrṇa karaha āmāra
+sabe mili bāṣcchā pūrṇa karaha āmāra
 
      ha--O; ha--O; prabhu--master; sanatana--Sanatana Gosvami; gaura--of Lord Caitanya; paribara--personal associate; sabe--every; mili'--meeting; bancha--desire; purna--fill; karaha--do; amara--my.
 
@@ -848,7 +848,7 @@ se pada āśraya jāra sei mahāśaya
 
 Text 4
 
-prabhu lokanātha kabe saṅge laiñā jābe
+prabhu lokanātha kabe saṅge laiṣā jābe
 śrī-rūpera pāda-padme more samarpibe
 
      prabhu--master; lokanatha--Lokanatha Gosvami; kabe--when? sange--in association; lana--is; jabe--will go; sri-rupera--of Srila Rupa Gosvami; pada-padme--at the lotus feet; more--to me; samarpibe--will place.
@@ -876,7 +876,7 @@ hena śubha-kṣaṇa mora kata-dine habe
 
 Text 2
 
-śīghra ājñā karibena—dāsi hethā āya
+śīghra ājṣā karibena—dāsi hethā āya
 sebāra susajjā-kārya karaha tvarāya
 
      sighra--for a long time; ajna--orders; karibena--will give; dasi--O maidservant; hetha--here; aya--profit; sebara--of service; susajja--of nice dress; karya--duty; karaha--is; twarya--quickly.
@@ -885,7 +885,7 @@ sebāra susajjā-kārya karaha tvarāya
 
 Text 3
 
-ānandita hañā hiyā taṅra ājñā-bale
+ānandita haṣā hiyā taṅra ājṣā-bale
 pavitra mane kārya karibe tat-kāle
 
      anandita--delighted; hana--is; hiya--being so; ajna--of the order; bale--on the strength; pabitra--pure; manete--in the mind; karya--duty; karibe--will be; tat-kale--at that time.
@@ -915,8 +915,8 @@ Song 19
 
 Text 1
 
-śrī-rūpa paścāte āmi rahiba bhīta hañā
-doṅhe pūnaḥ kahibena āmā pāne cāñā
+śrī-rūpa paścāte āmi rahiba bhīta haṣā
+doṅhe pūnaḥ kahibena āmā pāne cāṣā
 
      sri-rupa--Sri Rupa-manjari; pascate--behind; ami--I; rahiba--will stay; bhita hana--frightened; donhe--the Divine Couple; punah--again; kahibena--will say; ama--I; pane-
 -in drinking; cana--desire.
@@ -932,8 +932,8 @@ kothāya pāile rūpa! ei nava dāsī
      When will the Divine Couple, compassionately smiling, say: "Where has Rupa-manjari gotten this young maidservant?"
 
 Text 3
-śrī-rūpa-mañjarī tabe doṅhā vākya śuni
-mañjūlālī dila more ei dāsī āni
+śrī-rūpa-maṣjarī tabe doṅhā vākya śuni
+maṣjūlālī dila more ei dāsī āni
 
 sri-rupa-manjari--Sri Rupa-manjari; tabe--then; donha--of Them; bakya--the statement; suni'--hearing; manjunali--Manjunali; dila--gave; more--to me; ei--this; dasi--maidservant; ani'--having brought.
 
@@ -968,7 +968,7 @@ ha--O; ha--O; prabhu--master; lokanatha--Lokanatha Gosvami; rakha--please place;
 
 Text 2
 
-mano-bāñcchā siddhi tabe haṅa purṇa-tṛṣṇa
+mano-bāṣcchā siddhi tabe haṅa purṇa-tṛṣṇa
 hethāya caitanya mile sethā rādhā-kṛṣṇa
 
      mano--of the mind; bancha--the desires; siddhi--fulfillment; tabe--then; hana--will be; purna--ulfilled; trsna--desires; hethaya--here; caitanya-Lord Caitanya; mile--meeting; setha--in tha place; radha-krsna--Sri Sri Radha and Krsna.
@@ -986,7 +986,7 @@ manera vāsanā purṇa kara ei bāra
 Text 4
 
 e tina saṁsāre mora āra kehā nai
-kṛpa kari ‘nija pada-tale deha ṭhāñi
+kṛpa kari ‘nija pada-tale deha ṭhāṣi
 
 e--this; tina--a person; samsare--in the world; mora--than me; ara--other; keha--someone; nai--not; krpa--mercy; kari'--giving; nija--own; p;ada--of the lotus fet; tale--at the sole; deha--please give; thani--consider.
 
@@ -1031,7 +1031,7 @@ mora samarpibe kabe sebara kāraṇe
 
 Text 4
 
-tabe se haibe mora bāñcchita pūraṇa
+tabe se haibe mora bāṣcchita pūraṇa
 ānande seviba doṅhāra jūgala caraṇa
      tabe--then; se--this; haibe--will be; mora--my; banchita--of desires; purana--fulfillment; anande--with bliss; sebiba--I will serve; donhara--of the Divine Couple; jugala--pairs; carana--of lotus feet.
 
@@ -1039,8 +1039,8 @@ tabe se haibe mora bāñcchita pūraṇa
 
 Text 5
 
-śrī-rūpa-mañjarī sakhī! kṛpā-dṛṣṭe cāñā
-tāpī narottame siñca sevāmṛta diñā
+śrī-rūpa-maṣjarī sakhī! kṛpā-dṛṣṭe cāṣā
+tāpī narottame siṣca sevāmṛta diṣā
      sri-rupa-manjari--O Sri Rupa-manjari; sakhi--o gopi-friend of the Divine Couple; krpa--of mercy; drste--with a glance; cana--please glance; tapi--distressed; narottame--Narottama dasa; sinca--please sprinkle; seba--of servicer; amrta--nectar; diya--granting.
 
      O Sri Rupa-manjari, O friend of the Divine Couple, please cast your glance of mercy upon me.  Please sprinkle this disreessed Narottama dasa with the nectar of your devotional service.
@@ -1076,7 +1076,7 @@ agurū-candana-gandha doṅha aṅge diba
 
 Text 4
 
-sakhīra ājñāya kabe tāmbūla jogāba
+sakhīra ājṣāya kabe tāmbūla jogāba
 sindūra tilaka kabe doṅhāke parāba
 
      sakhira--of the gopis; ajnaya--by the order; kabe--when?; tambula--betel-nuts; jogaba--I will bring; sindura--with red sindura; tilaka--tilaka markings; kabe--when? donkake--the Divine Couple; paraba--I will place.
@@ -1125,7 +1125,7 @@ bhramara haiyā sadā rahiba caraṇe
 Text 3
 
 ei āśā kari āmi jata sakhī-gaṇa
-tomādera kṛpāya haya bāñcchita pūraṇa
+tomādera kṛpāya haya bāṣcchita pūraṇa
 
 ei--this; asa--aspiration; kari--do; ami--I; jata--as much as; sakhi-gana--the gopis; tomadera--of you; krpaya--by the mercy; je--which; banchita--of desires; purana--fulfillment.
 
@@ -1133,7 +1133,7 @@ ei--this; asa--aspiration; kari--do; ami--I; jata--as much as; sakhi-gana--the g
 
 Text 4
 
-bahu-dina bāñcchā kari pūrṇa jāte haya
+bahu-dina bāṣcchā kari pūrṇa jāte haya
 sabe meli dayā kara haiyā sadaya
 
      bahu--for many; dine--days; bancha--desire; kari--I do; purna--fulfilled; jate--goes; haya--is; sabe--all; meli--meeting; daya--mercy; kara--please do; haiya--having become; sadaya--merciful.
@@ -1212,7 +1212,7 @@ Song 25
 Text 1
 
 hari hari! kabe mora haibe sudina
-bhajiba śrī-rādhā-kṛṣṇa hañā premādhīna
+bhajiba śrī-rādhā-kṛṣṇa haṣā premādhīna
      hari--O Lord Hari; hari--O Lord Hari; kabe--when?; mora--of me; haibe--will be; su-dina--auspicious day; bhajiba--I will worship; sri-radha-krsna--Sri Sri Radha and Krsna; haina--I will be; prema--by love; adhina--controlled.
 
      When will I directly worship Sri Sri Radha and Krsna?  When will I be overwhelmed with love for the Divine Couple?  O Lord Hari, when will that aupsicious day be mine?
@@ -1281,7 +1281,7 @@ Text 2
 
 sukhamaya vṛndāvana kabe habe daraśana
 se dhūli lāgibe kabe gāya
-preme gadagada haiñā rādhā-kṛṣṇa-nāma laiñā
+preme gadagada haiṣā rādhā-kṛṣṇa-nāma laiṣā
 kāṅdiyā beḍāiba ubharāya
      sukhamaya--full of happiness; brndabana--Vrndavana; kabe--when?; habe--will be; darasana--sight; see this; dhuli--dust; labibe will be smeared; kabe--when?; gaya--singing; preme--in ecstatic love; gadagada--a choked voice; haina--will be; radha-krsna--of Sri Sri Radha and Krsna; nama--the holy names; laina--talking; kaniya--crying; bedaba--I will walk; ubharaya--shouting. 
 
@@ -1289,7 +1289,7 @@ kāṅdiyā beḍāiba ubharāya
 
 Text 3
 
-nibhṛta nikuñja jāñā aṣṭāṅge praṇāma haiñā
+nibhṛta nikuṣja jāṣā aṣṭāṅge praṇāma haiṣā
 ḍākiba hā rādhā-nātha ! bali
 kabe jamunāra tīre paraśa kariba nīre
 kabe piba kara-puṭe tuli
@@ -1302,7 +1302,7 @@ Text 4
 
 āra kabe emana ha’ba śrī-rāsa-maṇḍale jāba
 kabe gaḍagaḍi diba tāya
-vaṁśīvaṭa-chāyā pāñā parama ānanda hañā
+vaṁśīvaṭa-chāyā pāṣā parama ānanda haṣā
 paḍiyā rahiba tāra chāya
      ara--and; kabe--when?; emana--like this; haba--will be; sri-rasa--of the rasa-dance; mandale--the arena; jaba--I will go; kabe--when?; gadagadi--rolling about; diba--I will give; taya--that; bamsibata--of Vamsivata; chaya--the shadow; pana--will obtain; parama--transcendental; ananda--bliss; hana--will be; padiya--falling down; rahiba--I will stay; tara--of that; chaya--shadow.
 
@@ -1314,7 +1314,7 @@ kabe govardhana giri dekhiba nayana bhari
 kabe habe rādhā-kuṇḍe vāsa
 bhramite bhramite kabe e deha patana habe
 kahe dīna narottama dāsa
-     kabe--when?; gobardhana giri--Govardhana Hill; dekhiba--I will see; nayane--my eyes; bhari--filling; kabe--when?; habe--will be; radha-kunde--at Radha-kunda; basa--the residence; bhramite bhramite--constant wandering; kabe--when; ei--this; deha--body; patana--falling; habe--will be; kahe--says; dina--poor; narottama dasa--Narottama dasa; 
+     kabe--when?; gobardhana giri--Govardhana Hill; dekhiba--I will see; nayane--my eyes; bhari--filling; kabe--when?; habe--will be; radha-kunde--at Radha-kunda; basa--the residence; bhramite bhramite--constant wandering; kabe--when; ei--this; deha--body; patana--falling; habe--will be; kahe--says; dina--poor; narottama dasa--Narottama dasa. 
 
      When will I see Govardhana Hill, my eyes filling with tears?  When will I reside at Radha-kunda?  When, as a result of constantly wandering Vrndavana, will this body fall down?  Poor-hearted Narottama dasa speaks in this way.
 
@@ -1359,6 +1359,7 @@ sudhāiba jane jane vraja-bāsī-gaṇa-sthāne
 nivediba caraṇa dhariyā
 
      bhramiba--I will wander; dwadasa--twelve; bane--in the forests; rasa-keli--of the Lord's nectarean pastimes; je je--various; sthane--places; prema-abese--overwhelmed by pure love of Krsna; gadagadi--rolling about on the ground; diya--doing; sudhaiba--I will become pure; jane--jane--to all the people; braja--of vraja; basi-gana--of the residents; sthane--at the places; nibediba--I will offer respectful obeisances; carana--their lotus feet; dhariya--taking.
+     When will I travel to the twelve forests where various pastimes of Rādhā and Kṛṣṇa took place and roll on the ground? When will I fall at the feet of the Vrajāvāsīs and inquire about the locations of the pastimes?
 
 Text 5
 
@@ -1374,9 +1375,9 @@ Song 28
 
 Text 1
 
-karaṅga kaupīna lañā cheṅḍa kāṅthā gāya diyā
+karaṅga kaupīna laṣā cheṅḍa kāṅthā gāya diyā
 teyāgiba sakala biṣayā
-kṛṣṇe anurāga habe brajera nikuñje kabe
+kṛṣṇe anurāga habe brajera nikuṣje kabe
 jāiyā kariba nijālaya
      karanga--a waterpot; kaupina--and loincloth; lana--taking; chenda--torn; kanha--where; gaya--singing; diya--giving; tejagiba--I will give up; sakala--all; bisaya--sense-gratification; krsna--for Lord Krsna; anuraga--ecstatic love; habe--will be; brajera--of Vraja; nikunja--the groves; kabe--when?; jaina--I will go; karibas--I will make; nija--my; alaya--residence.
 
@@ -1385,7 +1386,7 @@ jāiyā kariba nijālaya
 Text 2
 
      hari hari! kabe mora haibe su-dina !
-phalamūla bṛndābane khāñā dibā-abasāne
+phalamūla bṛndābane khāṣā dibā-abasāne
 bhramiva haiyā udāsīna
 
 
@@ -1396,7 +1397,7 @@ bhramiva haiyā udāsīna
 Text 3
 
 śītala jamunā jale snāna kari kūtūhale
-premābeśe ānandita hañā
+premābeśe ānandita haṣā
 bāhura upara bāhu tuli vṛndāvane kuli kuli
 kṛṣṇa bali beḍāba kāṅdiyā
      sitala--cool; jamuna--of the Yamuna river; jale--in the waters; snana--bath; kari--taking; kutuhale--with delight; prema-abese--overwhelmed by ppure love of Krsna; anandita--blissful; hana--become; bahura upara bahu tuli'--raising my arms; brndabane -- in Vrndavana; kuli kuli krsna bali'--calling out the name of Lord Krsna; bedaba--I will wander about; kandiya--crying.
@@ -1411,14 +1412,14 @@ kāṅhā rādhā! prāṇeśvari! kāṅhā giribara-dhāri!
 kāṅhā nātha ! baliyā ḍākiba
      dekhiba--I will see; sanketa-sthana--place of rendezvous; judabe--will attain; tapita-agitated; prana--life; prema-abese--overwhelmed by ecstatic love; gadagadi diba--I will roll about in the dust; kanha--where are You?; radha--O Radha; prana--of my life; iswari--the controller; kanha--where are You?; giribara--of Govardhana, the best of Hills; dhari--O lifter; kanha--where are You; natha--O my Lord; baliya--saying; dakiba--I will call out.
 
-     When will I see the place where Radha and Krsna secretly met?  When, overwhelmed with ecstatic love, will I roll about in the dust at that place?  When will I call out; "O Radha, O controller of my life, where are You? O Krsna, O lifter of Govardhana Hill, where are You? O my masters, where are You?"
+     When will I see the place where Radha and Krsna secretly met?  When, overwhelmed with ecstatic love, will I roll about in the dust at that place?  When will I call out "O Radha, O controller of my life, where are You? O Krsna, O lifter of Govardhana Hill, where are You? O my masters, where are You?"
 
 Text 5
 
-mādhavī-kuñjera pari sukhe basī śuka-śārī
+mādhavī-kuṣjera pari sukhe basī śuka-śārī
 gāibeka rādhā-kṛṣṇa-rasa
 taru-mūle basi tāhā śuni juḍāiba hiyā
-kabe sukhe goñāba dibasa
+kabe sukhe goṣāba dibasa
      madhavi--of madhavi creepers; kunjera--of the grove; 'pari--above; sukhe--with happiness; basi'--residing; suka-sari-a male and female parrot; gaibeka--will sing; radha-krsna--of Sri Sri Radha-Krsna; rasa--the nectarean pastimes; taru--of that tree; mule--at the root; basi'--staying; taha--that; suni'--hearing; judaiba--will be; hiya--being; kabe--when?; sukhe--with happiness; gonaba--I will pass; dibasa--the day.
 
      When will I happily pass my days at the roots of a tree in the grove of madhavi creepers, listening to a parrot-couple jubilantly sing the glories of the nectarean pastimes of Sri Sri  Radha and Krsna?
@@ -1445,7 +1446,7 @@ nirakhiba nayane jugala-rūpa-rāśi
 
 Text 2
 
-tyajiyā śayana-sukha vicitra pālañka
+tyajiyā śayana-sukha vicitra pālaṣka
 kabe brajera dhūlāya dūsara habe anga
 
      tyajiya--abandoning ; sayana--of sleeping; sukha--the happiness; bicitra--wonderful; palanka--bed; kabe--when?; habe--will be; anga--limbs.
@@ -1471,7 +1472,7 @@ viśrāma kariba jāi jamunā-puline
 Text 5
 
 tāpa dūra kariba śītala vaṁśīvaṭe
-kabe kuñje baiṭhaba hāma vaiṣṇava-nikaṭe
+kabe kuṣje baiṭhaba hāma vaiṣṇava-nikaṭe
 
      tapa--the heat of the day; dura--far away; kariba--I will place; sitala--cooling; bamsibate--at Vamsivata; kabe--when?; kunje--in the grove; baithaba--I will meet; hama--will be; baisnaba--the Vaisnavas; nikate--near.
 
@@ -1566,7 +1567,7 @@ sukhamaya jamunā-pulina
 
 Text 3
 
-lalitā viśākhā lañā tāṅhāre bheṭiba giyā
+lalitā viśākhā laṣā tāṅhāre bheṭiba giyā
 sājāiyā nānā upahāra
 sadaya haiyā bidhi milāibe guṇa-nidhihena bhāgya haibe āmāra
 
@@ -1817,7 +1818,7 @@ Text 1
 
      are bhāi! bhaja mora gaurāṅga-caraṇa
 nā bhajiyā mainu duḥkhe ḍubi gṛha-biṣa-kūpe
-dagdha kaila e pāñca parāṇa
+dagdha kaila e pāṣca parāṇa
 
      are--O; bhai--brother; bhaja--please worship; mora--my; gauranga--of Lord Caitanya; carana--the lotus feet; na--not; bhajiya--having worshipped; mainu-uhkhe--unhappy; dubi'--diving; grha--of household life; bisa--of poison; kupe--in the well; dagdha-burned; kaila--became; e--this; panca--five; parana--life-airs.
 
@@ -1870,7 +1871,7 @@ hṛdaya nirmala bhela tā’ra
 Text 2
 
 je gaurāṅgera nāma laya tā’ra haya premodaya
-tāre muñi jāi balihārī
+tāre muṣi jāi balihārī
 gaurāṅga-guṇete jhure nitya-līlā tāre sphure
 se jana bhakati-adhikārī
      je--one who; gaurangera--of Lord Gauranga; nama--the name; laya--accepts; tara--of him; haya--there is; premodaya--the arisal of pure love of Krsna; tare--to him; mui--I; jai--go; balihari--excellent; gauranga--of Lord Gauranga; gunete--the qualities; jhure--appreciates; nitya--eternal; lila--pastimes; tare--to him; sphure--become manifest; se--this; jana--person; bhakati-adhikari--is a person fit to understand devotional service.
@@ -1931,7 +1932,7 @@ kṛpābalokana kara āmi baḍa duḥkhī
 
 Text 4
 
-dayā kara sītā-pati advaita gosāñi
+dayā kara sītā-pati advaita gosāṣi
 taba kṛpā-bale pāi caitanya-nitāi
 
      daya--mercy; kara--please do; sita--of Sita-devi; pati--O husband; adwaita gosai--O Advaita Bosvami; taba--Your; krpa--mercy; bale--by the strength; pai--I may attain; caitanya--Lord Caitanya; nitai--and Lord Nityananda.
@@ -1976,7 +1977,7 @@ Text 3
 kāṅhā mora bhaṭṭa-juga kāṅhā kavirāja
 eka-kāle kothā gela gorā naṭarāja
 
-     kaha--where;  mora--my; bhatta-juga--Raghunatha Bhatta Gosvami and Gopala Bhatta Gosvami; kaha--where; kabiraja--Krsna dasa viraja Gosvami; eka-kale--in a single moment; kotha--where; gela--have they gone; gora--Lord Gauranga; nata--of dancers; raja--the king;
+     kaha--where;  mora--my; bhatta-juga--Raghunatha Bhatta Gosvami and Gopala Bhatta Gosvami; kaha--where; kabiraja--Krsna dasa viraja Gosvami; eka-kale--in a single moment; kotha--where; gela--have they gone; gora--Lord Gauranga; nata--of dancers; raja--the king.
 
      Where are my Raghunatha Bhatta and Gopala Bhatta and wehre is Krsnadasa Kaviraja?  Where did Lord Gauranga, the great dancer, suddenly go?
 
@@ -2055,7 +2056,7 @@ Text 1
 biṣaye kuṭila-mati sat-saṅge nā haila rati
 kise āra taribāra patha
 
-     hari--O Lord Hari; hari--O Lord Hari; mora--my; karama--actions; anurata--attached; bisaye--in sense-gratification; kutila--crooked; mati--minded; sat--of the saintly devotees; sange--in the association; na--not; haila--wa; rati--delight; kise--by what?; ara--and; taribara--
+     hari--O Lord Hari; hari--O Lord Hari; mora--my; karama--actions; anurata--attached; bisaye--in sense-gratification; kutila--crooked; mati--minded; sat--of the saintly devotees; sange--in the association; na--not; haila--wa; rati--delight; kise--by what?; ara--and; taribara--to cross over; patha—path.
 
      My crooked mind delights in sense-gratification, but not in the association of the saintly devotees.  Why do I follow this dangerous pathy?  O Lord Hari, Lord Hari, how have I become so attached to materialism?
 
@@ -2077,7 +2078,7 @@ nadiyā-nagare avatāra
 takhana nā haila janma ebe dehe kibā karma
 michā mātra bahi phirī bhāra
 
-     jakhana--when; gaura--Lord Caitanya; nityananda--Lord Nityananda; adwaita--with Lord Advaita; adi--beginning; bhakta--of devotees; brnda--the multitude; nadiya--of Nadiya; nagare--in the town; abatara--incarnation; takhana--then; na--not; haila--was; janma--birth; ebe--now; kiba--how excellent; karma--actions; micha--false--matra--only; bahi--I carry phiri--I go; bhara--burden
+     jakhana--when; gaura--Lord Caitanya; nityananda--Lord Nityananda; adwaita--with Lord Advaita; adi--beginning; bhakta--of devotees; brnda--the multitude; nadiya--of Nadiya; nagare--in the town; abatara--incarnation; takhana--then; na--not; haila--was; janma--birth; ebe--now; kiba--how excellent; karma--actions; micha--false--matra--only; bahi--I carry phiri--I go; bhara--burden.
 
      Lord Caitanya, Lord Nityananda, Lord Advaita, and the devotees who are Their personal associates have descended from the spiritual  world to the town of Nadiya.  They have not taken birth as ordinary mortals do.  How wonderful are Their transcendental activities!  I am not like Them.  I simply trudge along carrying a great heap of illusory materialistic burdens.
 
@@ -2088,7 +2089,7 @@ nā herinu se sukha-vilāsa
 ki mora duḥkhera kathā janama goṅainu bṛthā
 dhik dhik narottama dāsa
 
-     haridasa--with Haridasa Thakura; adi--beginning; bule--travelled; maha-utsaba--great festivals; adi--beginning with; kare--did; na--not; herinu--I saw; se--this; sukha--of transcendental happiness; bilasa--pastimes; ki--what?; mora--of me; duhkhera--of suffering; katha--description; janama--this birth; gonanu--I have spent; brtha--uselessly; dhik--fie; dhik--fie; narottama dasa--on Narottama dasa; 
+     haridasa--with Haridasa Thakura; adi--beginning; bule--travelled; maha-utsaba--great festivals; adi--beginning with; kare--did; na--not; herinu--I saw; se--this; sukha--of transcendental happiness; bilasa--pastimes; ki--what?; mora--of me; duhkhera--of suffering; katha--description; janama--this birth; gonanu--I have spent; brtha--uselessly; dhik--fie; dhik--fie; narottama dasa--on Narottama dasa. 
 
      Haridasa Thakura and the other devotees travelled about absorbed in a sonstant festival of the glorification of Lord Krsna, but i myself was unable to see these blissful pastimes.  How sad is my tale.  I have wasted my life.  Fie, fie on Narottama dasa.
 
@@ -2099,7 +2100,7 @@ Song 44
 Text 1
 
 ṭhākura vaiṣṇava-pada avanīra su-sampada
-śuna bhāī hañā eka mana
+śuna bhāī haṣā eka mana
 āśraya laiyā bhaje tāre kṛṣṇa nāhi tyaje
 āra saba mare akāraṇa
 
@@ -2123,7 +2124,7 @@ Text 3
 tīrtha-jala pavitra-guṇa likhiyāche purāṇe
 se saba bhaktira pravancana
 vaiṣṇavera pādodaka sama nahe ei saba
-jāte haya vāñcchita pūraṇa
+jāte haya vāṣcchita pūraṇa
 
      tirtha--of the places of pilgrimage; jala--the water; pabitra--purifying; guna--qualities; likhiyache--is written; devotional service; prabancana--a deception; baisnabera--of the devotees; pada--of the feet; udaka-the water; sama--equal; nahe--not; ei--this; saba--everything; jate--which; haya--is; banchita--wished; purana--fulfillment.
 
@@ -2158,10 +2159,10 @@ keśe dhari more kara pāra
 
 Text 2
 
-vidhi baḍa balavān nā śune dharama-jñāna
+vidhi baḍa balavān nā śune dharama-jṣāna
 sadāi karama-pāśe bāṅdhe
 nā dekhi tāraṇa leśa jata dekhi saba kleśa
-anātha kātare teñi kānde
+anātha kātare teṣi kānde
 
      bidhi--destiny; bada--is very; balaban--strong; na--I do not hear; dharama--of religion; jnana--the knowledge; sadai--always; karama-of karma; pase--in the net; bandhe--I am bound; na--I do not; dekhi--see; tarana--means to cross; lesa--little; jata--which; dekhi--I see; saba--all; klesa--sufferings; anatha--without a master; katare--with grief; teni--therefore; kane--I cry.
 
@@ -2193,7 +2194,7 @@ Song 46
 
 Text 1
 
-ei-bāra karuṇā kara vaiṣṇava gosāñi
+ei-bāra karuṇā kara vaiṣṇava gosāṣi
 patita-pāvana tomā bine keha nāi
 
      ei-bara--this time; karuna-mercy; kara-please do; baisnaba gosai--O Vaisnavas Gosvami; patita--of the fallen souls; pabana-O savior; toma--you; bine-except; keha--someone; nai--there is not.
@@ -2298,7 +2299,7 @@ Song 48
 
 Text 1
 
-rādhā-kṛṣṇa-sevon muñi jīvane maraṇe
+rādhā-kṛṣṇa-sevon muṣi jīvane maraṇe
 tāṅra sthāna taṅra līlā dekhoṅ rātri dine
 
      radha-krsna--Sri Sri Radha and Krsna; sebon muni-I will serve; jibane--in life; marane--in death tanra--of Them; sthana--the place; tanra--of Them; lila--the pastimes; dekhon--will see; ratri--night; dine--and day.
@@ -2308,7 +2309,7 @@ tāṅra sthāna taṅra līlā dekhoṅ rātri dine
 Text 2
 
 je sthāne je līlā kare jugala-kiśora
-sakhīra saṅginī hañā taṅhe haṅa bhora
+sakhīra saṅginī haṣā taṅhe haṅa bhora
 
      je--which; sthane--in the place; lila--pastime; kare--did; jugala-kisoa--the youthful Divine Couple; sakhira--of the gopis; sangini--in the company; hana--is; tanhe--of Them; hana--is; bhora--dawn.
 
@@ -2316,7 +2317,7 @@ sakhīra saṅginī hañā taṅhe haṅa bhora
 
 Text 3
 
-śrī-rūpa-mañjarī-pada sevoṅ niravadhi
+śrī-rūpa-maṣjarī-pada sevoṅ niravadhi
 taṅra pāda-padma mora mantra-mahauṣadhi
 
      sri-rupa-manjari--of Sri Rupa-manjari; pada--the feet; sebon--I shall serve; nirabadhi--without limit; tanra-of her; pada-padma--the lotus feet; mora--myu; mantra--mantra; maha--great; ausadhi--medicinal herb.
@@ -2325,7 +2326,7 @@ taṅra pāda-padma mora mantra-mahauṣadhi
 
 Text 4
 
-śrī-ratī-mañjarī devī more kara dayā
+śrī-ratī-maṣjarī devī more kara dayā
 anukṣaṇa deha tuyā pāda-padma-chāyā
 
      sri-rati-manjari devi--O Sri Rati-manjari-devi;  more--to me; kara--please do; daya--mercy; anuksana--at every moment; deha--please give; tuya--of you; pada-padma--of the lotus feet; chaya--the shade.
@@ -2334,7 +2335,7 @@ anukṣaṇa deha tuyā pāda-padma-chāyā
 
 Text 5
 
-śrī-rāsa-mañjarī devī kara abadhāna
+śrī-rāsa-maṣjarī devī kara abadhāna
 anukṣaṇa deha tuyā pāda-padma-dhyāna
 
      sri-rasa-manjari--O Sri Rasa-manjari; devi--O goddess; kara--please give; abadhana--your attention; anuksana--at every moment; deha--please give; tuya--of you; pada--padma--of the lotus feet; dhyana--the meditation.
@@ -2393,7 +2394,7 @@ adhare tuliyā diba karpūra-tāmbūle
 Text 5
 
 lalitā viśākhā-ādi jata sakhī-vṛnda
-ājñāya kariba sevā caraṇāravinda
+ājṣāya kariba sevā caraṇāravinda
 
      lalita--with lalita; bisakha--and Visakha; adi--beginning; jata--which; sakhi--of gopis; brnda--group; ajnaya--order; kariba--I will carry out; seba--the service; carana--arabina--the lotus feet.
 
@@ -2415,7 +2416,7 @@ Song 50
 Text 1
 
 prāṇeśvari! ei bāra karuṇā kara more
-daśanete tṛṇa dhari añjali mastake kari
+daśanete tṛṇa dhari aṣjali mastake kari
 ei-jana nivedana kare
 
      prana--of my life; iswari--O queen; ei-bara--this time; karuna--mercy; kara--please do; more--to me; dasanete--in my teeth; trna--a straw; dhari'--holding; anjali--folded hands; mastake--on my head; kari'--placing; ei--jana--this person; nibedana--an appeal; kare--does.
@@ -2436,7 +2437,7 @@ Text 3
 
 sugandhi candana maṇimaya ābharaṇa
 kauśika basana nānā raṅge
-ei saba sevā jaṅra dāsī jena haña tiara
+ei saba sevā jaṅra dāsī jena haṣa tiara
 anukṣaṇa thāki tāṅra saṅge
      sugandhi--aromatic; candana--sandalwood paste; manimaya--jewelled; abharana--ornaments; kausika--silk; basana--garments; nana--various; range--with happiness; ei--this; saba--all; seba--service; janra--of whom; dasi--maidservant; jena--by which; hana--is; tanra--of her; anuksana--at every moment; thaki--I stay; tanra--of her; sange--in the company.
 
@@ -2480,7 +2481,7 @@ marakata-śyāma hema-gaurī
 Text 2
 
 prāṇeśvari kabe more habe kṛpa diṭhi
-ājñāya āniya kabe bibidha phula-bara
+ājṣāya āniya kabe bibidha phula-bara
 śunaba racana duṅhu miṭhi
 
      prana--of my life; iswari--O queen; kabe--when?; more--to me; habe--will be; krpa--mercy; dithi--glance; ajnaya--order; aniya--fulfilling; kabe--when?; bibidha--various; phula--flowers; bara--excellent; sunaba--I will hear; racana--creation; dunhu--the Divine Couple; mithi--candy.
@@ -2547,7 +2548,7 @@ mui baḍa patita pāmara
 
 Text 3
 
-lalitā ādeśa pāñā caraṇa seviba jāñā
+lalitā ādeśa pāṣā caraṇa seviba jāṣā
 priya-sakhī saṅge haya mane
 duṅhu dāta-śiromaṇi ati dīna more jāni
 nikaṭe caraṇa dibe dāne
@@ -2559,7 +2560,7 @@ Text 4
 
 pāba rādhā-kṛṣṇa-pā ghucibe manera ghā
 dūre jābe e-saba vikala
-narottama dāse kaya ei vāñcchā siddhi haya
+narottama dāse kaya ei vāṣcchā siddhi haya
 deha prāṇa saphala sakala
 
      paba--I will attain; radha-krsna--of Sri Sri Radha and Krsna; pa--the lotus feet; ghucibe--will disappear; manera--of my mind; gha--the wounds; dure--far away; jabe--will go; ei-saba--all these; biphala--fruitless things; narottama dasa--Narottama dasa; kaya--says; ei--this; bancha--of my desires; siddhi--the fulfillment; haya--is; deha--of my body; prana-and life; sakala--all; saphala--successful.
@@ -2582,7 +2583,7 @@ Text 2
 
 śyāma-ghana barikhaye prema-sudhā-dhāra
 kore raṅgiṇī rādhā bijurī-saṅcāra
-     syama--adark; ghana--cloud; barikhaye-showers; prema--of love; sudha--of nectar; dhara--stream; kore--on the lap; rangini--jubilant; radha--Srimati Radharani; bijuri--lightning; sancara--moving;
+     syama--adark; ghana--cloud; barikhaye-showers; prema--of love; sudha--of nectar; dhara--stream; kore--on the lap; rangini--jubilant; radha--Srimati Radharani; bijuri--lightning; sancara--moving.
 
      Sri Krsna is like a dark cloud which showers the nectar of pure love, and Srimati Radharani is like a movinglightning bolt sittting in the lap of that cloud.
 
@@ -2602,6 +2603,211 @@ dubila narottama nā jāne saṅtara
      dig bidig--in all directions; nahi--not; premera--of love for Krsna; pathara--the ocean; dubila--I plunge; narottama--Narottama dasa; na--does not; jane--know; santara--swimming.
 
      The great ocean of love of Krsna stretches without limit in all directions.  Although Narottama dasa does not know how to swim across that ocean, he plunges headfirst into it.
-dubila narottama na jane santara
+
+Part 25 Miscellaneous songs
+
+Song 54
+
+Text 1
+govinda gopīnātha! kṛpā kari rākha nijapade
+kāma krodha chayajane laye phire nānāsthāne
+viṣaya bhuṣjāya nānāmate
+govinda—Lord Govinda; gopīnātha—the beloved Lord of the gopīs; kṛpā kari—please be merciful; rākha—please keep; nijapade—at Your lotus feet; kāma—lust; krodha—anger; chayajane—six enemies; laye—taking; phire—wander; nānāsthāne—in various places; viṣaya—sense objects; bhuṣjāya—make me enjoy; nānāmate—in various ways.
+O Govinda! The beloved of the gopīs, please keep me at Your lotus feet. The six enemies such as lust, anger drag me to many places and make me enjoy sense objects in various ways. 
+
+Text 2
+haiyā māyāra dāsa kari nānā abhilāṣa
+tomārā smaraṇa gela dūre
+artha-lābha ei āśe kapāṭa vaiṣṇava beśe
+bhramiye beḍai ghare ghare
+haiya—being; māyāra dāsa—a servant of māyā; kari—I do; nānā—ṁany; abhilāṣa—desires; tomārā—Your; smaraṇa—remembrance; gela dūre—lost; artha-lābha—in order to gain wealth; ei āśe—with this desire; kapāṭa—pseudo; vaiṣṇava beśe—in the guise of a Vaiṣṇava; bhramiye bedāi—wander; ghare ghare—from house to house.
+Being a servant of Māyā, I am full of material desires, hence I lost Your remembrance. In order to gain wealth, I wander from door to door in the garb of a pseudo renunciate. 
 
 
+Text 3
+aneka duḥkhera pare layechile vrajapure
+kṛpāḍore galāya bāṅdhiyā
+daiva-māyā balātkāre khasaiyā sei ḍore
+bhavakūpe dileka ḍāriyā
+aneka—so much; duḥkhera—of misery; pare—after; layechile—took me; vrajapure—in Vraja-pura; kṛpāḍore—with the rope of mercy; galāya—in the neck; bāṅdhiyā—by tying; daiva-māyā—by the illusory energy of the Lord; balātkāre—being forced; khasaiyā—untie; sei ḍore—that rope; bhavakūpe—in the well of material existence; dileka ḍāriyā—put me in.
+After a great deal of distress, You mercifully took me to Vraja. But Your illusory energy forcibly untied the rope of compassion and again placed me in the well of material existence. 
+
+Text 4
+punaḥ yadi kṛpā kari e-janāra keśe dhari
+ṭaniyā tulaha vrajadhāme
+tabe se dekhire bhāla natubā parāṇa gela
+kahe dīna dāsa narottame
+punaḥ—again; yadi—if; kṛpā kari—please be merciful; e-janāra—of this person; keśe dhari—pulling the hair; ṭaniyā tulaha—pick me up; vrajadhāme—in the abode of Vraja; tabe—then; se—that; dekhire bhāla—my only hope; natuba—otherwise; parāṇa gela—I will die; kahe—says; dīna—poor; dāsa narottame—Narottama dāsa.
+Please again be merciful to this fallen person and pick me up to Your abode of Vraja by pulling my hair. This is the only hope of my life. Otherwise I am ruined. Thus prays Narottama dāsa.
+
+Song 55
+
+Text 1
+
+mora prabhu madana gopāla
+śrī govinda gopīnātha tumi anāthera nātha
+dayā kara muṣi adhamera
+saṁsāra sāgara ghore paḍiyāchi kārāgare
+kṛpā ḍore bāndhi laha more
+mora—my; prabhu—the Lord; madana gopāla—Śrī Madana Gopāla; śrī govinda gopīnātha—Śrī Govinda, the Lord of the gopīs; tumi—You are; anāthera nātha—the protector of the helpless; dayā kara—please be merciful; muṣi—to me; adhamera—fallen soul; saṁsāra—material existence; sāgara—ocean; ghore—absorbed; paḍiyāchi—I have fallen; kārāgāre—in the prison house; kṛpā ḍore bandhi—with the rope of mercy; bāndhi—bind; laha more—please take me.
+O my Lord Madana Gopāla! O Govinda, the Lord of the gopīs! You are the protector of the helpless. Please be merciful to this fallen soul. I am imprisoned in this formidable ocean of material existence. Kindly pick me up with the rope of Your mercy. 
+
+Text 2
+adhama caṇḍāla āmi dayāra ṭhākura tumi
+śuniyāchi vaiṣṇavera mukhe
+e baḍa bharasā mane laye phela vṛndāvane
+vaṁśīvaṭa jena dekhi sukhe
+adhama—fallen; caṇḍāla—dog-eater; āmi—I am; dayāra ṭhākura—personification of mercy; tumi—You are; śuniyāchi—I have heard; vaiṣṇavera mukhe—from the lips of the Vaiṣṇavas; e baḍa bharasā—this is a great hope; mane—in my mind; laye—pick me up; phela—and place me; vṛndāvane—in Vṛndāvana; vaṁśīvaṭa—the place of vaṁśīvata; jena—so that; dekhi—I may see; sukhe—happily.
+I am like a wretched dog-eater, but I have heard from the lips of the saintly Vaiṣṇavas that You are the personification of compassion. O Lord, this is my only hope, therefore please give me shelter in Vṛndāvana so that I may happily see Vaṁśivata. 
+
+Text 3
+kṛpā kara āgu guri laha more keśe dhari
+śrī yamunā deha pada-chāyā
+aneka dinera āśa nahe jena nairāśa
+dayā kara nā kariha māyā
+kṛpā kara—be merciful; āgu guri—take the initiative; laha more—please take me; keśe dhari—by pulling my hair; śrī-yamunā—Yamunā; deha pada-chāyā—give me the shade of Your lotus feet; aneka dinera—for a long time; āśa—desire; nahe jena—may not be; nairāśa—disappointed; dayā kara—be merciful; nā kariha māyā—do not deceive me.
+Please come forward and pulling my hair, give me shelter on the banks of the River Yamunā. This is my long cherished desire. Please be merciful to me and do not disappoint me. 
+
+Text 4 
+anitya śarīra dhari āpana āpana kari
+pāche pāche śamanera bhaya
+narottama dāse bhane prāṇa kānde rātri dine
+pāche vraja prāpti nāhi haya
+anitya—temporary; śarīra—body; dhari—accepting; āpana āpana kari—consider it as mine; pāche pāche—in the behind; śamanera bhaya—the fear of death; narottama dāse bhane—Narottama dāsa says; prāṇa—life air; kānde—cries; rātri dine—day and night; pāche—so that; vraja prāpti—attainment of Vraja; nāhi haya—may not happen.
+I consider this temporary material body to be the self and I am so fearful of death. Narottama dāsa says, “My soul is crying day and night with the fear that I may not attain the shelter of Vraja.”
+
+Song 56
+Text 1
+hari balaba āra madana-mohana heraba go
+ei rūpe vrajera pathe calaba go
+hari—O Lord Hari; balaba—will chant; āra—and; madana-mohana—the attractor of Cupid; heraba go—I will see; ei rūpe—in this way; vrajera pathe—on the way to Vṛndāvana; calaba go—I will walk.
+When will I chant the names of Hari and see Lord Madana Mohana? In this way I want to travel on the path of Vraja. 
+
+Text 2
+jaba go vrajendra-pura ha’ba gopīkāra nupura
+tāṅdera caraṇe madhura madhura bājava go
+vipine vinoda khelā saṅgete rākhālera melā
+tāṅdera caraṇera dhulā mākhaba go
+jaba go—I will go; vrajendra-pura—the city of the King of Vraja; ha’ba—I will become; gopīkāra—of the gopīs; nupura—the ankle bells; tāṅdera—their; caraṇe—on the feet; madhura madhura—sweetly; bājava go—tinkling sound; vipine—in the forest; vinoda khelā—the loving pastimes; saṅgete—in the association; rākhālera melā—innumerable cowherd boys; tāṅdera—their; caraṇera dhulā—the dust from the feet; mākhaba go—I will smear.
+Entering Vraja, I will become an ankle-bell on the feet of the gopīs and cause a sweet tinkling sound. I will watch the sporting pastimes of the cowherd boys in the forest of Vṛndāvana and smear the dust from their feet on my body. 
+
+
+Text 3
+rādhā-kṛṣṇera rūpa-mādhurī heraba du’nayana bhari
+nikuṣjera dvāre dvārī rahiba go
+tomarā saba vrajavasī purā-o manera abhilāṣa-e
+kabe śrī kṛṣṇera baṅśī śunaba go
+rādhā-kṛṣṇera—of Rādhā and Kṛṣṇa; rūpa-mādhurī—the sweet beauty; heraba—I will see; du—two; nayana bhari—to my eyes’ satisfaction; nikuṣjera—of the groves; dvāre—near the gates; dvārī—a gatekeeper; rahiba go—I will remain; tomarā saba—all of you; vrajavāsī—residents of Vṛndāvana; purā-o—fulfill; manera—of the mind; abhilāṣa-e—only desire; kabe—when will; śrī kṛṣṇera—of Lord Kṛṣṇa; baṅśī—the flute; śunaba go—I will hear.
+I will see the sweet beauty of Rādhā and Kṛṣṇa to my eyes’ satisfaction and I will stand as a guard at the gate of the groves of Vraja. O residents of Vraja! Please fulfill my desires and allow me to hear the sweet sound of Kṛṣṇa’s flute. 
+
+Text 4
+ei deha antima kāle rākhaba śrī-jamunāra jale
+jaya rādhā govinda bale bhāsaba go
+kahe narottama dāsa nā purila abhilāṣa
+āra kabe vraje vāsa kareba go
+ei deha—this body; antima kāle—at the time of death; rākhaba—will place; śrī-jamunāra—of the River Yamunā; jale—in the water; jaya rādhā govinda—all glories to Rādhā Govinda; bale—while chanting; bhāsaba go—will float; kahe—says; narottama dāsa—Narottama dāsa; nā purila—did not fulfill; abhilāṣa—desires; āra kabe—when will; vraje—in Vraja; vāsa karaba go—will reside.
+At the time of giving up my body, I will simply place it in the waters of the Yamunā and float while chanting, “Jaya Rādhā Govinda.” Narottama dāsa laments thus, “My desires are not fulfilled. When will I reside in Vraja?”
+
+Song 57
+
+Text 1
+hari hari! kata dine hena daśā haba
+śrī- rāsa-maṣjarī saṅge śrī-maṇi-maṣjarī rāṅge
+śrī-rūpera anugā haiba
+hari hari!—O Lord Hari; kata dine—after how long; hena—such; daśā haba—my state will be; śrī-rasa-maṣjarī saṅge—in the association of Śrī Rasa Maṣjarī; śrī-maṇi-maṣjarī range—in the ecstasy of Maṇi-maṣjarī; śrī-rūpera—of Śrī Rūpa-maṣjarī; anugā—a follower; haiba—will become.
+O Lord Hari! How many days more before this will happen to me? In the ecstatic association of Śrī Rasa-maṣjarī and Śrī Maṇi-maṣjarī, I will become a follower of Śrī Rūpa-maṣjarī.
+
+Text 2
+suśītala vṛndāvana ratnavedī suśobhana
+tāhe maṇimaya siṁhāsana
+hema nīla-kāntidhara rāi-kānu sundara
+tāhe basāiba duijana
+suśītala—soothing; vṛndāvana—Vṛndāvana; ratnavedī—on the jewelled altar; suśobhana—beautiful; tāhe—in that; maṇimaya—jewelled; siṁhāsana—the throne; hema—golden; nīla—blue; kāntidhara—possessing the complexion of; rāi—Śrī Rādhikā; kānu—Śrī Kṛṣṇa; sundara—enchanting; tāhe—on that throne; basāiba—make Them sit; duijana—both.
+In the soothing atmosphere of Vṛndāvana, there is a jewelled throne placed on a jewelled altar and golden-complexioned Rādhā and blue-complexioned Kṛṣṇa sit on that throne. 
+
+
+
+Text 3
+sakhīra ādeśa habe cāmara ḍhulāba kabe
+tāmbula yogāba cāṅda-mukhe
+ānandita ha’ba sadā śuddha-bhāve prema-kathā
+duṅhāra pīriti rasa-sukhe
+sakhīra—of the sakhīs; ādeśa habe—will instruct; cāmara—the whisk; ḍhulāba—will swing; kabe—when; tāmbūla—betel nuts; yogāba—will supply; caṇda-mukhe—in the lotus mouth; ānandita—jubilant; ha’ba sadā—always become; śuddha-bhāve—purely; prema-kathā—loving topics; duṅhāra—of both; pirīti rasa—of the loving mellows; sukhe—in ecstasy.
+I will swing a camara under the instruction of the gopīs and supply betelnuts to Their lotus mouths. I will always be ecstatic to hear the pure loving topics of Their conjugal pastimes. 
+
+
+Text 4
+mallikā mālatī yūthī nānā phule mālā gāṅthi
+parāiba duṅhāra galāye
+rasera ālasa kāle basiyā caraṇa tale
+sevana kariba duṅhāra pāye
+mallikā mālatī yūthī—mallikā, mālatī, and yūthī flowers; nānā phule—various other flowers; mālā gāṅthi—make a garland; parāiba—I will put; duṅhāra galāye—on Their necks; rasera—of the pastimes; ālasa kāle—during the break; basiyā—sitting; caraṇa tale—under Their lotus feet; sevana kariba—I will serve; duṅhāra pāye—massage the feet.
+I will make garlands of various flowers such as māllikā, mālatī, and yūthī, and put them on Their necks and then massage Their lotus feet. 
+
+
+Text 5
+rādhā-kṛṣṇa prāṇapati jīvane maraṇe gati
+ihā bine āra nāhi mane
+śrī-kṛṣṇa-caitanya-prāṇa svarūpa-rūpa-sanātana
+narottama ei nivedana
+rādhā kṛṣṇa—Rādhā and Kṛṣṇa; prāṇapati—Lord of my heart; jīvane maraṇe—in life or death; gati—only destination; ihā bine—without this; āra nāhi—nothing else; mane—in my mind; śrī-kṛṣṇa caitanya prāṇa—Śrī Kṛṣṇa Caitanya is my life; svarūpa rūpa sanātana—Śrīla Śvārūpa, Rūpa, and Sanātana Gosvāmīs; narottama—Narottama dāsa; ei—only this; nivedana—requests.
+Rādhā and Kṛṣṇa are my life and soul and the goal of my life. I have no other desire than this. O Lord Kṛṣṇa Caitanya, O Śvarūpa, O Rūpa, O Sanātana, O my lords, this is the only request of Narottama dāsa!
+
+
+Song 58
+
+Text 1
+hede he! nāgara bara śuna he mūralīdhara
+nivedana kari tuyā pāya
+caraṇa nakhara maṇi yena cāṅdera gāṅthani
+bhāla śobhe āmāra galāya
+hede he—O hello; nāgara bara—the best of the heroes; śuna he—please hear; mūralīdhara—Śrī Kṛṣṇa who holds a flute; nivedana—request; kari—let me do; tuyā pāya—at Your lotus feet; caraṇa nakhara—the nails of Your feet; maṇi—jewel; yena—as if; cāṅdera gāṅthani—the rows of moon; bhāla—beautifully; śobhe—decorated; āmāra galāya—on my neck.
+O my dear Hero! O Lord, the flute player! Please hear my request to You. Your jewel-like toenails resemble the rows of moons when You go to the forest with Śrīdāma and Sudāma. 
+
+
+Text 2
+śrīdāma sudāma saṅge yakhana vane yāo raṅge
+takhana āmi duyāre dāṅḍāye
+mane kari saṅge yāi gurūjanara bhaya pāi
+āṅkhi raila tuyā pāne ceye
+rīdāma—Śrīdāma; sudāma—Sudāma saṅge—along with; yakhana—when; vane—in the forest; yāo raṅge—go happily; takhana—at that time; āmi—I am; duyāre—at the doorstep; dāṅḍāye—stand; mane kari—I think; saṅge yāi—I go with you; guru-janara—of the elderly respectable persons; bhaya pāi—be afraid of; āṅkhi—the eyes; raila—remain fixed; tuyā pāne ceye—looking at You.
+At that time, I stand at the doorstep thinking of going with You. But I am afraid of the elders and the respectable people. Therefore, my eyes simply gaze after You.
+
+
+Text 3
+cāi navīna-megha-pāne tuyā baṅdhu paḍe mane
+elāiyā keśa nāhi bāṅdhi
+randhana-śālāte jāi tuyā baṅdhu guṇa gāi
+dhuṅyāra chalanā kari kāṅdi
+cāi—look; navīna—new; megha pāne—towards the clouds; tuyā—You; bandhu—O my friends; paḍe mane—remember; elāiyā—let loose; keśa—hair; nāhi bāṅdhi—do not comb; randhana śālāte—in the kitchen; jāi—when I go; tuyā—Your; baṅdhu—O friend; guṇa gāi—sing Your glories; dhuṅyāra chalanā kari—on the pretext of smoke; kāṅdi—I cry.
+Whenever I see the new clouds, O my friend, I immediately remember You and I let loose my hair. When I cook in the kitchen, I simply sing Your glories and cry on the pretext of smoke. 
+
+
+
+Text 4
+maṇi nao māṇika nao āṅcale bāṅdhile rao
+phula nao ye keśe karibeśe
+nārī nā karita vidhi tuyā hena guṇanidhi
+laiyā phiritāma deśe deśe
+maṇi nao—You are not a jewel; māṇika nao—You are not a diamond; āṅcale—at the end of a sari; bāṅdhile—if I tie; rao—You will remain; phula nao—You are not a flower; ye—that; keśe—in the hair; karibeśe—decorate; nārī—woman; nā karita—did not create; bidhi—the creator; tuyā—You; hena—such as; guṇa nidhi—the ocean of transcendental qualities; laiyā—taking; phiritāma—wander; deśe deśe—country to country.
+O beloved Lord! You are neither a jewel nor a diamond that I can keep You tied to the end of my cloth. You are not a flower that I can decorate my hair with. If I were not a woman, I could have taken You, the ocean of divine qualities, all over the country.
+
+
+
+
+Text 5
+aguru candana haitāma tuyā ange mākhā raitāma
+ghāmiyā paḍitāma rāṅgā pāya
+ki mora manera sādha vāmana haye cāṅda hāta
+vidhi ki sādha pūrābe āmāra
+aguru—scented powder; candana—sandalwood powder; haitāma—if I become; tuyā—Your; aṅge—on the limbs; mākhā—smeared; raitāma—remain; ghāmiyā—with sweat; paḍitāma—fall down; rāngā pāya—on the lotus feet; ki—what; mora—mine; manera—of the mind; sādha—desire; vāmana haye—being like a dwarf; cāṅda hāta—touching the moon; vidhi ki—will the creator; sādha—desire; purābe—fulfill; āmāra—mine.
+If I were aguru or sandalwood, then I would be smeared on Your limbs, and when You would perspire, I would have fallen at Your reddish lotus feet. What desires I have! Although I am a dwarf, still I want to touch the moon. Will the creator ever fulfill my desire?
+
+
+Text 6
+narottama dāsa kaya śuna ahe dayāmaya
+tumī āmāya nā chāḍiha dayā
+je dina tomāra bhāve āmāra e deha jābe
+sei dine diya pada chāyā
+narottama dāse—Narottama dāsa; kaya—says; śuna—please hear; ahe dayāmaya—O most merciful one; tumī—You; āmāya—to me; nā chāḍiha—do not withdraw; dayā—compassion; jedina—the day; tomāra—of You; bhave—in the mood; āmāra—mine; e deha—this body; jābe—will perish; sei dine—on that day; diya—please give; pada chāyā—the shelter of Your lotus feet.
+Narottama dāsa says, “Please hear, O most merciful Lord! Please do not neglect me. The day I give up my body being fully absorbed in Your thoughts, please give me shelter at Your lotus feet.”
