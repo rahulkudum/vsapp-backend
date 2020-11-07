@@ -7,8 +7,7 @@ Song 1
 
 
 Text 1
-Eight Prayers Glorifying the Spiritual Master
-Sri Gurvastaka
+sri Gurvastaka
 
 samsara-davanala-lidha-loka-
 tranaya karunya-ghanaghanatvam
@@ -85,8 +84,7 @@ Song 2
 
 
 Text 1
-Eight Prayers Glorifying Srila Narottama dasa Thakura
-Srila Narottama-prabhor-astaka
+srila Narottama-prabhor-astaka
 
 sri-krsna-namamrta-varsi-vaktra-
 candra-prabha-dhvasta-tamo-bharaya
@@ -163,8 +161,7 @@ Song 3
 
 
 Text 1
-Eight Prayers Glorifying Srila Lokanatha Gosvami
-Sri Lokanatha-prabhuvarastaka
+sri Lokanatha-prabhuvarastaka
 
 yah krsna-caitanya-krpaika-vittas
 tata-prema-hemabharanadhya-cittah
@@ -252,8 +249,7 @@ Song 4
 
 
 Text 1
-Eight Prayers Describing the Glories of the Son of Saci
-Sri Saci-nandana-vijayastaka
+sri Saci-nandana-vijayastaka
 
 gadadhara yada parah sa kila ksacanalokito
 maya srita-gayadhavana madhura-murtir ekas tada
@@ -330,8 +326,7 @@ Song 5
 
 
 Text 1
-Eight Prayers Glorifying Sri Mahaprabhu
-Sri Mahaprabhor astakam
+sri Mahaprabhor astakam
 
 svarupa bhavato bhavatv ayam iti smita-snigdhaya
 giraiva raghunatham utpulika-gatram ullasayan
@@ -416,8 +411,7 @@ Song 6
 
 
 Text 1
-Eight Prayers Describing Nectar Pastimes in a Dream
-Sri Svapna-vilasamrtastaka
+sri Svapna-vilasamrtastaka
 
 priya svapne drsta saridina-sutevatra pulinam
 yatha vrndaranye natana-patavas tatra bahavah
@@ -495,8 +489,7 @@ Song 7
 
 
 Text 1
-Eight Prayers Glorifying Sri Gopaladeva
-Sri Gopaladevastaka
+sri Gopaladevastaka
 
 madhura-mrdula-cittah prema-matraika-vittah
 svajana-racita-vesah prapta-sobha-visesah
@@ -574,8 +567,7 @@ Song 8
 
 
 Text 1
-Eight Prayers Glorifying Sri Madana-Gopaladeva
-Sri Madana-Gopaladevastaka
+sri Madana-Gopaladevastaka
 
 mrdu-talaranya-jita-rucira-darada-prabham
 kulisa-kanjari-dara-kalasa-jhasa-cihnitam
@@ -653,8 +645,7 @@ Song 9
 
 
 Text 1
-Eight Verses Glorifying Sri Govindadeva
-Sri Govindadevastaka
+sri Govindadevastaka
 
 jambunadosnisa-viraji-mukta-
 mala-mani-dyoti-sikhandakasya
@@ -732,8 +723,7 @@ Song 10
 
 
 Text 1
-Eight Prayers Glorifying Sri Gopinatha
-Sri Gopinathadevastaka
+sri Gopinathadevastaka
 
 asye hasyam tatra madhvikam asmin
 vamsi tasyam nada-piyusa-sindhuh
@@ -812,8 +802,7 @@ Song 11
 
 
 Text 1
-Eight Payers Glorifying Sri Gokulananda-Govindadeva
-Sri Gokulananda-Govindadevastaka
+sri Gokulananda-Govindadevastaka
 
 koti-kandarpa-santarpa-vidhvamsana-
 sviya-rupamrtaplavita-ksma-tala
@@ -882,8 +871,7 @@ May he who regularly reads this Gokulananda-Govindadevastaka and yearns to attai
 Song 12 
 
 Text 1
-Eight Prayers Glorifying the Master of Six Opulences
-Sri Svayam-Bhagavattastaka
+sri Svayam-Bhagavattastaka
 
 sva-janmany aisvaryam balam iha vadhe daitya-vitater
 yasah partha-trane yadu-puri maha-sampadam adhat
@@ -961,8 +949,7 @@ Song 13
 
 
 Text 1
-Eight Prayers Glorifying Sri Jagan-mohana
-Sri Jagan-mohanastaka
+sri Jagan-mohanastaka
 
 gunjavali-vesthita-citra-puspa-
 cuda-valan-manjula-navya-pincham
@@ -1040,8 +1027,7 @@ Song 14
 
 
 Text 1
-The Vine of Love
-Anuraga-valli
+anuraga-valli
 
 deharbudani bhagavan yugapat prayaccha
 vaktrabudani ca pnah pratideham eva
@@ -1111,8 +1097,8 @@ Song 15
 
 
 Text 1
-Eight Prayers Glorifying Sri Vrnda-devi
-Sri Vrndadevy-astaka
+
+sri Vrndadevy-astaka
 
 gangeya-campeya-tadid-vinindi-
 rocih-pravaha-snapitatma-vrnde
@@ -1190,8 +1176,7 @@ Song 16
 
 
 Text 1
-Eight Prayers Glorifying Nandisvara Hill
-Sri Nandisvarastaka
+sri Nandisvarastaka
 
 saksan mahattama-mahaghana-cid-vilasa-
 punjah svayam sikhari-sekharatam upetah
@@ -1268,8 +1253,7 @@ O Nandisvara Hill, O king of mountains, please be kind to they who try to glorif
 Song 17 
 
 Text 1
-Eight Prayers Glorifying Sri Vrndavana
-Sri Vrndavanastaka
+sri Vrndavanastaka
 
 na yoga-siddhir na mamastu mokso
 vaikuntha-loke pi na parsadatvam
@@ -1347,8 +1331,7 @@ Song 18
 
 
 Text 1
-Eight Prayers Glorifying Govardhana Hill
-Sri Govardhanastaka
+sri Govardhanastaka
 
 krsna-prasadena samasta-saila-
 samrajyam apnoti ca vairino pi
@@ -1426,8 +1409,8 @@ Song 19
 
 
 Text 1
-Eight Prayers Glorifying Syama-kunda
-Sri Krsna-kundastaka
+
+sri Krsna-kundastaka
 
 kim tapas cakara tirtha-laksam aksayam pura
 suprasidati sma krsna eva sad varam yatah
