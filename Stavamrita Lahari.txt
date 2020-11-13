@@ -3,11 +3,11 @@ Stavmrta-lahari
 The Poems of Srila Visvanatha Cakravarti
 
 
-Song 1 
+Song 1_Sri Sri Gurvastaka 
 
 
 Text 1
-sri sri Gurvastaka
+
 
 samsara-davanala-lidha-loka-
 tranaya karunya-ghanaghanatvam
@@ -80,11 +80,11 @@ sevaiva labhya januso ‘nta eva
 
 One who during the brahma-muhurta hour carefully recites these eight prayers glorifying the spiritual master will at the end of this life attain direct service to the Lord of Vrndavana.
 
-Song 2 
+Song 2_Srila Narottama-prabhor-astaka 
 
 
 Text 1
-srila Narottama-prabhor-astaka
+
 
 sri-krsna-namamrta-varsi-vaktra-
 candra-prabha-dhvasta-tamo-bharaya
@@ -157,11 +157,11 @@ bhrtyam krtarthayatu mam phalitesta-krtyam
 
 May the dancing of Sri Narottama’s lotus feet, which is graceful with the melodious sounds of karatalas and mrdangas, and which is sweet with the honey of Lord Gauranga, fulfil the spiritual desires of me, his servant.
 
-Song 3 
+Song 3_Sri Lokanatha-prabhuvarastaka 
 
 
 Text 1
-sri Lokanatha-prabhuvarastaka
+
 
 yah krsna-caitanya-krpaika-vittas
 tata-prema-hemabharanadhya-cittah
@@ -245,11 +245,11 @@ govardhanam smah
 
 With splendid glances illuminating the path of pure love and with the splendid effulgence of his mercy chasing the deep darkness from the well of my heart, may Lokanatha Gosvami appear before me.  Taking shelter of Him, we have found Govardhana Hill filled with the jewels of Krsna’s transcendental pastimes.
 
-Song 4 
+Song 4_Sri Saci-nandana-vijayastaka 
 
 
 Text 1
-sri Saci-nandana-vijayastaka
+
 
 gadadhara yada parah sa kila ksacanalokito
 maya srita-gayadhavana madhura-murtir ekas tada
@@ -322,11 +322,11 @@ vidhaya nija-dhamani drutam uri-kurusva svayam
 
 O Lord, O son of Saci-devi, O ocean of transcendental qualities, please place in Your abode all who read these eight verses and are full of faith in Your lotus feet.  Please accept those readers whose intelligence is pure and who follow in the footsteps of the great devotees headed by Srila Rupa Govami, who are full of great love for You.
 
-Song 5 
+Song 5_Sri Mahaprabhor astakam 
 
 
 Text 1
-sri Mahaprabhor astakam
+
 
 svarupa bhavato bhavatv ayam iti smita-snigdhaya
 giraiva raghunatham utpulika-gatram ullasayan
@@ -407,11 +407,11 @@ ghana-pranaya-madhurim sva-padayoh samasvadayan
 Lord Caitanya makes a saintly devotee who daily reads these eight wonderful and confidential verses glorifying Sri Caitanya Mahaprabhu and filled with the nectar pastimes of the Lord with Svarupa Damodara Gosvami taste the sweetness of deep love for His lotus feet.  He makes him a personal associate of Svarupa Damodara.
 
 
-Song 6 
+Song 6_Sri Svapna-vilasamrtastaka 
 
 
 Text 1
-sri Svapna-vilasamrtastaka
+
 
 priya svapne drsta saridina-sutevatra pulinam
 yatha vrndaranye natana-patavas tatra bahavah
@@ -485,11 +485,11 @@ bhrsam dhatte tasminn atula-karunam kunja-nrpatau
 If the bumble-bee of the reader’s mind drinks the nectar of this Svapna-vilasamrta, then that intelligent reader will quickly awaken from the dream of materialistic doubt.  Such a reader will attain Lord Caitanya Mahaprabhu.  He will sport in the ocean of pure love.  He will attain the peerless mercy of the king of Vrndavana.
 
 
-Song 7 
+Song 7_Sri Gopaladevastaka 
 
 
 Text 1
-sri Gopaladevastaka
+
 
 madhura-mrdula-cittah prema-matraika-vittah
 svajana-racita-vesah prapta-sobha-visesah
@@ -563,11 +563,11 @@ sphuratu hrdi sa eva srila-gopaladevah
 May Srila Gopaladeva appear in the heart of the pure-hearted devotee who, living either at home or in the forest, remembers Him by chanting, either in the day or night, these eight verses glorifying the Deity of Govardhana Hill.
 
 
-Song 8 
+Song 8_Sri Madana-Gopaladevastaka 
 
 
 Text 1
-sri Madana-Gopaladevastaka
+
 
 mrdu-talaranya-jita-rucira-darada-prabham
 kulisa-kanjari-dara-kalasa-jhasa-cihnitam
@@ -641,11 +641,11 @@ madana-gopala nija-sadanam anuraksa mam
 Into the nectar lake of love for Your lotus feet You quickly plunge a sincere devotee who reads these eight nectar verses glorifying You.  O Madana Gopala, please protect me, for I am now Your home.
 
 
-Song 9 
+Song 9_Sri Govindadevastaka 
 
 
 Text 1
-sri Govindadevastaka
+
 
 jambunadosnisa-viraji-mukta-
 mala-mani-dyoti-sikhandakasya
@@ -719,11 +719,11 @@ govindadevah saranam mamastu
 Sri Govindadeva plunges in the flowing river of His mercy one who reads aloud this Govindadevastaka, his mind meditating on the Lord’s lotus feet.  May Sri Govindadeva be my shelter.
 
 
-Song 10 
+Song 10_Sri Gopinathadevastaka 
 
 
 Text 1
-sri Gopinathadevastaka
+
 
 asye hasyam tatra madhvikam asmin
 vamsi tasyam nada-piyusa-sindhuh
@@ -798,11 +798,11 @@ gopinathah pina-vaksa gatir nah
 Gopinatha does not see millions of sins of one who, carefully nourishing love for His lotus feet, reads this Gopinathastaka with a happy heart.  Broad-chested Gopinatha is the goal of our lives.
 
 
-Song 11 
+Song 11_Sri Gokulananda-Govindadevastaka 
 
 
 Text 1
-sri Gokulananda-Govindadevastaka
+
 
 koti-kandarpa-santarpa-vidhvamsana-
 sviya-rupamrtaplavita-ksma-tala
@@ -868,10 +868,10 @@ sindhu-majjan-mana vanchitam vindatam
 May he who regularly reads this Gokulananda-Govindadevastaka and yearns to attain pure love and service for Your feet find his desire to plunge his heart in the ocean of Your sweetness fulfilled.
 
 
-Song 12 
+Song 12_Sri Svayam-Bhagavattastaka 
 
 Text 1
-sri Svayam-Bhagavattastaka
+
 
 sva-janmany aisvaryam balam iha vadhe daitya-vitater
 yasah partha-trane yadu-puri maha-sampadam adhat
@@ -945,11 +945,11 @@ labhetasau tasya priya-parijananugya-padavim
 He who serves this Bhagavattastaka, which is an excellent medicine to remove the hundred fevers of doubt, and becomes overwhelmed with happiness by tasting in his mind the sweetness of the Lord’s opulences, enters the path that leads to the Lord’s personal association.
 
 
-Song 13 
+Song 13_Sri Jagan-mohanastaka 
 
 
 Text 1
-sri Jagan-mohanastaka
+
 
 gunjavali-vesthita-citra-puspa-
 cuda-valan-manjula-navya-pincham
@@ -1023,11 +1023,11 @@ sevamrtenaiva nimajjanam syat
 May he who by reading these eight verses remembers Sriman Jagan-mohana-deva attain pure love of God.  May he become plunged into the nectar of direct service to the Lord’s feet.
 
 
-Song 14 
+Song 14_Sri Anuraga-valli 
 
 
 Text 1
-sri Anuraga-valli
+
 
 deharbudani bhagavan yugapat prayaccha
 vaktrabudani ca pnah pratideham eva
@@ -1093,12 +1093,12 @@ etan varan me bhagavan prayaccha
 May I have millions of feet to go to Your side.  May I have millions of hands to serve You.  May I have millions of intelligences to teach that service.  O Lord, please grant me these boons.
 
 
-Song 15 
+Song 15_Sri Vrndadevy-astaka 
 
 
 Text 1
 
-sri Vrndadevy-astaka
+
 
 gangeya-campeya-tadid-vinindi-
 rocih-pravaha-snapitatma-vrnde
@@ -1172,11 +1172,11 @@ tat-prema-sevam labhate krtarthah
 A person who is like a bumble bee at the lotus feet of Vrndavana’s king and queen, and who reads or hears this Vrndastaka, will eternally reside in Vrndavana and attain loving service to the divine couple.
 
 
-Song 16 
+Song 16_Sri Nandisvarastaka 
 
 
 Text 1
-sri Nandisvarastaka
+
 
 saksan mahattama-mahaghana-cid-vilasa-
 punjah svayam sikhari-sekharatam upetah
@@ -1250,10 +1250,10 @@ etam janam kuru guru-pranayam dadhanam
 O Nandisvara Hill, O king of mountains, please be kind to they who try to glorify you by reading these prayers.  Even if such readers are infested with hundreds of sinful desires, please transform them into great devotees, full of devotion for their spiritual master, and thirsty for the nectar of Krsna’s lotus feet.
 
 
-Song 17 
+Song 17_Sri Vrndavanastaka 
 
 Text 1
-sri Vrndavanastaka
+
 
 na yoga-siddhir na mamastu mokso
 vaikuntha-loke pi na parsadatvam
@@ -1327,11 +1327,11 @@ saksat labhante januso ‘nta eva
 They who with great concentration read aloud this Vrndavanastaka, at the end of this life attain direct service to the lotus feet of Vrndavana’s master.
 
 
-Song 18 
+Song 18_Sri Govardhanastaka 
 
 
 Text 1
-sri Govardhanastaka
+
 
 krsna-prasadena samasta-saila-
 samrajyam apnoti ca vairino pi
@@ -1405,12 +1405,12 @@ dasyam sa vinded acirena saksat
 May the reader of these eight verses glorifying Lord Hari’s greatest servant, his heart melting with pure love, quickly attain direct service to the lotus feet of Sri Sri Radha-Madhava.
 
 
-Song 19 
+Song 19_Sri Krsna-kundastaka 
 
 
 Text 1
 
-sri Krsna-kundastaka
+
 
 kim tapas cakara tirtha-laksam aksayam pura
 suprasidati sma krsna eva sad varam yatah

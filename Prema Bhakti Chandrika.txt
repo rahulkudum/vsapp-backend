@@ -1,7 +1,7 @@
-Song 0 
+Song 0_Auspicious Invocation 
 Text 1
-Auspicious Invocation
-Mangalācaraṇa
+
+
 ajñāna-timirāndhasya
 jñānāñjana-śalākayā
 cakṣur unmīlitaṁ yena
@@ -27,11 +27,11 @@ May Śrī Kṛṣṇa, the Supreme Personality of Godhead, be glorified! By virt
 
 
 
-Song 1
+Song 1_Glories of the Spiritual Master
 
 Text 1
-Glories of the Spiritual Master
-Śrī Guru Mahimā
+
+
 śrī-guru-caraṇa-padma, kebala-bhakati-sadma
 bando mui sābadhāna mate
 jāhāra prasāde bhāi, e bhava tariyā jāi
@@ -106,7 +106,7 @@ karmī jñāni bhakti-hīna ihāke karibe bhina
 narottama ei tattwa gāje
 sādhu—devotees; śāstra—scriptures; guru—spiritual master; bākya—words; hṛdaye—in the hearts; kariyā—doing; aikya—unity; satata—always; bhāsiba—float; prema-mājh—in love of God; karmī—fruitive workers; jñāni—mental speculators; bhakti-hīna—persons devoid of devotional service; ihāke—them; karibe—will do; bhina—separate; narottama—Narottama dāsa; ei—this; tattwa—truth; gāje—sings.
 My desire is to have my heart purified by the statements of the Vaiṣṇavas, scriptures and spiritual master, and seeing the unity of these three, I will always float in the ocean of love of God. I will be aloof from the bad association of the fruitive workers, mental speculators, and the people devoid of devotional service. I, Narottama Dāsa, sing this truth.
-Song 2
+Song 2_The Process of Fixed Devotional Service
 (refrain)
 śrīmad-rūpa-gosvāmī-prabhupadenoktam
 anyābhilāṣita-sunyam
@@ -118,8 +118,7 @@ anukulyena kṛṣṇānu-
  
 
 Text 1
-The Process of Fixed Devotional Service
-Ekānta bhakti
+
 anya-abhilāsa chāḍi jñāna karma parihari
 kāya mane kariba bhajana
 sādhu-saṅge kṛṣṇa-sebā nā pūjiba devī-devā
@@ -268,11 +267,11 @@ narottama dāsa bole paḍinū asat-bhole
 paritrāṇa kara mahāśaya
 sadā—always; sebā—service; abhilāṣa—desire; mane kari—in the mind; biśoyāsa with faith; sarbakhāya—by all respects; haiyā—being; nirbhaya—fearless; narottama dāsa—Narottama dāsa; bole—says; paḍinū—fell; asat-bhole—in the false conception; paritrāṇa—deliver; kara—please do; mahāśaya—O Lord.
 In my mind, with firm faith and fearlessness, I always desire the service of Their Lordships in all respects. Narottama dāsa prays, “O Śrī Kṛṣṇa, most merciful Lord! I have fallen into miserable material illusion, please deliver me.”
-Song 3 
+Song 3_Surrender of the Self  
 
 Text 1
-Surrender of the Self 
-Ātma nivedana
+
+
 tūmi ta dayāra sindhū adhama-janāra bandhu
 more prabhu kara abadhāna
 paḍinā asat-bhole kāma-timiṅgile gile
@@ -321,11 +320,11 @@ antarāya nāhi jāya ei ta parama bhaya
 nivedana karoṅ anūkṣana
 narottama—Narottama dāsa; baḍa—very much; dūḥkhī—unhappy; nātha—O Lord; more—me; kara—make; sūkhī—happy; tomāra—Your; bhajana—worship; saṅkīrtane—in the form of congregational chanting; aṅtarāya—obstacles; nāhi—not; jāya—goes; ei ta—this is the; parama bhaya—great fear; nivedana—pray; karoṅ—do; anūkṣana—constantly.
 O Lord, Narottama is very unhappy. Please make me happy by inspiring me to perform saṅkīrtana. My greatest fear is that I will not be able to surpass the impediments on the path of devotional service. Hence, I pray to You constantly.
-Song 4 
+Song 4_Undivided Service to the Divine Couple 
 
 Text 1
-Undivided Service to the Divine Couple
-Yugala bhajana niṣṭha
+
+
 āna kathā āna byathā nāhi jena jāña tathā
 tomāra caraṇa smṛti-sājhe
 abirata abikala tūyā guṇa kala-kala
@@ -381,11 +380,11 @@ niśi dina guṇa gāṅa parama ānanda pāṅa
 mane mora ei abhilāṣa 
 ābharaṇa—ornaments; manimaya—jewelled; prati—each; aṅge—limbs; abhinaya—actings; tachū—his; pāya—lotus feet; dīna—poor; narottama dāsa—Narottama dāsa; niśi—night; dina—day; guṇa gāṅa—glorifying the qualities; parama—great; ānanda—happiness; pāṅa—receive; mane—in the mind; mora—mind; ei—this; abhilāṣa—desires.
 Decorated with jewelled ornaments, Their limbs move with beautiful grace and drama. Narottama dāsa prays, “With great jubilation, I will glorify Your transcendental qualities, day and night. This is my only desire.”
-Song 5 
+Song 5_A Glimpse Into the Path of Loving Attachment 
 
 Text 1
-A Glimpse Into the Path of Loving Attachment
-Rāgānugā bhakti rītī
+
+
 rāgera bhajana-patha kahi ebe abhimata
 loka-beda-sāra ei bānī
 sakhīra anūgā hañā braje siddha-deha pāñā
@@ -471,11 +470,11 @@ tat-tat-kathā-rataś cāsau
 kuryād vāsaṁ vraje sadā
 kṛṣṇa—Lord Kṛṣṇa; smaran—thinking of; janaṁ—a devotee; ca—and; asya—of His; preṣṭham—very dear; nija-samīhitam—chosen by oneself; tat-tat-kathā—to those espective topics; ratas—attached; ca—and; asau—that; kuryāt—should do; vāsam—living; vraje—Vṛndāvana; sadā—always.
 The devotee should always think of Kṛṣṇa within himself, and one should choose a very dear devotee who is a servitor of Kṛṣṇa in Vṛndāvana. One should constantly engage in topics about that servitor and his loving relationship to Kṛṣṇa, and one should live in Vṛndāvana. However, if one is physically unable to go to Vṛndāvana, he should mentally live there. (Bhakti-rāsāmṛta-sindhu 1.2.294)
-Song 6 
+Song 6_Topics of Meditation for Arousing Prema-bhakti 
 
 Text 1
-Topics of Meditation for Arousing Prema-bhakti
-jūgala-caraṇa-prītī parama-ānanda tati
+
+
 rati-premā maya para-bandhe
 kṛṣṇa-nāma-rādhā-nāma upāsana rasa-dhāma
 caraṇe paḍiye parānande
@@ -619,10 +618,10 @@ ei bhaṇe mane mora ei rase hañā bhora
 narottama sadā-i bihare
 sakhī-gaṇa—the sakhīs; cāri-pāśe—on four sides; sebā kare—serve; abhilāṣe—according to their desire; parama—supreme; se—that; sebā—service; sūkha—happiness; dhare—yields; ei bhaṇe—this desire; mane mora—in my mind; ei rase—in this mellows; hañā bhora—being absorbed; narottama—Śrīla Narottama dāsa Ṭhākura; sadāi—always; bihare—enjoys.
 The sakhīs surround Śrī Śrī Rādhā and Kṛṣṇa on all four sides, and while serving Them, feel ecstatic bliss in their hearts. Narottama dāsa desires such service being absorbed in loving transcendental mellows. 
-Song 7 
+Song 7_The Characteristics of an Unalloyed Devotee 
 
 Text 1
-The Characteristics of an Unalloyed Devotee
+
 rādhā-kṛṣṇa karoṅ dhyāna swapane nā bala āna
 prema binā āna nāhi cāṅu
 jūgala-kiśora-prema lakṣa-bāṇa jena hema
@@ -678,10 +677,10 @@ abhāgyera nāhi ora michāja-hailū bhora
 dūḥkha rahe antare jāgiyā
 narottama dāsa—Narottama dāsa ; kahe—says; sadā—always; mora—mine; prāṇa—life; dahe—burning; hena—such; bhakta—devotee; saṅga—association; nā—not; pāiyā—receiving; abhāgyera—misfortune; nāhi—there is not; ora—limit; michāja—false conception; hailū—became; bhora—absorbed; dūḥkha—distress; rahe—remains; aṅtare—in the heart; jāgiyā—awakened.
 Narottama dāsa says, “My mind is constantly burning without the association of pure devotees. There is no end to my misfortune as I am absorbed in misconceptions and my heart is filled with distress.”
-Song 8 
+Song 8_Fixed Loving Devotional Service 
 
 Text 1
-Fixed Loving Devotional Service
+
 bacanera agocara bṛndābana līlā-stala
 swaprakāśa premānanda-ghana
 jāhāte prakaṭa sūkha nāhi jarā-mṛtyū-dūḥkha
@@ -779,10 +778,10 @@ jībane maraṇe ei āra kichū nāhi cāi
 kahe dīna narottama-dāsa
 līlā-rasa-kathā—the topics of transcendental pastimes; gaṇa—sing; jūgala-kiśora—the Divine Couple; prāṇa—life; prārthanā—pray; kariba—will do; abhilāse—with desire; jībane maraṇe—in life and death; ei—this; āra kichū—nothing else; nāhi—do not; cāi—want; kahe—says; dīna—poor; narottama-dāsa—Narottama dāsa.
 I will always prayfully with desire, sing the amorous pastimes of Śrī Śrī Rādhā-Kṛṣṇa in life or death. This is my only hope and nothing else do I want, says poor Narottama dāsa.
-Song 9 
+Song 9_The Ultimate Instructions 
 
 Text 1
-The Ultimate Instructions
+
 āna kathā nā baliba āna kathā nā śuniba
 sakali kahiba paramārtha
 prārthanā kariba sadā lālasā abhīṣṭa-kathā

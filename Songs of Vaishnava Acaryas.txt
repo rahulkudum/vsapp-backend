@@ -32,10 +32,10 @@ sādvaitaṁ sāvadhūtaṁ parijana-sahitaṁ kṛṣṇa-caitanya-devaṁ
 vande—offer my respectful obeisances; aham-I; śrī-guroḥ—of my initiating spiritual master or instructing spiritual master; śrī-yuta-pada-kamalam—unto the opulent lotus feet; śrī-gurūn—unto the spiritual masters in the paramparā system, beginning from Mādhavendra Purī down to Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura Prabhupāda; vaiṣṇavān—unto all the Vaiṣṇavas, beginning from Lord Brahmā and others coming from the very start of the creation; ca—and; śrī-rūpam—unto Śrīla Rūpa Gosvāmī; sa-agra-jātam—with his elder brother, Śrī Sanātana Gosvāmī; sahagaṇa-raghunātha-anvitam—with Raghunātha dāsa Gosvāmī and his associates; tam—unto him; sa-jīvam—with Jīva Gosvāmī; sa-advaitam—with Advaita Ācārya; sa-avadhūtam—with Nityānanda Prabhu; parijana-sahitam—and with Śrīvāsa Ṭhākura and all the other devotees; kṛṣṇa-caitanya-devam—unto Lord Śrī Caitanya Mahāprabhu; śrī-rādhā-kṛṣṇa-pādān—unto the lotus feet of the all-opulent Śrī Kṛṣṇa and Rādhārānī; saha-gaṇa—with associates; lalitā-śrī-viśākhā-anvitān—accompanied by Lalita and Śrī Visakhā; ca—also.
 
 I offer my respectful obeisances unto the lotus feet of my spiritual master and of all the other preceptors on the path of devotional service. I offer my respectful obeisances unto all the Vaiṣṇavas and unto the six Gosvāmīs, including Śrīla Rūpa Gosvāmī, Śrīla Sanātana Gosvāmī, Raghunātha dāsa Gosvāmī, Jīva Gosvāmī, and their associates. I offer my respectful obeisances unto Advaita Ācārya Prabhu, Śrī Nityānanda Prabhu, Śrī Caitanya Mahāprabhu, and all His devotees, headed by Śrīvāsa Ṭhākura. I then offer my respectful obeisances unto the lotus feet of Lord Kṛṣṇa, Śrīmatī Rādhārānī, and all the gopīs, headed by Lalitā and Viśākhā.
-Song 1: Śrīla Prabhupāda Praṇati
+Song_Śrīla Prabhupāda Praṇati
 
 Text 1
-Śrīla Prabhupāda Praṇati
+
 nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
 śrīmate bhaktivedānta-svāminn iti nāmine
 
@@ -49,10 +49,10 @@ nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
 namaḥ—obeisances; te—unto you; sārasvate deve—servant of Bhaktisiddhānta Sarasvatī Gosvāmī; gaura-vāṇī—the message of Lord Caitanya; pracāriṇe—who are preaching, nirviśeṣa—(from) impersonalism; śūnya-vādi—(from) voidism; pāścātya—Western; deśa—countries; tāriṇe—who are delivering.
 
 Our respectful obeisances are unto you, O spiritual master, servant of Sarasvatī Gosvāmī. You are kindly preaching the message of Lord Caitanyadeva and delivering the Western countries, which are filled with impersonalism and voidism.
-Song 1: Śrīla Bhaktisiddhānta Sarasvatī Praṇati
+Song 1_Śrīla Bhaktisiddhānta Sarasvatī Praṇati
 
 Text 1
-Śrīla Bhaktisiddhānta Sarasvatī Praṇati
+
 nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
 śrīmate bhaktisiddhānta-sarasvatīti nāmine
 
@@ -78,70 +78,64 @@ rūpānuga-viruddhāpasiddhānta-dhvānta-hāriṇe
 namaḥ—obeisances; te—unto you; gaura-vāṇī—teachings of Lord Caitanya; śrī-mūrtaye—unto the personified; dīna—(of) the fallen; tāriṇe—unto the deliverer; rūpa-anuga—the philosophy which follows the teachings of Śrīla Rūpa Gosvāmī; viruddha—against; apasiddhānta—(of) unauthorized statements; dhvānta—the darkness; hāriṇe—unto you who are removing.
 
 I offer my respectful obeisances unto you, who are the personified teachings of Lord Caitanya. You are the deliverer of the fallen souls. You do not tolerate any statement which is against the teachings of devotional service enunciated by Śrīla Rūpa Gosvāmī.
-Song 1: Śrīla Gaurakiśora Praṇati
+Song_Śrīla Gaurakiśora Praṇati
 
 Text 1
-Śrīla Gaurakiśora Praṇati
+
 namo gaura-kiśorāya sākṣād-vairāgya-mūrtaye
 vipralambha-rasāmbhode pādāmbujāya te namaḥ
 
 namah—obeisances; gaura-kiśorāya—unto Gaurakisora dāsa Babājī sāksāt—directly; vairāgya—renunciation; mūrtaye—unto the personified; vipralambha-(of) separation (from Kṛṣṇa); rasa- (of) the mellow; ambhodhe—O ocean; pāda-ambujāya—unto the lotus feet; te—your; namaḥ—obeisances.
 
 I offer my respectful obeisances unto Gaura-kiśora dāsa Bābājī Mahārāja [the spiritual master of Śrīla Bhaktisiddhānta Sarasvatī], who is renunciation personified. He is always merged in a feeling of separation and intense love of Kṛṣṇa.
-Song 1: Śrīla Bhaktivinoda Praṇati
+Song_Śrīla Bhaktivinoda Praṇati
 
 Text 1
-Śrīla Bhaktivinoda Praṇati
 namo bhaktivinodāya sac-cid-ānanda-nāmine
 gaura-śakti-svarūpāya rūpānuga-varāya te
 
 namaḥ—obeisances; bhaktivinodāya—unto Śrīla Bhaktivinoda Ṭhākura; sat-cit-ānanda-nāmine—known as Saccidānanda; gaura—(of) Lord Caitanya; śakti—energy; svarūpāya—unto the personified; rūpa-anuga-varāya—who is a revered follower of Śrīla Rūpa Gosvāmī; te—unto you.
 
 I offer my respectful obeisances unto Saccidānanda Bhaktivinoda, who is transcendental energy of Caitanya Mahāprabhu. He is a strict follower of the Gosvāmīs, headed by Śrīla Rūpa.
-Song 1: Śrīla Jagannātha Praṇati
+Song_Śrīla Jagannātha Praṇati
 
 Text 1
-Śrīla Jagannātha Praṇati
 gaurāvirbhāva-bhūmes tvaṁ nirdeṣṭā saj-jana-priyaḥ
 vaiṣṇava-sārvabhaumaḥ ṣrī-jagannāthāya te namaḥ
 
 gaura—(of) Lord Caitanya; āvirbhāva—(of) the appearance; bhūmeḥ—of the place; tvam—you; nirdeṣṭā—the indicator; sat-jana—(to) all saintly persons; priyaḥ—dear; vaiṣṇava—(of) the Vaiṣṇavas; sārvabhaumaḥ—chief; śrī-jagannāthāya—unto Jagannātha dāsa Bābājī; te—unto you; namaḥ—obeisances.
 
 I offer my respectful obeisances to Jagannātha dāsa Bābājī, who is respected by the entire Vaiṣṇava community and who discovered the place where Lord Caitanya appeared.
-Song 1: Śrī Vaiṣṇava Praṇāma
+Song_Śrī Vaiṣṇava Praṇāma
 
 Text 1
-Śrī Vaiṣṇava Praṇāma
 vāñchā-kalpatarubhyaś ca kṛpā-sindhubhya eva ca
 patitānāṁ pāvanebhyo vaiṣṇavebhyo namo namaḥ
 
 vāñchā-kalpa-tarubhyaḥ—who are desire trees; ca—and; kṛpā—(of) mercy; sindhubhyaḥ—who are oceans; eva—certainly; ca—and; patitānām—of the fallen souls; pāvanebhyaḥ—who are the purifiers; vaiṣṇavebhyaḥ—unto the Vaiṣṇavas; namaḥ namaḥ—repeated obeisances.
 
 I offer my respectful obeisances unto all the Vaiṣṇava devotees of the Lord. They are just like desire trees who can fulfill the desires of everyone, and they are full of compassion for the fallen conditioned souls.
-Song 1: Śrī Gaurāṅga Praṇāma
+Song_Śrī Gaurāṅga Praṇāma
 
 Text 1
-Śrī Gaurāṅga Praṇāma
 namo mahā-vadānyāya kṛṣṇa-prema-pradāya te
 kṛṣṇāya kṛṣṇa-caitanya-nāmne gaura-tviṣe namaḥ
 
 namaḥ—obeisances; mahā-vadānyāya—who is most munificent and charitably disposed; kṛṣṇa-prema—love of Kṛṣṇa; pradāya—who can give; te—unto You; kṛṣṇāya—the original Personality of Godhead; kṛṣṇa-caitanya-nāmne—under the name Kṛṣṇa Caitanya; gaura-tviṣe—whose complexion is the golden complexion of Śrīmatī Rādhārāṇī; namaḥ—obeisances.
 
 O most munificent incarnation! You are Kṛṣṇa Himself appearing as Śrī Kṛṣṇa Caitanya Mahāprabhu. You have assumed the golden color of Śrīmatī Rādhārāṇī, and You are widely distributing pure love of Kṛṣṇa. We offer our respectful obeisances unto You.
-Song 1: Śrī Pañca-tattva Praṇāma
+Song_Śrī Pañca-tattva Praṇāma
 
 Text 1
-Śrī Pañca-tattva Praṇāma
 pañca-tattvātmakaṁ kṛṣṇaṁ bhakta-rūpa-svarūpakam
 bhaktāvatāraṁ bhaktākhyaṁ namāmi bhakta-śaktikam
 
 pañca—tattva-ātmakam—comprehending the five transcendental subject matters; kṛṣṇam—unto Lord Kṛṣṇa; bhakta-rūpa—in the form of a devotee; sva-rūpakam—in the expansion of a devotee; bhakta-avatāram—in the incarnation of a devotee; bhakta-ākhyam—known as a devotee; namāmi—I offer my obeisances; bhakta-śaktikam—the energy of the Supreme Personality of Godhead, who supplies energy to the devotee.
 
 I offer my obeisances unto the Supreme Lord, Kṛṣṇa, who is nondifferent from His features as a devotee, devotional incarnation, devotional manifestation, pure devotee, and devotional energy.
-Song 1: Śrī Kṛṣṇa Praṇāma
+Song_Śrī Kṛṣṇa Praṇāma
 
 Text 1
-Śrī Kṛṣṇa Praṇāma
 he kṛṣṇa karuṇā-sindho
 dīna-bandho jagat-pate
 gopeśa gopikā-kānta
@@ -150,20 +144,19 @@ rādhā-kānta namo 'stu te
 he—O; kṛṣṇa—Kṛṣṇa; karuṇā-sindho—O ocean of mercy; dīna—(of) the distressed; bandho—O friend; jagat—(of) the universe; pate—O Lord; gopa-īśa—O master of the cowherd men, gopikā-kānta—O lover of the gopīs; rādhā-kānta—O lover of Radhārāṇī; namaḥ—obeisances; astu—let there be; te—unto You.
 
 O my dear Kṛṣṇa, ocean of mercy, You are the friend of the distressed and the source of creation. You are the master of the cowherd men and the lover of the gopīs, especially Rādhārāṇī. I offer my respectful obeisances unto You.
-Song 1: Sambandhādhideva Praṇāma
+Song_Sambandhādhideva Praṇāma
 
 Text 1
-Sambandhādhideva Praṇāma
 jayatāṁ suratau paṅgor mama manda-mater gatī
 mat-sarvasva-padāmbhojau rādhā-madana-mohanau
 
 jayatām—all glory to; su-ratau—most merciful, or attached in conjugal love; paṅgoḥ—of one who is lame; mama—of me; manda-mateḥ—foolish; gatī—refuge; mat—my; sarva-sva—everything; pada-ambhojau—whose lotus feet; rādhā-madana-mohanau—Rādharāṇī and Madana-mohana.
 
 Glory to the all-merciful Rādhā and Madana-mohana! I am lame and ill advised, yet They are my directors, and Their lotus feet are everything to me.
-Song 1: Abhidheyādhideva Praṇāma
+Song_Abhidheyādhideva Praṇāma
  
 Text 1 
-Abhidheyādhideva Praṇāma
+
 dīvyad-vṛndāraṇya-kalpa-drumādhaḥ
 śrīmad-ratnāgāra-siṁhāsana-sthau
 śrīmad-rādhā-śrīla-govinda-devau
@@ -172,38 +165,37 @@ preṣṭhālībhiḥ sevyamānau smarāmi
 dīvyat—shining; vṛndā-araṇya—(in) the forest of Vṛndāvana; kalpa-druma—desire tree; adhaḥ—beneath; śrīmat—most beautiful; ratna-āgāra—(in) a temple of jewels; siṁha-āsana-sthau—sitting on a throne; śrīmat—very beautiful; rādhā—Śrīmatī Rādhārāṇī; śrīla-govinda-devau—and Śrī Govindadeva; preṣṭha-ālībhiḥ—by most confidential associates; sevyamānau—being served; smarāmi—I remember.
 
 In a temple of jewels in Vṛndāvana, underneath a desire tree, Śrī Śrī Rādhā-Govinda, served by Their most confidential associates, sit upon an effulgent throne. I offer my most humble obeisances unto Them.
-Song 1: Prayojanādhideva Praṇāma
+Song_Prayojanādhideva Praṇāma
 
 Text 1
-Prayojanādhideva Praṇāma
+
 śrīmān rāsa-rasārambhī vaṁśī-vaṭa-taṭa-sthitaḥ
 karṣan veṇu-svanair gopīr gopīnāthaḥ śriye 'stu naḥ
 
 śrīmān—most beautiful; rāsa—(of) the rāsa dance; rasa—(of) the mellow; ārambhī—the initiator; vaṁśī-vaṭa—(of) the name Vaṁśīvata; taṭa—on the shore; sthitaḥ—standing; karṣan—attracting; veṇu—(of) the flute; svanaiḥ—by the sounds; gopīḥ—the cowherd girls; gopī-nāthaḥ—Śrī Gopīnātha; śriye—benediction; astu—let there be; naḥ—our.
 
 Śrī Śrīla Gopīnātha, who originated the transcendental mellow of the rāsa dance, stands on the shore in Vaṁśīvaṭa and attracts the attention of the cowherd damsels with the sound of His celebrated flute. May they all confer upon us their benediction.
-Song 1: Śrī Rādhā Praṇāma
+Song_Śrī Rādhā Praṇāma
 
 Text 1
-Śrī Rādhā Praṇāma
 tapta-kāñcana-gaurāṅgi rādhe vṛndāvaneśvari
 vṛṣabhānu-sute devī praṇamāmi hari-priye
 
 tapta—molten; kāñcana—(like) gold; gaura—fair complexion; aṅgi—O one whose body; rādhe—O Rādhārānī; vṛndāvana-īśvari- O Queen of Vṛndāvana; vṛṣabhānu-sute—O daughter of King Vṛṣabhānu; devi—O goddess; praṇamāmi—I offer my respects; hari-priye—O one who is very dear to Lord Kṛṣṇa.
 
 I offer my respects to Rādhārāṇī, whose bodily complexion is like molten gold and who is the Queen of Vṛndāvana. You are the daughter of King Vṛṣabhānu, and You are very dear to Lord Kṛṣṇa.
-Song 1: Pañca-tattva Mahā-mantra
+Song_Pañca-tattva Mahā-mantra
 
 Text 1
 (jaya) śrī-kṛṣṇa-caitanya prabhu nityānanda
 śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
-Song 1: Hare Kṛṣṇa Mahā-mantra
+Song_Hare Kṛṣṇa Mahā-mantra
 
 Text 1
 HARE KṚṢṆA HARE KṚṢṆA KṚṢṆA KṚṢṆA HARE HARE
 HARE RĀMA HARE RĀMA RĀMA RĀMA HARE HARE
 
-Song 1: Śrī Śrī Gurv-aṣṭaka (saṁsāra-dāvānala-līḍha-loka)
+Song 1_Śrī Śrī Gurv-aṣṭaka (saṁsāra-dāvānala-līḍha-loka)
 
 Eight Prayers to the Guru
 by Śrīla Viśvanātha Cakravartī Ṭhākura
@@ -212,7 +204,6 @@ by Śrīla Viśvanātha Cakravartī Ṭhākura
 Audio
  Audio Download 
 Text 1
-Śrī Śrī Gurv-aṣṭaka
 saṁsāra-dāvānala-līḍha-loka-
 trāṇāya kāruṇya-ghanāghanatvam
 prāptasya kalyāṇa-guṇārṇavasya
@@ -284,14 +275,13 @@ vande guroḥ śrī-caraṇāravindam
 yasya—of whom (the spiritual master); prasādāt—by the grace; bhagavat—(of) Kṛṣṇa; prasādaḥ—the mercy; yasya—of whom; aprasādāt—without the grace; na—not; gatiḥ—means of advancement; kutaḥ api—anywhere; dhyāyan—meditating upon; stuvan—praising; tasya—of him (the spiritual master); yaśaḥ—the glory; tri-sandhyam—three times a day (sunrise, noon, and sunset); vande—I offer obeisances; guroḥ—of my spiritual master; śrī—auspicious; caraṇa-aravindam—unto the lotus feet.
 
 By the mercy of the spiritual master one receives the benediction of Kṛṣṇa. Without the grace of the spiritual master, one cannot make any advancement. Therefore, I should always remember and praise the spiritual master. At least three times a day I should offer my respectful obeisances unto the lotus feet of my spiritual master.
-Song 1: Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka (kṛṣṇotkīrtana-gāna-nartana-parau)
+Song 1_Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka (kṛṣṇotkīrtana-gāna-nartana-parau)
 
 Eight Prayers to the Six Gosvamis
 by Śrīnivāsa Ācārya
 Audio
  Audio Download 
 Text 1
-Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka
 kṛṣṇotkīrtana-gāna-nartana-parau premāmṛtāmbho-nidhī
 dhīrādhīra-jana-priyau priya-karau nirmatsarau pūjitau
 śrī-caitanya-kṛpā-bharau bhuvi bhuvo bhārāvahantārakau
@@ -363,7 +353,7 @@ vande rūpa-sanātanau raghu-yugau śrī-jīva-gopālakau
 he rādhe–O Rādhā!; vraja-devike–O Queen of Vraja!; ca–and; lalite–O Lalitā Sakhī!; he nanda-sūno–O son of Nanda Mahārāja!; kutaḥ–where are you?; śrī-govardhana–on beautiful Govardhana Hill; kalpa-pādapa-tale–at the base of the desire-trees; kālindī-vanye–in the forest on the bank of the Yamunā river; kutaḥ–where are you?; ghoṣantau–they who are shouting; iti–thus; sarvataḥ–everywhere; vraja-pure–in the realm of Vraja; khedaiḥ–by distress; mahā-vihvalau–they who are greatly agitated...
 
 I offer my respectful obeisances unto the six Gosvāmīs, namely Śrī Rūpa Gosvāmī, Śrī Sanātana Gosvāmī, Śrī Raghunātha Bhaṭṭa Gosvāmī, Śrī Raghunātha dāsa Gosvāmī, Śrī Jīva Gosvāmī, and Śrī Gopāla Bhaṭṭa Gosvāmī, who were chanting very loudly everywhere in Vṛndāvana, shouting, "Queen of Vṛndāvana, Rādhārāṇī! O Lalita! O son of Nanda Mahārāja! Where are you all now? Are you just on the hill of Govardhana, or are you under the trees on the bank of the Yamunā? Where are you?" These were their moods in executing Kṛṣṇa consciousness.
-Song 1: Śrī Śrī Śikṣāṣṭaka (ceto-darpaṇa-mārjanaṁ)
+Song_Śrī Śrī Śikṣāṣṭaka (ceto-darpaṇa-mārjanaṁ)
 
 Eight Instructions
 Lord Śrī Caitanya Mahāprabhu
@@ -375,7 +365,6 @@ These eight verses clearly reveal His mission and precepts. These supremely valu
 Audio
  Audio Download 
 Text 1
-Śrī Śrī Śikṣāṣṭaka
 ceto-darpaṇa-mārjanaṁ bhava-mahā-dāvāgni-nirvāpaṇaṁ
 śreyaḥ-kairava-candrikā-vitaraṇaṁ vidyā-vadhū-jīvanam
 ānandāmbudhi-vardhanaṁ prati-padaṁ pūrṇāmṛtāsvādanaṁ
@@ -549,7 +538,7 @@ tumi binā anya gati nāi
 
    Today that remembrance of You came to me in a very nice way. Because I have a great longing I called to You. I am Your eternal servant and therefore I desire Your association so much. O Lord Kṛṣṇa, except for You there is no other means of success.
 
-Song 1: Mārkine Bhāgavata-dharma (baro-kṛpā kaile kṛṣṇa)
+Song_Mārkine Bhāgavata-dharma (baro-kṛpā kaile kṛṣṇa)
 Mārkine Bhāgavata-dharma
 by His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda
 at Boston Harbor, September 18, 1965
