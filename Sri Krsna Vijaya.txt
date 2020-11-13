@@ -3,7 +3,7 @@ Gunaraja Khan
 Śrī Kṛṣṇa-vijaya
 
 
-Song 1 Maṅgalācaraṇa
+Song 1_Maṅgalācaraṇa
 Invoking Auspiciousness
 
 
@@ -57,7 +57,7 @@ kṛṣṇera caritra kichu karila racan
 
 
 
-Song 2 Śrī Kṛṣṇer Rūpa-varṇan
+Song 2_Śrī Kṛṣṇer Rūpa-varṇan
 Description of Lord Kṛṣṇa's Handsome Form
 
 (vibhāṣā-rāga)
@@ -246,7 +246,7 @@ guṇarāja khānna bole govinda-caraṇ
 
 
 
-Song 3 Śrī Vṛndāvaner Saundarya
+Song 3_Śrī Vṛndāvaner Saundarya
 The Beauty of Śrī Vṛndāvana
 
 (Koḍā-rāga)
@@ -327,7 +327,7 @@ padma-nīlotpala-dale   śāluka kumuda jale
 
 
 
-Song 4 Garbha-stuti
+Song 4_Garbha-stuti
 Prayers by the Demigods to Lord Kṛṣṇa in the Womb
 
 (Śrī-rāga)
@@ -420,7 +420,7 @@ cali gelā deba-gaṇa jāra jei purī
 
 
 
-Song 5 Kubera-putra-dwayer Śrī Kṛṣṇa-stava
+Song 5_Kubera-putra-dwayer Śrī Kṛṣṇa-stava
 Kuvera's Two Sons Offer Prayers to Lord Kṛṣṇa
 
 (Vibhāṣā-rāga)
@@ -512,7 +512,7 @@ hāsiyā ta' dayā kari kaila nārāyaṇ
 
 
 
-Song 6 Kāliya-nāger Strī-stava
+Song 6_Kāliya-nāger Strī-stava
 Prayers by the Wives of Kāliya-nāga
 
 (Dhānasī-rāga) 
@@ -635,7 +635,7 @@ swāmī-dāna deha more tridaśa-īśwar
 
 
 
-Song 7 Vipra-patnī-gaṇer Śrī Kṛṣṇa-stava
+Song 7_Vipra-patnī-gaṇer Śrī Kṛṣṇa-stava
 The Brāhmaṇas' Wives Offer Prayers to Lord Kṛṣṇa
 
 (Mallāra-rāga)
@@ -758,7 +758,7 @@ janme janme pāi jena tomāra caraṇ
 
 
 
-Song 8 Śrī Kṛṣṇer prati Indrer Staba
+Song 8_Śrī Kṛṣṇer prati Indrer Staba
 Indra's Prayers to Lord Kṛṣṇa
 
 (Pāhiḍā-rāga)
@@ -807,7 +807,7 @@ tyaja kopa nārāyaṇa paḍahuṁ caraṇe
 
 
 
-Song 9 Caturbhuja-rūpa-varṇana
+Song 9_Caturbhuja-rūpa-varṇana
 Description of the Lord's Four-armed Form
 
 (Hillola-rāga)
@@ -941,7 +941,7 @@ sarbāṅga dekhibe mora ananya-hṛday
 
 
 
-Song 10 Brahmār Staba
+Song 10_Brahmār Staba
 Brahmā's Prayers
 
 (Lalita-rāga)
@@ -1109,8 +1109,7 @@ kāndite kāndite brahmā baila eta bāṇī
 
 
 
-Song 11
-Śrī Vṛndāraṇyer Śrī Yoga-pīṭhe Sa-parikār Śrī Govinder
+Song 11_Śrī Vṛndāraṇyer Śrī Yoga-pīṭhe Sa-parikār Śrī Govinder
 Lord Kṛṣṇa and His Associates in the Spiritual World of Vṛndāvana
 
 (Śrī-rāga)
