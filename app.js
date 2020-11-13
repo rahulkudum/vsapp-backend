@@ -8,10 +8,10 @@ app.use(cors());
 
 
 
-//fs.copyFileSync("gita.txt","file.txt";
-let val; 
+
+ let val; 
       
-// fs.readFile("./PBC.txt","utf8",function(error,data){
+// fs.readFile("./SBAll.txt","utf8",function(error,data){
 //   let sname=0;
 //   let ntext="";
 //   while(sname!==-1){
@@ -46,13 +46,13 @@ let val;
 
 // }
 
-// console.log(ntext);
+
 
  
   
 //   }  
   
-//   fs.writeFile("./PBC.txt",ntext, function (err) {
+//   fs.writeFile("./SBnew.txt",ntext, function (err) {
 //     if (err) throw err;
 //     console.log('Replaced!');
 //   });
@@ -61,7 +61,8 @@ let val;
 
 
 
-//console.log(val);
+// console.log(val);
+
 app.get ("/",(req,res)=>{
     res.send("chant and be happy");
 });
