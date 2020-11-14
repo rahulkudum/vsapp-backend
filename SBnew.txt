@@ -1,6 +1,6 @@
 
-Part Canto One
-Song-1 Mangalacarana (SB 1.1.1-3)
+Part   Canto One
+Song-1_Mangalacarana (SB 1.1.1-3)
 
 Text 1
 oṁ namo bhagavate vāsudevāya
@@ -24,7 +24,7 @@ pibata bhāgavataṁ rasam ā-layaṁ
 muhur aho rasikā bhuvi bhāvukāḥ
 nigama—the Vedic literatures; kalpa-taroḥ—the desire tree; galitam—fully matured; phalam—fruit; śuka—Śrīla Śukadeva Gosvāmī, the original speaker of Śrīmad-Bhāgavatam; mukhāt—from the lips of; amṛta—nectar; drava—semisolid and soft and therefore easily swallowable; saṁyutam—perfect in all respects; pibata—do relish it; bhāgavatam—the book dealing in the science of the eternal relation with the Lord; rasam—juice (that which is relishable); ā-layam—until liberation, or even in a liberated condition; muhuḥ—always; aho—O; rasikāḥ—those who are full in the knowledge of mellows; bhuvi—on the earth; bhāvukāḥ—expert and thoughtful.
 O expert and thoughtful men, relish Śrīmad-Bhāgavatam, the mature fruit of the desire tree of Vedic literatures. It emanated from the lips of Śrī Śukadeva Gosvāmī. Therefore this fruit has become even more tasteful, although its nectarean juice was already relishable for all, including liberated souls.
-Song-2 Pranams to Srila Sukadeva Goswami &Others (SB I.2.2-4)
+Song-2_Pranams to Srila Sukadeva Goswami &Others (SB I.2.2-4)
 
 Text 2
 sūta uvāca
@@ -48,7 +48,7 @@ devīṁ sarasvatīṁ vyāsaṁ
 tato jayam udīrayet
 nārāyaṇam—the Personality of Godhead; namaḥ-kṛtya—after offering respectful obeisances; naram ca eva—and Nārāyaṇa Ṛṣi; nara-uttamam—the supermost human being; devīm—the goddess; sarasvatīm—the mistress of learning; vyāsam—Vyāsadeva; tataḥ—thereafter; jayam—all that is meant for conquering; udīrayet—be announced.
 Before reciting this Śrīmad-Bhāgavatam, which is the very means of conquest, one should offer respectful obeisances unto the Personality of Godhead, Nārāyaṇa, unto Nara-nārāyaṇa Ṛṣi, the supermost human being, unto Mother Sarasvatī, the goddess of learning, and unto Śrīla Vyāsadeva, the author.
-Song-3 Prayers by Arjuna to Lord Krishna (SB 1.7.22-26)
+Song-3_Prayers by Arjuna to Lord Krishna (SB 1.7.22-26)
 
 
 Text 22
@@ -87,7 +87,7 @@ sarvato mukham āyāti
 tejaḥ parama-dāruṇam
 kim—what is; idam—this; svit—does it come; kutaḥ—wherefrom; vā iti—be either; deva-deva—O Lord of lords; na—not; vedmi—do I know; aham—I; sarvataḥ—all around; mukham—directions; āyāti—coming from; tejaḥ—effulgence; parama—very much; dāruṇam—dangerous.
 O Lord of lords, how is it that this dangerous effulgence is spreading all around? Where does it come from? I do not understand it.
-Song-4 Prayers by Uttara (SB 1.8.9-10)
+Song-4_Prayers by Uttara (SB 1.8.9-10)
 
 
 Text 9
@@ -105,7 +105,7 @@ kāmaṁ dahatu māṁ nātha
 mā me garbho nipātyatām
 abhidravati—coming towards; mām—me; īśa—O Lord; śaraḥ—the arrow; tapta—fiery; ayasaḥ—iron; vibho—O great one; kāmam—desire; dahatu—let it burn; mām—me; nātha—O protector; mā—not; me—my; garbhaḥ—embryo; nipātyatām—be aborted.
 O my Lord, You are all-powerful. A fiery iron arrow is coming towards me fast. My Lord, let it burn me personally, if You so desire, but please do not let it burn and abort my embryo. Please do me this favor, my Lord.
-Song-5 Prayers by Queen Kunti (SB 1.8.18-43)
+Song-5_Prayers by Queen Kunti (SB 1.8.18-43)
 
 Text 18
 kunty uvāca
@@ -219,7 +219,7 @@ devakyāṁ yācito 'bhyagāt
 ajas tvam asya kṣemāya
 vadhāya ca sura-dviṣām
 apare—others; vasudevasya—of Vasudeva; devakyām—of Devakī; yācitaḥ—being prayed for; abhyagāt—took birth; ajaḥ—unborn; tvam—You are; asya—of him; kṣemāya—for the good; vadhāya—for the purpose of killing; ca—and; sura-dviṣām—of those who are envious of the demigods.
-Others say that since both Vasudeva and Devakī prayed for You, You have taken Your birth as their son. Undoubtedly You are unborn, yet You took Your birth for their welfare and to kill those who are envious of the demigods.
+Others say that since both Vasudeva and Devakī prayed for You, You have taken Your birth as their son. Undoubtedly You are unborn, yeoartt You took Your birth for their welfare and to kill those who are envious of the demigods.
 Text 34
 bhārāvatāraṇāyānye
 bhuvo nāva ivodadhau
@@ -290,7 +290,7 @@ govinda go-dvija-surārti-harāvatāra
 yogeśvarākhila-guro bhagavan namas te
 śrī-kṛṣṇa—O Śrī Kṛṣṇa; kṛṣṇa-sakha—O friend of Arjuna; vṛṣṇi—of descendants of Vṛṣṇi; ṛṣabha—O chief; avani—the earth; dhruk—rebellious; rājanya-vaṁśa—dynasties of the kings; dahana—O annihilator; anapavarga—without deterioration; vīrya—of prowess; govinda—O proprietor of Golokadhāma; go—of the cows; dvija—the brāhmaṇas; sura—the demigods; arti-hara—to relieve distress; avatāra—O Lord who descend; yoga-īśvara—O master of all mystic powers; akhila—universal; guro—O preceptor; bhagavan—O possessor of all opulences; namaḥ te—respectful obeisances unto You.
 O Kṛṣṇa, O friend of Arjuna, O chief amongst the descendants of Vṛṣṇi, You are the destroyer of those political parties which are disturbing elements on this earth. Your prowess never deteriorates. You are the proprietor of the transcendental abode, and You descend to relieve the distresses of the cows, the brāhmaṇas and the devotees. You possess all mystic powers, and You are the preceptor of the entire universe. You are the almighty God, and I offer You my respectful obeisances.
-Song-6 Prayers by Bhismadeva (SB 1.9.32-42)
+Song-6_Prayers by Bhismadeva (SB 1.9.32-42)
 
 Text 32
 śrī-bhīṣma uvāca
@@ -370,7 +370,7 @@ pratidṛśam iva naikadhārkam ekaṁ
 samadhigato 'smi vidhūta-bheda-mohaḥ
 tam—that Personality of Godhead; imam—now present before me; aham—I; ajam—the unborn; śarīra-bhājām—of the conditioned soul; hṛdi—in the heart; hṛdi—in the heart; dhiṣṭhitam—situated; ātma—the Supersoul; kalpitānām—of the speculators; pratidṛśam—in every direction; iva—like; na ekadhā—not one; arkam—the sun; ekam—one only; samadhigataḥ asmi—I have undergone trance in meditation; vidhūta—being freed from; bheda-mohaḥ—misconception of duality.
 Now I can meditate with full concentration upon that one Lord, Śrī Kṛṣṇa, now present before me because now I have transcended the misconceptions of duality in regard to His presence in everyone's heart, even in the hearts of the mental speculators. He is in everyone's heart. The sun may be perceived differently, but the sun is one.
-Song-7 Glorification of Krishna by the women of Hastinapura (SB 1.10.21-30)
+Song-7_Glorification of Krishna by the women of Hastinapura (SB 1.10.21-30)
 
 Text 21
 sa vai kilāyaṁ puruṣaḥ purātano
@@ -442,7 +442,7 @@ yāsāṁ gṛhāt puṣkara-locanaḥ patir
 na jātv apaity āhṛtibhir hṛdi spṛśan
 etāḥ—all these women; param—highest; strītvam—womanhood; apāstapeśalam—without independence; nirasta—without; śaucam—purity; bata sādhu—auspiciously glorified; kurvate—do they make; yāsām—from whose; gṛhāt—homes; puṣkara-locanaḥ—the lotus-eyed; patiḥ—husband; na jātu—never at any time; apaiti—goes away; āhṛtibhiḥ—by presentation; hṛdi—in the heart; spṛśan—endeared.
 All these women auspiciously glorified their lives despite their being without independence or purity. Their husband, the lotus-eyed Personality of Godhead, never left them alone at home. He always pleased their hearts by making valuable presentations.
-Song-8 Prayers by the citizens of Dvaraka(SB 1.11.6-10)
+Song-8_Prayers by the citizens of Dvaraka(SB 1.11.6-10)
 
 Text 6
 natāḥ sma te nātha sadāṅghri-paṅkajaṁ
@@ -484,8 +484,8 @@ vitanvan prāviśat puram
 katham—how; vayam—we; nātha—O Lord; ciroṣite—being abroad almost always; tvayi—by You; prasanna—satisfaction; dṛṣṭyā—by the glance; akhila—universal; tāpa—miseries; śoṣaṇam—vanquishing; jīvema—shall be able to live; te—Your; sundara—beautiful; hāsa—smiling; śobhitam—decorated; apaśyamānāḥ—without seeing; vadanam—face; manoharam—attractive; iti—thus; ca—and; udīritāḥ—speaking; vācaḥ—words; prajānām—of the citizens; bhakta-vatsalaḥ—kind to the devotees; śṛṇvānaḥ—thus learning; anugraham—kindness; dṛṣṭyā—by glances; vitanvan—distributing; prāviśat—entered; puram—Dvārakāpurī.
 O master, if You live abroad all the time, then we cannot look at Your attractive face, whose satisfied smiles vanquish all our sufferings. How can we exist without Your presence? 
 
-Part Canto Two
-Song-1 Prayers by Srila Sukadeva Goswami (SB 2.4.12-24)
+Part   Canto Two
+Song-1_Prayers by Srila Sukadeva Goswami (SB 2.4.12-24)
 
 
 Text 12      
@@ -583,8 +583,8 @@ I offer my respectful obeisances unto Śrīla Vyāsadeva, the incarnation of Vā
 
 
 
-Part Canto Three 
-Song-1 Prayers by Demigods(SB 3.5.39-51)
+Part   Canto Three 
+Song-1_Prayers by Demigods(SB 3.5.39-51)
 
 
 
@@ -680,7 +680,7 @@ tvaṁ naḥ sva-cakṣuḥ paridehi śaktyā
 deva kriyārthe yad-anugrahāṇām
 tataḥ—therefore; vayam—all of us; mat-pramukhāḥ—coming from the total cosmos, the mahat-tattva; yat-arthe—for the purpose of which; babhūvima—created; ātman—O Supreme Self; karavāma—shall do; kim—what; te—Your service; tvam—Yourself; naḥ—to us; sva-cakṣuḥ—personal plan; paridehi—specifically grant us; śaktyā—with potency to work; deva—O Lord; kriyā-arthe—for acting; yat—from which; anugrahāṇām—of those who are specifically favored.
 O Supreme Self, please give us, who are created in the beginning from the mahat-tattva, the total cosmic energy, Your kind directions on how we shall act. Kindly award us Your perfect knowledge and potency so that we can render You service in the different departments of subsequent creation.
-Song-2 Prayers by Lord Brahma to Sri Garbhodakasayi Vishnu(SB 3.9.1-25)
+Song-2_Prayers by Lord Brahma to Sri Garbhodakasayi Vishnu(SB 3.9.1-25)
 
 Text 1
 brahmovāca
@@ -858,7 +858,7 @@ utthāya viśva-vijayāya ca no viṣādaṁ
 mādhvyā girāpanayatāt puruṣaḥ purāṇaḥ
 saḥ—He (the Lord); asau—that; adabhra—unlimited; karuṇaḥ—merciful; bhagavān—the Personality of Godhead; vivṛddha—excessive; prema—love; smitena—by smiling; nayana-amburuham—the lotus eyes; vijṛmbhan—by opening; utthāya—for flourishing; viśva-vijayāya—for glorifying the cosmic creation; ca—as also; naḥ—our; viṣādam—dejection; mādhvyā—by sweet; girā—words; apanayatāt—let Him kindly remove; puruṣaḥ—the Supreme; purāṇaḥ—oldest.
 The Lord, who is supreme and is the oldest of all, is unlimitedly merciful. I wish that He may smilingly bestow His benediction upon me by opening His lotus eyes. He can uplift the entire cosmic creation and kindly remove our dejection by sweetly speaking His directions.
-Song-3 Prayers to Lord Varaha by Rshis (SB 3.13.34-45)
+Song-3_Prayers to Lord Varaha by Rshis (SB 3.13.34-45)
 
 Text 34
 ṛṣaya ūcuḥ
@@ -945,7 +945,7 @@ yad-yogamāyā-guṇa-yoga-mohitaṁ
 viśvaṁ samastaṁ bhagavan vidhehi śam
 saḥ—he; vai—certainly; bata—alas; bhraṣṭa-matiḥ—nonsensical; tava—Your; eṣate—desires; yaḥ—one who; karmaṇām—of activities; pāram—limit; apāra-karmaṇaḥ—of one who has unlimited activities; yat—by whom; yoga—mystic power; māyā—potency; guṇa—modes of material nature; yoga—mystic power; mohitam—bewildered; viśvam—the universe; samastam—in total; bhagavan—O Supreme Personality of Godhead; vidhehi—just be pleased to bestow; śam—good fortune.
 O Lord, there is no limit to Your wonderful activities. Anyone who desires to know the limit of Your activities is certainly nonsensical. Everyone in this world is conditioned by Your powerful mystic potencies. Please bestow Your causeless mercy upon these conditioned souls.
-Song-4 Prayers to Lord Vishnu by sanakadi Rshis at the gate of Vaikuntaloka(SB 3.15.46-50) 
+Song-4_Prayers to Lord Vishnu by sanakadi Rshis at the gate of Vaikuntaloka(SB 3.15.46-50) 
 
 Text 46
 kumārā ūcuḥ
@@ -983,7 +983,7 @@ tasmā idaṁ bhagavate nama id vidhema
 yo 'nātmanāṁ durudayo bhagavān pratītaḥ
 prāduścakartha—You have manifested; yat—which; idam—this; puruhūta—O greatly worshiped; rūpam—eternal form; tena—by that form; īśa—O Lord; nirvṛtim—satisfaction; avāpuḥ—obtained; alam—so much; dṛśaḥ—vision; naḥ—our; tasmai—unto Him; idam—this; bhagavate—unto the Supreme Personality of Godhead; namaḥ—obeisances; it—only; vidhema—let us offer; yaḥ—who; anātmanām—of those who are less intelligent; durudayaḥ—cannot be seen; bhagavān—the Supreme Personality of Godhead; pratītaḥ—has been seen by us.
 O Lord, we therefore offer our respectful obeisances unto Your eternal form as the Personality of Godhead, which You have so kindly manifested before us. Your supreme, eternal form cannot be seen by unfortunate, less intelligent persons, but we are so much satisfied in our mind and vision to see it.
-Song-5 Prayers by Sanakadi Rshis (SB 3.16.16-25) 
+Song-5_Prayers by Sanakadi Rshis (SB 3.16.16-25) 
 
 
 Text 16
@@ -1057,7 +1057,7 @@ asmāsu vā ya ucito dhriyatāṁ sa daṇḍo
 ye 'nāgasau vayam ayuṅkṣmahi kilbiṣeṇa
 yam—which; vā—or; anayoḥ—of both of them; damam—punishment; adhīśa—O Lord; bhavān—Your Lordship; vidhatte—awards; vṛttim—better existence; nu—certainly; vā—or; tat—that; anumanmahi—we accept; nirvyalīkam—without duplicity; asmāsu—to us; vā—or; yaḥ—whichever; ucitaḥ—is proper; dhriyatām—may be awarded; saḥ—that; daṇḍaḥ—punishment; ye—who; anāgasau—sinless; vayam—we; ayuṅkṣmahi—allotted; kilbiṣeṇa—with a curse.
 O Lord, whatever punishment You wish to award to these two innocent persons or also to us we shall accept without duplicity. We understand that we have cursed two faultless persons.
-Song-6 Prayers to Lord Varaha by Demigods(SB 3.19.30) 
+Song-6_Prayers to Lord Varaha by Demigods(SB 3.19.30) 
 
 Text 30
 devā ūcuḥ
@@ -1067,7 +1067,7 @@ diṣṭyā hato 'yaṁ jagatām aruntudas
 tvat-pāda-bhaktyā vayam īśa nirvṛtāḥ
 devāḥ—the demigods; ūcuḥ—said; namaḥ—obeisances; namaḥ—obeisances; te—unto You; akhila-yajña-tantave—the enjoyer of all sacrifices; sthitau—for the purpose of maintaining; gṛhīta—assumed; amala—pure; sattva—goodness; mūrtaye—form; diṣṭyā—fortunately; hataḥ—slain; ayam—this; jagatām—to the worlds; aruntudaḥ—causing torment; tvat-pāda—to Your feet; bhaktyā—with devotion; vayam—we; īśa—O Lord; nirvṛtāḥ—have attained happiness.
 The demigods addressed the Lord: All obeisances unto You! You are the enjoyer of all sacrifices, and You have assumed the form of a boar, in pure goodness, for the purpose of maintaining the world. Fortunately for us, this demon, who was a torment to the worlds, has been slain by You, and we too, O Lord, are now at ease, in devotion to Your lotus feet.
-Song-7 Prayers by Kardama muni to Lord Vishnu (SB 3.21.13-21)
+Song-7_Prayers by Kardama muni to Lord Vishnu (SB 3.21.13-21)
 
 Text 13
 ṛṣir uvāca
@@ -1133,7 +1133,7 @@ namāmy abhīkṣṇaṁ namanīya-pāda-
 sarojam alpīyasi kāma-varṣam
 tam—that; tvā—You; anubhūtyā—by realizing; uparata—disregarded; kriyā—enjoyment of fruitive activities; artham—in order that; sva-māyayā—by Your own energy; vartita—brought about; loka-tantram—the material worlds; namāmi—I offer obeisances; abhīkṣṇam—continuously; namanīya—worshipable; pāda-sarojam—lotus feet; alpīyasi—on the insignificant; kāma—desires; varṣam—showering.
 I continuously offer my respectful obeisances unto Your lotus feet, of which it is worthy to take shelter, because You shower all benedictions on the insignificant. To give all living entities detachment from fruitive activity by realizing You, You have expanded these material worlds by Your own energy.
-Song-8 Prayers by kardama muni to Kapila in child form(SB 3.24.27-34)
+Song-8_Prayers by kardama muni to Kapila in child form(SB 3.24.27-34)
 
 Text 27
 aho pāpacyamānānāṁ
@@ -1191,7 +1191,7 @@ parivrajat-padavīm āsthito 'haṁ
 cariṣye tvāṁ hṛdi yuñjan viśokaḥ
 ā sma abhipṛcche—I am inquiring; adya—now; patim—the Lord; prajānām—of all created beings; tvayā—by You; avatīrṇa-ṛṇaḥ—free from debts; uta—and; āpta—fulfilled; kāmaḥ—desires; parivrajat—of an itinerant mendicant; padavīm—the path; āsthitaḥ—accepting; aham—I; cariṣye—I shall wander; tvām—You; hṛdi—in my heart; yuñjan—keeping; viśokaḥ—free from lamentation.
 Today I have something to ask from You, who are the Lord of all living entities. Since I have now been liberated by You from my debts to my father, and since all my desires are fulfilled, I wish to accept the order of an itinerant mendicant. Renouncing this family life, I wish to wander about, free from lamentation, thinking always of You in my heart.
-Song-9 Prayers by Jiva in the womb (SB 3.31.12-21)
+Song-9_Prayers by Jiva in the womb (SB 3.31.12-21)
 
 Text 12
 jantur uvāca
@@ -1264,7 +1264,7 @@ bhūyo yathā vyasanam etad aneka-randhraṁ
 mā me bhaviṣyad upasādita-viṣṇu-pādaḥ
 tasmāt—therefore; aham—I; vigata—ceased; viklavaḥ—agitation; uddhariṣye—shall deliver; ātmānam—myself; āśu—quickly; tamasaḥ—from the darkness; suhṛdā ātmanā—with friendly intelligence; eva—indeed; bhūyaḥ—again; yathā—so that; vyasanam—plight; etat—this; aneka-randhram—entering many wombs; mā—not; me—my; bhaviṣyat—may occur; upasādita—placed (in my mind); viṣṇu-pādaḥ—the lotus feet of Lord Viṣṇu.
 Therefore, without being agitated any more, I shall deliver myself from the darkness of nescience with the help of my friend, clear consciousness. Simply by keeping the lotus feet of Lord Viṣṇu in my mind, I shall be saved from entering into the wombs of many mothers for repeated birth and death.
-Song-10 Prayers by Mother Devahuti (SB 3.33.2-8)
+Song-10_Prayers by Mother Devahuti (SB 3.33.2-8)
 
 Text 2
 devahūtir uvāca
@@ -1317,8 +1317,8 @@ vande viṣṇuṁ kapilaṁ veda-garbham
 tam—unto Him; tvām—You; aham—I; brahma—Brahman; param—supreme; pumāṁsam—the Supreme Personality of Godhead; pratyak-srotasi—turned inwards; ātmani—in the mind; saṁvibhāvyam—meditated upon, perceived; sva-tejasā—by Your own potency; dhvasta—vanished; guṇa-pravāham—the influence of the modes of material nature; vande—I offer obeisances; viṣṇum—unto Lord Viṣṇu; kapilam—named Kapila; veda-garbham—the repository of the Vedas.
 I believe, my Lord, that You are Lord Viṣṇu Himself under the name of Kapila, and You are the Supreme Personality of Godhead, the Supreme Brahman! The saints and sages, being freed from all the disturbances of the senses and mind, meditate upon You, for by Your mercy only can one become free from the clutches of the three modes of material nature. At the time of dissolution, all the Vedas are sustained in You only.
 
-Part Canto Four
-Song-1 Prayers by Arti Rshi to the three Lords (SB 4.1.26-28)
+Part   Canto Four
+Song-1_Prayers by Arti Rshi to the three Lords (SB 4.1.26-28)
 
 
 TextS 26–27
@@ -1340,7 +1340,7 @@ atrāgatās tanu-bhṛtāṁ manaso 'pi dūrād
 brūta prasīdata mahān iha vismayo me
 ekaḥ—one; mayā—by me; iha—here; bhagavān—great personality; vividha—various; pradhānaiḥ—by paraphernalia; cittī-kṛtaḥ—fixed in mind; prajananāya—for begetting a child; katham—why; nu—however; yūyam—all of you; atra—here; āgatāḥ—appeared; tanu-bhṛtām—of the embodied; manasaḥ—the minds; api—although; dūrāt—from far beyond; brūta—kindly explain; prasīdata—being merciful to me; mahān—very great; iha—this; vismayaḥ—doubt; me—of mine.
 I called for the Supreme Personality of Godhead, desiring a son like Him, and I thought of Him only. But although He is far beyond the mental speculation of man, all three of you have come here. Kindly let me know how you have come, for I am greatly bewildered about this.
-Song-2 Prayers by Demigods to Nara-Narayana Rishi (SB 4.1.56-57)
+Song-2_Prayers by Demigods to Nara-Narayana Rishi (SB 4.1.56-57)
 
 Text 56
 devā ūcuḥ
@@ -1357,7 +1357,7 @@ dṛśyād adabhra-karuṇena vilokanena
 yac chrī-niketam amalaṁ kṣipatāravindam
 saḥ—that; ayam—He; sthiti—of the created world; vyatikara—calamities; upaśamāya—for destroying; sṛṣṭān—created; sattvena—by the mode of goodness; naḥ—us; sura-gaṇān—the demigods; anumeya-tattvaḥ—understood by the Vedas; dṛśyāt—glance over; adabhra-karuṇena—merciful; vilokanena—glance; yat—which; śrī-niketam—the home of the goddess of fortune; amalam—spotless; kṣipata—supersedes; aravindam—lotus.
 Let that Supreme Personality of Godhead, who is understood by truly authorized Vedic literature and who has created peace and prosperity to destroy all calamities of the created world, be kind enough to bestow His glance upon the demigods. His merciful glance can supersede the beauty of the spotless lotus flower which is the home of the goddess of fortune.
-Song-3 Prayers by Brahma to Lord Siva (SB 4.6.42-53)
+Song-3_Prayers by Brahma to Lord Siva (SB 4.6.42-53)
 
 Text 42
 brahmovāca
@@ -1444,7 +1444,7 @@ yajñas te rudra bhāgena
 kalpatām adya yajña-han
 eṣaḥ—this; te—your; rudra—O Lord Śiva; bhāgaḥ—portion; astu—let it be; yat—whatever; ucchiṣṭaḥ—is the remainder; adhvarasya—of the sacrifice; vai—indeed; yajñaḥ—the sacrifice; te—your; rudra—O Rudra; bhāgena—by the portion; kalpatām—may be completed; adya—today; yajña-han—O destroyer of the sacrifice.
 O destroyer of the sacrifice, please take your portion of the sacrifice and let the sacrifice be completed by your grace.
-Song-4 Prayers by Daka & others in Daksa-yajna to Lord Hari (SB 4.7.26-47)
+Song-4_Prayers by Daka & others in Daksa-yajna to Lord Hari (SB 4.7.26-47)
 
 Text 26
 dakṣa uvāca
@@ -1619,7 +1619,7 @@ kīrtyamāne nṛbhir nāmni yajñeśa te
 yajña-vighnāḥ kṣayaṁ yānti tasmai namaḥ
 saḥ—that same person; prasīda—be pleased; tvam—You; asmākam—upon us; ākāṅkṣatām—awaiting; darśanam—audience; te—Your; paribhraṣṭa—fallen down; sat-karmaṇām—of whom the performance of sacrifice; kīrtyamāne—being chanted; nṛbhiḥ—by persons; nāmni—Your holy name; yajña-īśa—O Lord of sacrifice; te—Your; yajña-vighnāḥ—obstacles; kṣayam—destruction; yānti—attain; tasmai—unto You; namaḥ—respectful obeisances.
 Dear Lord, we were awaiting Your audience because we have been unable to perform the yajñas according to the Vedic rituals. We pray unto You, therefore, to be pleased with us. Simply by chanting Your holy name, one can surpass all obstacles. We offer our respectful obeisances unto You in Your presence.
-Song-5 Prayers by Dhruva to Lord Prsnigarbha (SB 4.9.6-17)
+Song-5_Prayers by Dhruva to Lord Prsnigarbha (SB 4.9.6-17)
 
 Text 6
 dhruva uvāca
@@ -1706,7 +1706,7 @@ apy evam arya bhagavān paripāti dīnān
 vāśreva vatsakam anugraha-kātaro 'smān
 satya—real; āśiṣaḥ—compared with other benedictions; hi—certainly; bhagavan—my Lord; tava—Your; pāda-padmam—lotus feet; āśīḥ—benediction; tathā—in that way; anubhajataḥ—for the devotees; puruṣa-artha—of the real goal of life; mūrteḥ—the personification; api—although; evam—thus; arya—O Lord; bhagavān—the Personality of Godhead; paripāti—maintains; dīnān—the poor in heart; vāśrā—a cow; iva—like; vatsakam—unto the calf; anugraha—to bestow mercy; kātaraḥ—eager; asmān—upon me.
 My Lord, O Supreme Lord, You are the supreme personified form of all benediction. Therefore, for one who abides in Your devotional service with no other desire, worshiping Your lotus feet is better than becoming king and lording it over a kingdom. That is the benediction of worshiping Your lotus feet. To ignorant devotees like me, You are the causelessly merciful maintainer, just like a cow, who takes care of the newly born calf by supplying milk and giving it protection from attack.
-Song-6 Prayers by Dhara (SB 4.17.29-36)
+Song-6_Prayers by Dhara (SB 4.17.29-36)
 
 Text 29
 dharovāca
@@ -1765,7 +1765,7 @@ na jñāyate mohita-citta-vartmabhis
 tebhyo namo vīra-yaśas-karebhyaḥ
 nūnam—surely; janaiḥ—by the people in general; īhitam—activities; īśvarāṇām—of the controllers; asmat-vidhaiḥ—like me; tat—of the Personality of Godhead; guṇa—of the modes of material nature; sarga—which brings forth creation; māyayā—by Your energy; na—never; jñāyate—are understood; mohita—bewildered; citta—whose minds; vartmabhiḥ—way; tebhyaḥ—unto them; namaḥ—obeisances; vīra-yaśaḥ-karebhyaḥ—who bring renown to heroes themselves.
 My dear Lord, I am also the creation of one of Your energies, composed of the three modes of material nature. Consequently I am bewildered by Your activities. Even the activities of Your devotees cannot be understood, and what to speak of Your pastimes. Thus everything appears to us to be contradictory and wonderful.
-Song-7 Prayers by King parthu (SB 4.20.23-31)
+Song-7_Prayers by King parthu (SB 4.20.23-31)
 
 Text 23
 pṛthur uvāca
@@ -1831,7 +1831,7 @@ yathā cared bāla-hitaṁ pitā svayaṁ
 tathā tvam evārhasi naḥ samīhitum
 tvat—Your; māyayā—by illusory energy; addhā—certainly; janaḥ—the people in general; īśa—O my Lord; khaṇḍitaḥ—separated; yat—because; anyat—other; āśāste—they desire; ṛta—real; ātmanaḥ—from the self; abudhaḥ—without proper understanding; yathā—as; caret—would engage in; bāla-hitam—the welfare of one's child; pitā—the father; svayam—personally; tathā—similarly; tvam—Your Lordship; eva—certainly; arhasi naḥ samīhitum—please act on my behalf.
 My Lord, due to Your illusory energy, all living beings in this material world have forgotten their real constitutional position, and out of ignorance they are always desirous of material happiness in the form of society, friendship and love. Therefore, please do not ask me to take some material benefits from You, but as a father, not waiting for the son's demand, does everything for the benefit of the son, please bestow upon me whatever You think best for me.
-Song-8 Rudra-gita (SB 4.24.33-79)
+Song-8_Rudra-gita (SB 4.24.33-79)
 
 Text 33
 śrī-rudra uvāca
@@ -2161,9 +2161,8 @@ gītam—sung; mayā—by me; idam—this; naradeva-nandanāḥ—O sons of the 
 My dear sons of the king, the prayers I have recited to you are meant for pleasing the Supreme Personality of Godhead, the Supersoul. I advise you to recite these prayers, which are as effective as great austerities. In this way, when you are mature, your life will be successful, and you will certainly achieve all your desired objectives without fail.
 Song Sung by Lord Śiva."
 
-Song-9 Prayers by Pracethas( SB 4.30.22-42)
 
-Song-9 Prayers by Pracethas( SB 4.30.22-42)
+Song-9_Prayers by Pracethas( SB 4.30.22-42)
 
 Text 22
 pracetasa ūcuḥ
