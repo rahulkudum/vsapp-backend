@@ -2598,6 +2598,15 @@ TRANSLATION
 19) All glories to the assembled devotees, Hare Krishna. [Three times]
 20) All glories to Śrī Guru and Śrī Gaurāṅga.
 21) All glories to Śrīla Prabhupāda, Śrīla Prabhupāda-kī Jaya .
+Song Name
+Mangalacaran
+(1)
+vande ‘haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ śrīgurun vaiṣṇavāṁś ca
+śrī-rūpaṁ sāgrajātaṁ saha-gaṇa-raghunāthānvitaṁ taṁ sa jīvam
+sādvaitaṁ sāvadhūtaṁ parijana-sahitaṁ kṛṣṇacaitanya-devaṁ
+śrī-rādhā-kṛṣṇa-pādān saha-gaṇa-lalitā- śrīviśākhānvitāṁś ca
+TRANSLATION
+1)I offer my respectful obeisances unto the lotus feet of my spiritual master and of all the other preceptors on the path of devotional service. I offer my respectful obeisances unto all the Vaiṣṇavas and unto the six Gosvāmīs, including Srīla Rūpa Gosvāmī, Srīla Sanātana Gosvāmī, Raghunātha dāsa Gosvāmī, Jīva Gosvāmī, and their associates. I offer my respectful obeisances unto Advaita Ācārya Prabhu, Srī Nityānanda Prabhu, Srī Caitanya Mahāprabhu, and all His devotees, headed by Srīvāsa Thākura. I then offer my respectful obeisances unto the lotus feet of Lord Kṛṣṇa, Srīmatī Rādhārānī, and all the gopīs, headed by Lalitā and Viśākhā.
   
 
 Song Name
@@ -3220,15 +3229,6 @@ svayaṁ rūpaḥ kadā mahyaṁ
 dadāti sva-padāntikam
 TRANSLATION
 1)When will Srīla Rūpa Gosvāmī Prabhupāda, who has established within this material world the mission to fulfill the desire of Lord Caitanya, give me shelter under his lotus feet?
-Song Name
-Mangalacaran
-(1)
-vande ‘haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ śrīgurun vaiṣṇavāṁś ca
-śrī-rūpaṁ sāgrajātaṁ saha-gaṇa-raghunāthānvitaṁ taṁ sa jīvam
-sādvaitaṁ sāvadhūtaṁ parijana-sahitaṁ kṛṣṇacaitanya-devaṁ
-śrī-rādhā-kṛṣṇa-pādān saha-gaṇa-lalitā- śrīviśākhānvitāṁś ca
-TRANSLATION
-1)I offer my respectful obeisances unto the lotus feet of my spiritual master and of all the other preceptors on the path of devotional service. I offer my respectful obeisances unto all the Vaiṣṇavas and unto the six Gosvāmīs, including Srīla Rūpa Gosvāmī, Srīla Sanātana Gosvāmī, Raghunātha dāsa Gosvāmī, Jīva Gosvāmī, and their associates. I offer my respectful obeisances unto Advaita Ācārya Prabhu, Srī Nityānanda Prabhu, Srī Caitanya Mahāprabhu, and all His devotees, headed by Srīvāsa Thākura. I then offer my respectful obeisances unto the lotus feet of Lord Kṛṣṇa, Srīmatī Rādhārānī, and all the gopīs, headed by Lalitā and Viśākhā.
 Song Name
 Srila Prabhupada Pranati
 (1)
@@ -9336,6 +9336,7 @@ Refrain: I am ever engaged in repeating the sweet name of Radha.
 6) Radha is there on my each and every limb. Radha is there accompanying me always. Lord Gopala plays His flute which calls out. Oh! With the sweet name of Radha.
 Song Name: Madhuram Madhurebhyo ‘Pi
 Official Name: Sri Sri Kevalastakam
+Author: Nilakanta Goswami
 (1)
 madhuraṁ madhurebhyo ‘pi
 maṅgalebhyo ‘pi maṅgalam
