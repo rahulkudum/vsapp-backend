@@ -11,7 +11,7 @@ app.use(cors());
 
  let val; 
       
-fs.readFile("./SB-10.txt","utf8",function(error,data){
+fs.readFile("./6cant..txt","utf8",function(error,data){
   let sname=0;
   let ntext="";
   let cout=0;
@@ -29,41 +29,35 @@ while(tname!==-1){
     tname=vtext.indexOf("TEXT",tname+5);
     tename=vtext.indexOf("TEXT",tname+5);
     
-    let dumtext=vtext.slice(tname,tename).split(/\r\n|\n/);
+    let dtext=vtext.slice(tname,tename).split(/\r\n|\n/);
    
     let left=false;
   let right=false;
 let sl=0;
-let dutext="";
+// let dutext="";
+// for(let i in dumtext){
+//   if(dumtext[i]!=="" && dumtext[i]!==" "){
+//     dutext=dutext.concat("\n"+dumtext[i])
+//   }
+// }
 
-for (let i in dumtext ){
-   
-    if(dumtext!=="" || dumtext!==" "  ){
-        dutext=dutext.concat("\n"+dumtext[i]);
-    }
-  
-   
-    
-}
+// let dtext=dutext.split(/\r\n|\n/);
+// console.log(dtext);
 
-dtext=dutext.split(/\r\n|\n/);
-
-
-
-for (let i in dtext){
-    if(dtext[i].indexOf(";")!==-1) {sl=((i-2)/2)+2;
-    
-    
-     break;
-    
-    
-    }
-}
+// for(let i in dtext){
+//   if(dtext[i].indexOf(";")!==-1){
+//     console.log(i);
+//     sl=((i-2)/2)+2;
+//     break;
+//   }
+// }
 
 
+// if(tname!==-1){
+//   ntext=ntext.concat("\n"+"Text")
+// }
 
-if(tname!==-1){
-ntext=ntext.concat("\n"+"Text")};
+
   for(let i=sl;i<dtext.length;i++){
    
       if(left){
@@ -86,7 +80,7 @@ ntext=ntext.concat("\n"+"Text")};
   
   }  
   
-  fs.writeFile("./SB10new.txt",ntext, function (err) {
+  fs.writeFile("./6canto2.txt",ntext, function (err) {
     if (err) throw err;
     console.log('Replaced!');
   });
