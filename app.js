@@ -11,29 +11,39 @@ app.use(cors());
 
  let val; 
       
-fs.readFile("./6cant..txt","utf8",function(error,data){
+fs.readFile("./Krsna Lila Stava.txt","utf8",function(error,data){
   let sname=0;
   let ntext="";
   let cout=0;
   while(sname!==-1){
+    pname=data.indexOf("Part",sname+5)
   
   sname=data.indexOf("Song",sname+5);
-  let tsname=data.indexOf("TEXT",sname+5);   
+
+if(pname<sname){
+  ptname=data.slice(pname,sname).split(/\r\n|\n/);
+  ntext=ntext.concat("\n"+'Text'+ptname[0]);
+  
+}
+
+
+  let tsname=data.indexOf("Text",sname+5);   
  let ename=data.indexOf("Song",sname+5);
  
  let vtext=data.slice(sname,ename);
  ntext = ntext.concat("\n"+data.slice(sname,tsname));
 let tname=0;
+let tnum=1;
 while(tname!==-1){
    cout++;
-    tname=vtext.indexOf("TEXT",tname+5);
-    tename=vtext.indexOf("TEXT",tname+5);
+    tname=vtext.indexOf("Text",tname+5);
+    tename=vtext.indexOf("Text",tname+5);
     
     let dtext=vtext.slice(tname,tename).split(/\r\n|\n/);
    
     let left=false;
   let right=false;
-let sl=0;
+let sl=1;
 // let dutext="";
 // for(let i in dumtext){
 //   if(dumtext[i]!=="" && dumtext[i]!==" "){
@@ -57,8 +67,10 @@ let sl=0;
 //   ntext=ntext.concat("\n"+"Text")
 // }
 
-
+if(tname!==-1) ntext=ntext.concat("\n"+'Text'+tnum);
   for(let i=sl;i<dtext.length;i++){
+
+    
    
       if(left){
           if(dtext[i]!=="" && dtext[i]!==" ") right=true;
@@ -70,7 +82,7 @@ let sl=0;
     }
 
 
-   
+   tnum++;
 
 }
 
