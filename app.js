@@ -11,7 +11,17 @@ app.use(cors());
 
  let val; 
       
-// fs.readFile("./Krsna Lila Stava.txt","utf8",function(error,data){
+fs.readFile("./SPMP.txt","utf8",function(error,data){
+
+let sptext=data.split(/\r\n|\n/);
+let sntext="";
+for (let i in sptext){
+if(sptext[i]!=="" && sptext[i]!==" " & sptext[i][0]!=="[") sntext = sntext.concat("\n"+sptext[i]);
+if(sptext[i][0]==="[") sntext = sntext.concat("\n"+"[");
+
+}
+
+
 //   let sname=0;
 //   let ntext="";
 //   let cout=0;
@@ -92,16 +102,16 @@ app.use(cors());
   
 //   }  
   
-//   fs.writeFile("./6canto2.txt",ntext, function (err) {
-//     if (err) throw err;
-//     console.log('Replaced!');
-//   });
+  fs.writeFile("./6canto2.txt",sntext, function (err) {
+    if (err) throw err;
+    console.log('Replaced!');
+  });
    
-// });
+});
 
 
 
-// console.log(val);
+console.log(val);
 
 app.get ("/",(req,res)=>{
     res.send("chant and be happy");
