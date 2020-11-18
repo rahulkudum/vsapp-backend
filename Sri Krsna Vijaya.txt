@@ -3,11 +3,12 @@ Gunaraja Khan
 Śrī Kṛṣṇa-vijaya
 
 
-Song 1_Maṅgalācaraṇa
-Invoking Auspiciousness
+Song 1_Invoking Auspiciousness
+
 
 
 Text 1
+Maṅgalācaraṇa
 
 praṇamaha nārāyaṇa anādi nidhan
 sṛṣṭi-sthiti-pralaya jata tāhāra kāraṇ
@@ -57,13 +58,14 @@ kṛṣṇera caritra kichu karila racan
 
 
 
-Song 2_Śrī Kṛṣṇer Rūpa-varṇan
-Description of Lord Kṛṣṇa's Handsome Form
+Song 2_Description of Lord Kṛṣṇa's Handsome Form
+
 
 (vibhāṣā-rāga)
 
 
 Text 1
+Śrī Kṛṣṇer Rūpa-varṇan
 
 kṛṣṇera prasāde gopa baise bṛndābane
 roga śoka bhaya kichui na jāne
@@ -246,13 +248,13 @@ guṇarāja khānna bole govinda-caraṇ
 
 
 
-Song 3_Śrī Vṛndāvaner Saundarya
-The Beauty of Śrī Vṛndāvana
+Song 3_The Beauty of Śrī Vṛndāvana
+
 
 (Koḍā-rāga)
 
 Text 1
-
+Śrī Vṛndāvaner Saundarya
 
 tulasī mālatī yūthī   āmalaka kunda tathi'
 marubaka cāmpā nāgeśwar
@@ -327,13 +329,14 @@ padma-nīlotpala-dale   śāluka kumuda jale
 
 
 
-Song 4_Garbha-stuti
-Prayers by the Demigods to Lord Kṛṣṇa in the Womb
+Song 4_Prayers by the Demigods to Lord Kṛṣṇa in the Womb
+
 
 (Śrī-rāga)
 
 
 Text 1
+Garbha-stuti
 
 tumi deba nirañjana tumi prajāpati
 tumi deba maheśwara tumi sarba-gati
@@ -420,13 +423,14 @@ cali gelā deba-gaṇa jāra jei purī
 
 
 
-Song 5_Kubera-putra-dwayer Śrī Kṛṣṇa-stava
-Kuvera's Two Sons Offer Prayers to Lord Kṛṣṇa
+Song 5_Kuvera's Two Sons Offer Prayers to Lord Kṛṣṇa
+
 
 (Vibhāṣā-rāga)
 
 
 Text 1
+Kubera-putra-dwayer Śrī Kṛṣṇa-stava
 
 tumi deba nārāyaṇa deba maheśwar
 sṛṣṭi sthiti pralayera tumi sarbeśwar
@@ -512,13 +516,15 @@ hāsiyā ta' dayā kari kaila nārāyaṇ
 
 
 
-Song 6_Kāliya-nāger Strī-stava
-Prayers by the Wives of Kāliya-nāga
+Song 6_Prayers by the Wives of Kāliya-nāga
+
+
 
 (Dhānasī-rāga) 
 
 
 Text 1
+Kāliya-nāger Strī-stava
 
 tumi deba nārāyaṇa jagata-adhikārī
 sṛṣṭi-sthiti-pralayera tumi adhikārī
@@ -635,12 +641,13 @@ swāmī-dāna deha more tridaśa-īśwar
 
 
 
-Song 7_Vipra-patnī-gaṇer Śrī Kṛṣṇa-stava
-The Brāhmaṇas' Wives Offer Prayers to Lord Kṛṣṇa
+Song 7_The Brāhmaṇas' Wives Offer Prayers to Lord Kṛṣṇa
+
 
 (Mallāra-rāga)
 
 Text 1
+Vipra-patnī-gaṇer Śrī Kṛṣṇa-stava
 
 ki kariba swāmī putra saba bandhu-jan
 tomāra smaraṇe ghuce sakala bandhan
@@ -758,13 +765,14 @@ janme janme pāi jena tomāra caraṇ
 
 
 
-Song 8_Śrī Kṛṣṇer prati Indrer Staba
-Indra's Prayers to Lord Kṛṣṇa
+Song 8_Indra's Prayers to Lord Kṛṣṇa
+
 
 (Pāhiḍā-rāga)
 
 
 Text 1
+Śrī Kṛṣṇer prati Indrer Staba
 
 tumi deba nārāyaṇa saṁsāra-adhikārī
 āmā hena koṭi indra nimeṣe saṁhāri
@@ -807,13 +815,14 @@ tyaja kopa nārāyaṇa paḍahuṁ caraṇe
 
 
 
-Song 9_Caturbhuja-rūpa-varṇana
-Description of the Lord's Four-armed Form
+Song 9_Description of the Lord's Four-armed Form
+
 
 (Hillola-rāga)
 
 
 Text 1
+Caturbhuja-rūpa-varṇana
 
 sūrya-koṭi-prakāśa bimala śyāma-kānti
 badana-kamala-candra maṇḍala bidhayanti
@@ -941,13 +950,14 @@ sarbāṅga dekhibe mora ananya-hṛday
 
 
 
-Song 10_Brahmār Staba
-Brahmā's Prayers
+Song 10_Brahmā's Prayers
+
 
 (Lalita-rāga)
  
 
 Text 1
+Brahmār Staba
 
 ratha haite uli brahmā praṇāma kari
 kara-puṭe stuti kare dui kara juḍi
@@ -1109,13 +1119,13 @@ kāndite kāndite brahmā baila eta bāṇī
 
 
 
-Song 11_Śrī Vṛndāraṇyer Śrī Yoga-pīṭhe Sa-parikār Śrī Govinder
-Lord Kṛṣṇa and His Associates in the Spiritual World of Vṛndāvana
+Song 11_Lord Kṛṣṇa and His Associates in the Spiritual World of Vṛndāvana
+
 
 (Śrī-rāga)
 
 Text 1
-
+Śrī Vṛndāraṇyer Śrī Yoga-pīṭhe Sa-parikār Śrī Govinder
 śuna śuna ohe nara śuna sābadhāne
 āra dine āra krīḍā kaila nārāyaṇe
 
