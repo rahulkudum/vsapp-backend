@@ -113,7 +113,6 @@ Krsna Krsna Krsna Krsna..................................80
 Kunkumakta Kancanabja..................................80
 Jaya Radha Giri Vara Dhari...............................79
 Jaya Radhe Jaya Krsna Jaya Vrndavana............78
-Namo Namah Tulasi Maharani.........................106
 Songs by Rupa Goswami..................................76
 Bhratur Antakasya Pattane...............................76
 Krsna Deva Bhavantam Vande..........................77
@@ -183,6 +182,7 @@ Madhuram Madhurebhyo ‘Pi............................105
 Mirar Prabhu Eso Giridhari..............................106
 Munindra Vrnda Vandite....
 Namamisvaram Saccidananda Rupam...............70
+Namo Namah Tulasi Maharani.........................106
 Nanda Ke Ananda Bhaiyo................................107
 Nava Nirada Nindita........................................107
 Ore Vrndavaner Nanda Dulal...........................108
@@ -7225,7 +7225,7 @@ Song Name Kṛṣṇa Dvaipāyana Vyāsa
 Song Name: Namamisvaram Saccidananda Rupam
 Official Name: Sri Sri Damodarastakam
 Spoken by: Satyavrata Muni in a conversation with Nārada Muni and Śaunaka Ṛṣi
-Author: Vyasadeva
+Author: Satyavrata Muni
 Book Name: Padma Purana
 (1)
 namāmīśvaraṁ sac-cid-ānanda-rūpaṁ
