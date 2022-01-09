@@ -3,99 +3,97 @@ const express = require("express");
 const app = express();
 const path = require("path");
 var cors = require("cors");
-
 app.use(cors());
 
-let val;
+// //for doing some modifications in the text files
 
-fs.readFile("./vswd.txt", "utf8", function (error, data) {
- let sntext = data.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, " ").replace(/\s{2,}/g, " ");
+// fs.readFile("./vswd.txt", "utf8", function (error, data) {
+//  let sntext = data.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, " ").replace(/\s{2,}/g, " ");
+// let sptext=data.split(/\r\n|\n/);
+// let sntext="";
+// for (let i in sptext){
+// if(sptext[i]!=="" && sptext[i]!==" " & sptext[i][0]!=="[") sntext = sntext.concat("\n"+sptext[i]);
+// if(sptext[i][0]==="[") sntext = sntext.concat("\n"+"[");
+// }
 
- // let sptext=data.split(/\r\n|\n/);
- // let sntext="";
- // for (let i in sptext){
- // if(sptext[i]!=="" && sptext[i]!==" " & sptext[i][0]!=="[") sntext = sntext.concat("\n"+sptext[i]);
- // if(sptext[i][0]==="[") sntext = sntext.concat("\n"+"[");
+//   let sname=0;
+//   let ntext="";
+//   let cout=0;
+//   while(sname!==-1){
+//     pname=data.indexOf("Part",sname+5)
 
- // }
+//   sname=data.indexOf("Song",sname+5);
 
- //   let sname=0;
- //   let ntext="";
- //   let cout=0;
- //   while(sname!==-1){
- //     pname=data.indexOf("Part",sname+5)
+// if(pname<sname){
+//   ptname=data.slice(pname,sname).split(/\r\n|\n/);
+//   ntext=ntext.concat("\n"+'Text'+ptname[0]);
 
- //   sname=data.indexOf("Song",sname+5);
+// }
 
- // if(pname<sname){
- //   ptname=data.slice(pname,sname).split(/\r\n|\n/);
- //   ntext=ntext.concat("\n"+'Text'+ptname[0]);
+//   let tsname=data.indexOf("Text",sname+5);
+//  let ename=data.indexOf("Song",sname+5);
 
- // }
+//  let vtext=data.slice(sname,ename);
+//  ntext = ntext.concat("\n"+data.slice(sname,tsname));
+// let tname=0;
+// let tnum=1;
+// while(tname!==-1){
+//    cout++;
+//     tname=vtext.indexOf("Text",tname+5);
+//     tename=vtext.indexOf("Text",tname+5);
 
- //   let tsname=data.indexOf("Text",sname+5);
- //  let ename=data.indexOf("Song",sname+5);
+//     let dtext=vtext.slice(tname,tename).split(/\r\n|\n/);
 
- //  let vtext=data.slice(sname,ename);
- //  ntext = ntext.concat("\n"+data.slice(sname,tsname));
- // let tname=0;
- // let tnum=1;
- // while(tname!==-1){
- //    cout++;
- //     tname=vtext.indexOf("Text",tname+5);
- //     tename=vtext.indexOf("Text",tname+5);
+//     let left=false;
+//   let right=false;
+// let sl=1;
+// // let dutext="";
+// // for(let i in dumtext){
+// //   if(dumtext[i]!=="" && dumtext[i]!==" "){
+// //     dutext=dutext.concat("\n"+dumtext[i])
+// //   }
+// // }
 
- //     let dtext=vtext.slice(tname,tename).split(/\r\n|\n/);
+// // let dtext=dutext.split(/\r\n|\n/);
+// // console.log(dtext);
 
- //     let left=false;
- //   let right=false;
- // let sl=1;
- // // let dutext="";
- // // for(let i in dumtext){
- // //   if(dumtext[i]!=="" && dumtext[i]!==" "){
- // //     dutext=dutext.concat("\n"+dumtext[i])
- // //   }
- // // }
+// // for(let i in dtext){
+// //   if(dtext[i].indexOf(";")!==-1){
+// //     console.log(i);
+// //     sl=((i-2)/2)+2;
+// //     break;
+// //   }
+// // }
 
- // // let dtext=dutext.split(/\r\n|\n/);
- // // console.log(dtext);
+// // if(tname!==-1){
+// //   ntext=ntext.concat("\n"+"Text")
+// // }
 
- // // for(let i in dtext){
- // //   if(dtext[i].indexOf(";")!==-1){
- // //     console.log(i);
- // //     sl=((i-2)/2)+2;
- // //     break;
- // //   }
- // // }
+// if(tname!==-1) ntext=ntext.concat("\n"+'Text'+tnum);
+//   for(let i=sl;i<dtext.length;i++){
 
- // // if(tname!==-1){
- // //   ntext=ntext.concat("\n"+"Text")
- // // }
+//       if(left){
+//           if(dtext[i]!=="" && dtext[i]!==" ") right=true;
+//       }
 
- // if(tname!==-1) ntext=ntext.concat("\n"+'Text'+tnum);
- //   for(let i=sl;i<dtext.length;i++){
+//       if(dtext[i].indexOf(";")!==-1) left=true;
+//       if(dtext[i]!=="" && dtext[i]!==" " ) ntext=ntext.concat("\n"+dtext[i]);
+//       if(left && right) break;
+//     }
 
- //       if(left){
- //           if(dtext[i]!=="" && dtext[i]!==" ") right=true;
- //       }
+//    tnum++;
 
- //       if(dtext[i].indexOf(";")!==-1) left=true;
- //       if(dtext[i]!=="" && dtext[i]!==" " ) ntext=ntext.concat("\n"+dtext[i]);
- //       if(left && right) break;
- //     }
+// }
 
- //    tnum++;
+//   }
 
- // }
+//  fs.writeFile("./dummy.txt", sntext, function (err) {
+//   if (err) throw err;
+//   console.log("Replaced!");
+//  });
+// });
 
- //   }
-
- fs.writeFile("./6canto2.txt", sntext, function (err) {
-  if (err) throw err;
-  console.log("Replaced!");
- });
-});
-
+//routes
 app.get("/", (req, res) => {
  res.send("chant and be happy");
 });
@@ -103,18 +101,13 @@ app.get("/", (req, res) => {
 app.get("/files/:id", function (req, res) {
  const filePath = path.join(__dirname, "./" + req.params.id + ".txt");
  let val2 = "";
-
  fs.readFile(filePath, "utf8", function (error, data) {
-  // console.log(data);
   val2 = data;
   res.send(val2);
  });
-
- //console.log(fet);
 });
-//console.log(val);
-const port = 5000;
 
+const port = 5000;
 app.listen(process.env.PORT || port, () => {
  console.log("started server");
 });
