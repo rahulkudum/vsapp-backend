@@ -76,7 +76,7 @@ vasanaṁ madhuraṁ valitaṁ madhuraṁ
 calitaṁ madhuraṁ bhramitaṁ madhuraṁ
 madhurādhi-pater akhilaṁ madhuraṁ
 
-vacanam—speech; madhuram—sweet; caritam—character; madhuram—sweet; vasanam—clothing; madhuram—sweet; valitam—belly-folds; madhuram—sweet; calitam—wandering; madhuram—sweet; bhramitam—wandering; madhuram—sweet; madhura-adhi-pateḥ—of the Emperor of sweetness; akhilam—all; madhuram—sweet.
+vacanam—speech; madhuram—sweet; caritam—character; madhuram—sweet; vasanam—clothing; madhuram—sweet; valitam—belly folds; madhuram—sweet; calitam—wandering; madhuram—sweet; bhramitam—wandering; madhuram—sweet; madhura-adhi-pateḥ—of the Emperor of sweetness; akhilam—all; madhuram—sweet.
 
  His words are sweet, His character is sweet  His dress is sweet, His belly-folds are sweet  His movements are sweet, His wandering is sweet—Everything is sweet about the Emperor of Sweetness!
 Text 3
@@ -226,7 +226,7 @@ keli-narma-śarma-dāyi-mitra-vṛnda-veṣṭitaḥ
 svīya-keli-kānanāṁśu-nirjitendra-nandanaḥ
 svāṅghri-dāsyado 'stu me sa ballavendra-nandanaḥ
 
-nitya—eternal; navya—youthful; rūpa—beautiful form; veśa—mode of dress; hārda—love; keli—pastimes; ceṣṭitaḥ—He who endeavors; keli—amorous pastimes; narma—joking words; śarma—pleasure; dāyi—giving; mitra-vṛnda—the assembly of boyfriends; veṣṭitaḥ—He who is surrounded; svīya—His own; keli-kānana—pastime-forest; aṁśu—rays; nirjita—defeated; indra-nandanaḥ—the heavenly Nandana gardens of Lord Indra.
+nitya—eternal; navya—youthful; rūpa—beautiful form; veśa—mode of dress; hārda—love; keli—pastimes; ceṣṭitaḥ—He who endeavors; keli—amorous pastimes; narma—joking words; śarma—pleasure; dāyi—giving; mitra-vṛnda—the assembly of boyfriends; veṣṭitaḥ—He who is surrounded; svīya—His own; keli-kānana—pastime forest; aṁśu—rays; nirjita—defeated; indra-nandanaḥ—the heavenly Nandana gardens of Lord Indra.
 
  He is eternally engaged in designing ever-fresh variations of His youthful form, mode of dress, and loving pastimes. He is surrounded by the assembly of His cowherd boyfriends, who excel in giving Him delight by their playful joking words. Even a single brilliant ray of splendor from His personal pleasure-forest defeats the heavenly Nandana gardens of Lord Indra. May Śrī Kṛṣṇa, the Son of the king of cowherd men, grant me the service of His own lotus feet.
 Text 4
@@ -413,7 +413,7 @@ Text 1
 boro sukher khabor gāi
 surabhi-kuñjete nāmer hāṭ khule'che / khoda nitāi
 
-boro—great; sukher khabor—news of happiness; gāi—I sing; surabhi-kuñjete—in the grove of Navadvīpa named Surabhi-kuñja; nāmer hāṭ—the Marketplace of the Holy Names; khule āche—is opened up; khoda nitāi—Lord Nityānanda is Himself the Owner and Manager.
+boro—great; sukher khabor—news of happiness; gāi—I sing; surabhi-kuñjete—in the grove of Navadvīpa named Surabhi kuñja; nāmer hāṭ—the Marketplace of the Holy Names; khule āche—is opened up; khoda nitāi—Lord Nityānanda is Himself the Owner and Manager.
 
  I am singing news of the greatest happiness! At the place known as Surabhi Kuñja in Śrī Navadvīpa, the Marketplace of the Holy Name has now been opened-and Lord Nityānanda Himself is the Proprietor.
 Text 2
@@ -427,9 +427,9 @@ Text 3
 jata bhakta-bṛnda basi'
 adhikārī dekhe' nāma becche daro kasi'
 
-jata—all; bhakta-bṛnda—the assembly of devotees; basi'—waiting; adhikārī—those having the right to possess; dekhe'—He looks and examines; nām becche—sells the Holy Name; daro—the price; kasi'—enforcing His 'fixed-price.'
+jata—all; bhakta-bṛnda—the assembly of devotees; basi'—waiting; adhikārī—those having the right to possess; dekhe'—He looks and examines; nām becche—sells the Holy Name; daro—the price; kasi'—enforcing His 'fixed price.'
 
- Seeing the assembly of devotees eagerly waiting to purchase the Name, Lord Nityānanda first examines each of them to test their qualification; then He sells them the Name by bargaining for His price accordingly.
+ Seeing the assembly of devotees eagerly waiting to purchase the Name, Lord Nityānanda first examines each of them to test their qualification, then He sells them the Name by bargaining for His price accordingly.
 Text 4
 jadi nāma kinbe, bhāi
 āmār saṅge calo, mahājaner kāche jāi
@@ -457,7 +457,7 @@ ek-bār dekhle cakṣe jal
 
 ek-bār—just once; dekhle—upon seeing; cakṣe—in the eyes; jal—water (tears); 'gaura' bole'—while chanting the name of 'Gaura'; nitāi den—Lord Nityānanda gives; sakala—all; sambal—support and supply of spiritual riches.
 
- When Nitāi sees a tear welling in someone's eye upon chanting the name of "Gaura!" He instantly gives His support to that person; indeed, He bestows all divine opulences.
+ When Nitāi sees a tear welling in someone's eye upon chanting the name of "Gaura!" He instantly gives His support to that person, indeed, He bestows all divine opulences.
 Text 8
 den śuddha kṛṣṇa-śikṣā
 jāti, dhana, vidyā, bala nā kore apekṣā
@@ -471,7 +471,7 @@ gṛhe thāko, bane thāko, nā thāke jañjāl
 
 amani—spontaneously; chāḍe—rejecting; māyā-jāl—the network of māyā's traps; gṛhe thāko—just remain at home as a householder; bane thāko—or just remain in the forest as a renunciate; nā thāke—does not exist; jañjāl—troubles.
 
- Now, dear friends, please reject all of māyā's entangling snares. If you are a householder, then just remain at your home; if you are renounced, then just live in the forest. Either way, nothing more will trouble you.
+ Now, dear friends, please reject all of māyā's entangling snares. If you are a householder, then just remain at your home, if you are renounced, then just live in the forest. Either way, nothing more will trouble you.
 Text 10
 ār nāiko kalir bhoy
 ācaṇḍāle den nāma nitāi doyāmoy
@@ -485,7 +485,7 @@ nitāi-caraṇa binā ār nāhi āśroy
 
 bhaktivinoda—the author, Śrīla Bhaktivinoda Ṭhākura; ḍāki'—loudly calling out; koy—says; nitāi-caraṇ—the feet of Lord Nityananda; binā—except for; ār nāhi—there is no other; āśroy—safe shelter.
 
-1 Bhaktivinoda loudly calls out and proclaims to all, "OTHER THAN THE LOTUS FEET OF LORD NITYĀNANDA, THERE IS NO SHELTER!"
+Bhaktivinoda loudly calls out and proclaims to all, "OTHER THAN THE LOTUS FEET OF LORD NITYĀNANDA, THERE IS NO SHELTER!"
 Song 8: Caraṇa Kamal
 "Lotus Feet"
 8. Caraṇa Kamal
@@ -723,21 +723,21 @@ mahotsava koribe āmār deho lo'ye
 
 kukkur—dogs; sṛgāl—and jackals; sab—all; ānandita ho'ye—becoming ecstatic; mahotsava—great festival; koribe—will be; āmār deho—my body; lo'ye—taking.
 
-1 All the stray dogs and jackals will become very much delighted, and in great ecstasy they will make a festival ground out of my body and have a huge feast.
+All the stray dogs and jackals will become very much delighted, and in great ecstasy they will make a festival ground out of my body and have a huge feast.
 Text 12
 je deher ei gati, tā'r anugata
 saṁsār-vaibhava ār bandhu-jana jata
 
 je deher—of which body; ei gati—this end; tā'r anugata—its followers; saṁsār-vaibhava—opulence of the material world; ār—and; bandhu-jana—friends; jata—all.
 
-1 Just see, such is the ultimate destination of this material body. And the most amazing thing is that all material opulences-my house, family and friends-have exactly the same destination.
+Just see, such is the ultimate destination of this material body. And the most amazing thing is that all material opulences-my house, family and friends-have exactly the same destination.
 Text 13
 ataeva māyā-moha chāḍi' buddhimān
 nitya-tattva kṛṣṇa-bhakti koruna sandhān
 
 ataeva—therefore; māyā-moha—the bewilderment of illusion; chāḍi'—rejecting; buddhimān—a wise person; nitya-tattva—eternal truth; kṛṣṇa-bhakti—devotion to Kṛṣṇa; koruna sandhān—please seek.
 
-1 Therefore I advise those of you who have keen intelligence: "Please give up all these temporary illusions presented by Māyā, and search after the means to get pure devotion to Lord Kṛṣṇa, for this is the only eternal truth."
+Therefore I advise those of you who have keen intelligence: "Please give up all these temporary illusions presented by Māyā, and search after the means to get pure devotion to Lord Kṛṣṇa, for this is the only eternal truth."
 Song 13: Duṣṭa Mana
 Vaiṣṇava Ke?-"Who is a Real Vaiṣṇava?"
 13. Duṣṭa Mana
@@ -793,9 +793,9 @@ tāhā kabhu noy 'jaḍer kaitava'
 pratiṣṭhā-caṇḍālī,  nirjanatā-jāli,
 ubhaye jāniho māyika raurava
 
-se—that; hari-sambandha—relationship with Lord Hari; śūnya—free from; māyā-gandha—a scent of illusion; tāhā—that; kabhu noy—never; jaḍer—of materialism; kaitava—cheating; pratiṣṭhā—worldly reputation; caṇḍālī—female dog-eater; nirjanatā—solitary living; jāli—the net; ubhaye—in both; jāniho—you should know; māyika—illusory; raurava—hell.
+se—that; hari-sambandha—relationship with Lord Hari; śūnya—free from; māyā-gandha—a scent of illusion; tāhā—that; kabhu noy—never; jaḍer—of materialism; kaitava—cheating; pratiṣṭhā—worldly reputation; caṇḍālī—female dog eater; nirjanatā—solitary living; jāli—the net; ubhaye—in both; jāniho—you should know; māyika—illusory; raurava—hell.
 
- The relationship between a devotee and Lord Hari is devoid of even a trace of worldly illusion; it has nothing to do with the materialistic cheating propensity. The prestige of so-called popularity in the material realm is compared to a treacherous dog-eating witch, and the attempt to live in solitude to supposedly engage in unalloyed bhajan is compared to an entangling network of distraction. Please know that anyone striving in either of these ways verily lives in the hell of Māyā's illusion.
+ The relationship between a devotee and Lord Hari is devoid of even a trace of worldly illusion, it has nothing to do with the materialistic cheating propensity. The prestige of so-called popularity in the material realm is compared to a treacherous dog-eating witch, and the attempt to live in solitude to supposedly engage in unalloyed bhajan is compared to an entangling network of distraction. Please know that anyone striving in either of these ways verily lives in the hell of Māyā's illusion.
 Text 7
 kīrtana chāḍibo,  pratiṣṭhā mākhibo,
 ki kāja ḍhuḍiyā tādṛśa gaurava
@@ -831,7 +831,7 @@ kabhu nā bhāviho, ekākār saba
 
 sei—these; du'ṭi—two; kathā—topics; bhulo' nā—don't forget; sarvathā—in all circumstances; uccaiḥ-svare—in a loud voice; koro—perform; hari-nāma-rava—the sound of chanting the Lord's holy names; phalgu—false; ār—and; yukta—befitting (linked with Kṛṣṇa); baddha—bound in māyā; ār—and; mukta—liberated; kabhu nā—never; bhāviho—consider; ekākār—one in the same form; saba—all these.
 
- Do not forget for a moment the two most valuable concepts that He taught:  the principle of dry, apparent renunciation as opposed to real, appropriate renunciation; and  the principle of a soul being trapped in the bondage of matter as opposed to a soul who is liberated. Don't ever make the mistake of thinking that these conflicting concepts are on the same level. Please remember this while engaging yourself in chanting the Lord's holy names as loud as you possibly can.
+ Do not forget for a moment the two most valuable concepts that He taught:  the principle of dry, apparent renunciation as opposed to real, appropriate renunciation, and  the principle of a soul being trapped in the bondage of matter as opposed to a soul who is liberated. Don't ever make the mistake of thinking that these conflicting concepts are on the same level. Please remember this while engaging yourself in chanting the Lord's holy names as loud as you possibly can.
 Text 11
 'kanaka-kāminī,'  'pratiṣṭhā-bāghinī,'
 chāḍiyāche jāre, sei to' vaiṣṇava
@@ -840,7 +840,7 @@ saṁsār tathā pāy parābhava
 
 kanaka-kāminī—enjoyment of wealth and women; pratiṣṭhā-bāghinī—the tigress of worldly reputation; chāḍiyāche—has given up; jāre—who; sei—he; to'—certainly; vaiṣṇava—a devotee; sei—he; anāsakta—unattached; sei—he alone; śuddha-bhakta—is a pure devotee; saṁsār—the material world; tathā—in this manner; pāy—gets; parābhava—defeated.
 
-1 One is truly a Vaiṣṇava who has given up the habit of falling victim to the ferocious tigress of wealth, beauty, and fame. Such a soul is factually detached from material life, and is known as a pure devotee. Someone with this consciousness of detachment has thereby become victorious over the mundane world of birth and death.
+One is truly a Vaiṣṇava who has given up the habit of falling victim to the ferocious tigress of wealth, beauty, and fame. Such a soul is factually detached from material life, and is known as a pure devotee. Someone with this consciousness of detachment has thereby become victorious over the mundane world of birth and death.
 Text 12
 yathā-yogya bhoga,  nāhi tathā roga,
 'anāsakta' sei, ki ār kahabo
@@ -849,7 +849,7 @@ viṣaya-samūha sakali 'mādhava'
 
 yathā-yogya—whatever is appropriate for survival; bhoga—enjoyment; nāhi—is not; tathā—in that way; roga—the disease (of materialism); anāsakta—detached; sei—he; ki ār—what more; kahabo—shall I say; āsakti-rohita—devoid of attachment; sambandha-sahita—endowed with a relationship; viṣaya-samūha—the multitude of sense objects; sakali—all; mādhava—Lord Mādhava.
 
-1 One is indeed detached who moderately partakes of worldly things that are deemed necessary for living in devotional service; a devotee acting in that manner does not fall prey to the disease of material infatuation. Thus devoid of selfish attachment, and endowed with the ability to see things in relation to the Lord, all sense objects are then directly perceived as being Lord Mādhava Himself.
+One is indeed detached who moderately partakes of worldly things that are deemed necessary for living in devotional service, a devotee acting in that manner does not fall prey to the disease of material infatuation. Thus devoid of selfish attachment, and endowed with the ability to see things in relation to the Lord, all sense objects are then directly perceived as being Lord Mādhava Himself.
 Text 13
 se 'yukta-vairāgya,'  tāhā to' saubhāgya,
 tāhā-i jaḍete harir vaibhava
@@ -858,7 +858,7 @@ tāhār sampatti kevala 'kaitava'
 
 se—this; yukta-vairāgya—renunciation that is connected with Kṛṣṇa's enjoyment; tāhā—that; to'—indeed; saubhāgya—great fortune; tāhā-i—only that; jaḍete—in the material world; harir—of Lord Hari; vaibhava—the opulence; kīrtane—in chanting the Lord's names; jāhār—whose; pratiṣṭhā-sambhār—heaps of ambition for recognition; tāhār—its; sampatti—opulence; kevala—only; kaitava—cheating.
 
-1 This is the standard of befitting renunciation, and one who realizes this is most fortunate indeed. Everything involved in such a devotee's life represents Lord Hari's personal spiritual opulence as manifest in the world of matter. On the other hand, one who engages in chanting the Lord's name with hopes of enhancing his own material reputation finds that all his activities and paraphernalia represent only the riches of hypocrisy.
+This is the standard of befitting renunciation, and one who realizes this is most fortunate indeed. Everything involved in such a devotee's life represents Lord Hari's personal spiritual opulence as manifest in the world of matter. On the other hand, one who engages in chanting the Lord's name with hopes of enhancing his own material reputation finds that all his activities and paraphernalia represent only the riches of hypocrisy.
 Text 14
 'viṣaya-mumukṣu,'  'bhoger bubhukṣu,'
 du'ye tyajo mana, dui 'avaiṣṇava'
@@ -867,7 +867,7 @@ kabhu nāhe tāhā jaḍer sambhava
 
 viṣaya-mumukṣu—one who desires liberation from the material world; bhoger bubhukṣu—one who desires to enjoy sense gratification; du'ye—both; tyajo—please reject; mana—O mind!; dui—the two; avaiṣṇava—non-devotees; kṛṣṇer—with Kṛṣṇa; sambandha—relationship; aprākṛta-skandha—things belonging to the transcendental realm; kabhu nāhe—never; tāhā—that; jaḍer sambhava—of material origin.
 
-1 O mind, please reject the company of two types of persons—those desiring impersonal liberation from the material world, and those who desire to enjoy the pleasure of material sense objects. Both of these are equally non-devotees. The things that are used in relation to Lord Kṛṣṇa are objects belonging directly to the transcendental realm, and thus having nothing to do with matter they cannot be either owned or forsaken by persons interested in mundane enjoyment or renunciation.
+O mind, please reject the company of two types of persons—those desiring impersonal liberation from the material world, and those who desire to enjoy the pleasure of material sense objects. Both of these are equally non-devotees. The things that are used in relation to Lord Kṛṣṇa are objects belonging directly to the transcendental realm, and thus having nothing to do with matter they cannot be either owned or forsaken by persons interested in mundane enjoyment or renunciation.
 Text 15
 'māyāvādī jana,'  kṛṣṇetara mana,
 mukta abhimāne se ninde vaiṣṇava
@@ -876,7 +876,7 @@ keno vā ḍākicho nirjana-āhava
 
 māyāvādī jana—the impersonalist; kṛṣṇetara—opposed to Kṛṣṇa; mana—mentality; mukta abhimāne—proudly considering himself liberated; se—he; ninde—blasphemes; vaiṣṇava—the devotees; vaiṣṇaver dās—servant of the devotees; tava—your; bhakti-āś—devotional desire; keno vā—why then; ḍākicho—you call out; nirjana-āhava—fighting for solitude.
 
-1 An impersonal philospher is opposed to thinking of Kṛṣṇa as an object of devotion, and thus being puffed up with the false pride of imaginary liberation he dares to criticize the true devotees of the Lord. O mind, you are the servant of the Vaiṣṇavas, and you should always hope for attaining devotion. Why then do you make such a loud commotion by calling to me and trying to prove the supposed supremacy of your practice of solitary worship?
+An impersonal philospher is opposed to thinking of Kṛṣṇa as an object of devotion, and thus being puffed up with the false pride of imaginary liberation he dares to criticize the true devotees of the Lord. O mind, you are the servant of the Vaiṣṇavas, and you should always hope for attaining devotion. Why then do you make such a loud commotion by calling to me and trying to prove the supposed supremacy of your practice of solitary worship?
 Text 16
 je 'phalgu-vairāgī,'  kohe nije 'tyāgī,'
 se nā pāre kabhu hoite 'vaiṣṇava'
@@ -885,7 +885,7 @@ labhiyā ki phala, 'phalgu' se vaibhava
 
 je—who; phalgu-vairāgī—false renunciant; kohe nije—calls himself; tyāgī—an accomplished renunciant; se—he; nā pāre—is not able; kabhu hoite—to ever be; vaiṣṇava—a devotee; hari-pada—the lotus feet of the Lord; chāḍi'—rejecting; nirjanatā bāḍi—residence in solitude; labhiyā—obtaining; ki phala—what result?; phalgu—false; se vaibhava—that opulence.
 
-1 One who falsely gives up things that could actually be used in the Lord's service proudly calls himself a 'renunciate,' but unfortunately he can never become a Vaiṣṇava by such an attitude. Abandoning his servitorship to the lotus feet of Lord Hari, and resigning himself to his solitary home-whatever is gained by that exercise can only be the worthless treasure of deception.
+One who falsely gives up things that could actually be used in the Lord's service proudly calls himself a 'renunciate,' but unfortunately he can never become a Vaiṣṇava by such an attitude. Abandoning his servitorship to the lotus feet of Lord Hari, and resigning himself to his solitary home-whatever is gained by that exercise can only be the worthless treasure of deception.
 Text 17
 rādhā-dāsye rohi',  chāḍi 'bhoga-ahi,'
 'pratiṣṭhāśā' nahe 'kīrtana-gaurava'
@@ -894,7 +894,7 @@ keno vā nirjana-bhajana-kaitava
 
 rādhā-dāsye—in service to Śrī Rādhā; rohi'—remaining; chāḍi—giving up; bhoga-ahi—the snake of selfish enjoyment; pratiṣṭhā-āśā—ambition for recognition; nahe—is not; kīrtana-gaurava—the glory of congregational chanting; rādhā-nitya-jana—being the eternal servant of Rādhā; tāhā chāḍi'—rejecting that; mana—O mind!; keno vā—why then; nirjana-bhajana—solitary worship; kaitava—cheating.
 
-1 Ever engage yourself in the service of Śrī Rādhā, and keep aloof from the vicious snake of materialistic sense gratification. The glory of participating in the Lord's kīrtan is not meant to bolster anyone's ambitions for personal recognition. O mind, why then have you abandoned the identity of being Rādhā's eternal servant in favor of retiring to a solitary place to practice the cheating process of so-called bhajan?
+Ever engage yourself in the service of Śrī Rādhā, and keep aloof from the vicious snake of materialistic sense gratification. The glory of participating in the Lord's kīrtan is not meant to bolster anyone's ambitions for personal recognition. O mind, why then have you abandoned the identity of being Rādhā's eternal servant in favor of retiring to a solitary place to practice the cheating process of so-called bhajan?
 Text 18
 vraja-vāsī-gaṇa,  pracāraka-dhana,
 pratiṣṭhā-bhikṣuka tā'rā nahe 'śava'
@@ -903,7 +903,7 @@ pratiṣṭhāśā-hīna-'kṛṣṇa-gāthā' saba
 
 vraja-vāsī-gaṇa—the residents of Vraja; pracāraka—preachers; dhana—the treasure; pratiṣṭhā-bhikṣuka—beggars for worldly fame; tā'rā—they; nahe—are not; śava—a dead body; prāṇa āche—there is life; tā'r—theirs; se-hetu—for that reason; pracār—preaching; pratiṣṭhā-āśā-hīna—devoid of ambition for fame; kṛṣṇa-gāthā—songs about Kṛṣṇa; saba—all.
 
-1 The most valuable treasures amongst the Lord's preachers are the eternal personalities residing in Vraja-dhām. They never occupy themselves with begging for worthless material reputation, which is cherished only by the living dead. The Vraja-vāsīs are truly infused with life, and therefore they preach in order to give life to the walking corpses of the mundane world. All the songs that the Vraja-vāsīs sing about the glories of Lord Kṛṣṇa are devoid of any tinge of desire for fame.
+The most valuable treasures amongst the Lord's preachers are the eternal personalities residing in Vraja-dhām. They never occupy themselves with begging for worthless material reputation, which is cherished only by the living dead. The Vraja-vāsīs are truly infused with life, and therefore they preach in order to give life to the walking corpses of the mundane world. All the songs that the Vraja-vāsīs sing about the glories of Lord Kṛṣṇa are devoid of any tinge of desire for fame.
 Text 19
 śrī-dayita-dās,  kīrtanete āś,
 koro uccaiḥ-svare 'hari-nāma-rava'
@@ -912,7 +912,7 @@ se kāle bhajana-nirjana sambhava
 
 śrī-dayita-dās—the servant of Rādhā's beloved Kṛṣṇa (Bhaktisiddhānta Sarasvatī); kīrtanete—for congregational chanting; āś—desirous; koro—please perform; uccaiḥ-svare—in a loud voice; hari-nāma-rava—the sound of the Lord's holy names; kīrtana-prabhāve—by the power of the chanting; smaraṇa—remembering the Lord's pastimes; svabhāve—in one's own original spiritual mood; se kāle—at that time; bhajana-nirjana—worship in solitude; sambhava—possible.
 
-1 This humble servant of Rādhā and Her beloved Kṛṣṇa always hopes for kīrtan, and he begs all to loudly sing the names of Lord Hari. The transcendental power of congregational chanting automatically awakens remembrance of the Lord and His divine pastimes in relation to one's own eternal spiritual form. Only at that time does it become possible to go off to a solitary place and engage in the confidential worship of Their Lordships.ii*
+This humble servant of Rādhā and Her beloved Kṛṣṇa always hopes for kīrtan, and he begs all to loudly sing the names of Lord Hari. The transcendental power of congregational chanting automatically awakens remembrance of the Lord and His divine pastimes in relation to one's own eternal spiritual form. Only at that time does it become possible to go off to a solitary place and engage in the confidential worship of Their Lordships.ii*
 Song 14: Gaurāṅga Karuṇā Koro
 "Be Merciful Lord Gaurāṅga"
 14. Gaurāṅga Karuṇā Koro
@@ -1190,7 +1190,7 @@ sei to' eseche
 e-bār govinda gaurāṅga ho'ye sei to' eseche
 govinda gaurāṅga ho'ye sei to' eseche
 
-vāsudeva ghoṣa bole—the author says; kori joḍa hāt—with folded hands; jei gaura—He who is Gaura; sei kṛṣṇa—is He who is Kṛṣṇa; sei jagannāth—is He who is Lord Jagannātha. sei—He; to'—indeed; eseche—has come; oi—Oh!; braja ho'te—from Vraja; nadīyāre—to Nadīyā; rādhā-bhāva-kānti—the mood and luster of Rādhā; loye—accepting; e-bār—now; govinda—Lord Govinda; gaurāṅga ho'ye—becoming Lord Gaurāṅga; sei—He; to'—indeed; eseche—has come.
+vāsudeva ghoṣa bole—the author says; kori joḍa hāt—with folded hands; jei gaura—He who is Gaura; sei kṛṣṇa—is He who is Kṛṣṇa; sei jagannāth—is He who is Lord Jagannātha; sei—He; to'—indeed; eseche—has come; oi—Oh!; braja ho'te—from Vraja; nadīyāre—to Nadīyā; rādhā-bhāva-kānti—the mood and luster of Rādhā; loye—accepting; e-bār—now; govinda—Lord Govinda; gaurāṅga ho'ye—becoming Lord Gaurāṅga; sei—He; to'—indeed; eseche—has come.
 
  Vāsudeva Ghosh says with folded hands, "He who is Gaura is He who is Kṛṣṇa is He who is Jagannātha."
 (It is He who has come. He has come! Oh, from Vraja He has come to Nadīyā. Accepting the mood and luster of Śrī Rādhā, He has come from Vraja to Nadīyā. He has come! Now Lord Govinda, the cowherd boy, has come as Lord Gaurāṅga. He has come!)
@@ -1274,7 +1274,7 @@ jaya rādhā giri-vara dhāri
 śrī nanda-nandana vṛṣabhānu-dulāri
 (vṛṣabhānu dulāri rādhe vṛṣabhānu-dulāri)
 
-jaya—glory; rādhā—to Rādhā; giri-vara dhāri—and to the lifter of the best mountain; śrī nanda-nandana—named Śrī Nanda-Nandana; vṛṣabhānu dulāri—and the dear daughter of King Vṛṣabhānu.
+jaya—glory; rādhā—to Rādhā; giri-vara dhāri—and to the lifter of the best mountain; śrī nanda-nandana—named Śrī Nanda Nandana; vṛṣabhānu dulāri—and the dear daughter of King Vṛṣabhānu.
 
  All glories to Rādhā and Girivara-Dhāri! He is Śrī Nanda-Nandan, and She is Vṛṣabhānu-Dulāri.
 Text 2
@@ -1366,7 +1366,7 @@ Text 11
 rādhā-nāmini guṇa-abhirāmini hari-priya-svāminī śrī-rādhe
 hare-hare-hari hare-hare-hari hare-hare-hari śrī-kṛṣṇa
 
-1 O Śrī Rādhe! You are: Rādhā-nāmini-celebrated with the most blessed name of "Rādhā"; Guṇa-abhirāmini-You please everyone with your good qualities; Haripriya-svāmini-You are the only worshipable Queen for Haripriya [the author, Hari Vyāsadeva]. Hare Hare Hari, Hare Hare Hari, Hare Hare Hari, Śrī Kṛṣṇaiii*
+O Śrī Rādhe! You are: Rādhā-nāmini-celebrated with the most blessed name of "Rādhā"; Guṇa-abhirāmini-You please everyone with your good qualities; Haripriya-svāmini-You are the only worshipable Queen for Haripriya [the author, Hari Vyāsadeva]. Hare Hare Hari, Hare Hare Hari, Hare Hare Hari, Śrī Kṛṣṇaiii*
 Song 23: Kabe Śrī Caitanya More Koribena Doyā
 "When Will Lord Caitanya Be Merciful to Me?"
 23. Kabe Śrī Caitanya More Koribena Doyā
@@ -1412,7 +1412,7 @@ Text 6
 vaiṣṇaver āvedane kṛṣṇa doyāmoy
 e heno pāmara prati ha'bena sadoy
 
-vaiṣṇaver āvedane—by the prayer of the Vaiṣṇavas; kṛṣṇa—Lord Kṛṣṇa; doyāmoy—the all-merciful one; e heno—such as; pāmara—a sinner; prati—toward; ha'bena sadoy—will become compassionate.
+vaiṣṇaver āvedane—by the prayer of the Vaiṣṇavas; kṛṣṇa—Lord Kṛṣṇa; doyāmoy—the all merciful one; e heno—such as; pāmara—a sinner; prati—toward; ha'bena sadoy—will become compassionate.
 
  By the prayer of the Vaiṣṇava, the all-merciful Lord Kṛṣṇa will then become compassionate toward such a sinner as me.
 Text 7
@@ -1577,12 +1577,12 @@ keno hare kṛṣṇa nām hari bole mano prāṇ kāṅde nā
 
 pakhi—a bird; sakal nām—all names; bolte paro—is able to speak; keno—why?; hare kṛṣṇa nām—the names of Hare Kṛṣṇa; bolo na—does not chant.
 
- A bird is easily able to speak all names; why then does this bird of my heart refuse to chant Hare Kṛṣṇa? Oh, why does my heart not weep from chanting the holy names Hare Kṛṣṇa?
+ A bird is easily able to speak all names, why then does this bird of my heart refuse to chant Hare Kṛṣṇa? Oh, why does my heart not weep from chanting the holy names Hare Kṛṣṇa?
 Text 4
 chalo pakhi rūper deśe jāi
 je deśete maner mānuś āsā jāoyā nāi
 
-chalo—please go; pakhi—O bird!; rūper deśe—to the land of true beauty; jāi—I go; je deśete—at which place; maner mānuś—the mentally-imagined man; āsā jāoyā—comes and goes (as in repeated birth and death); nāi—not.
+chalo—please go; pakhi—O bird!; rūper deśe—to the land of true beauty; jāi—I go; je deśete—at which place; maner mānuś—the mentally imagined man; āsā jāoyā—comes and goes (as in repeated birth and death); nāi—not.
 
  O bird! Come, let us go to the spiritual world, the land of true and everlasting beauty. It is the place where the imaginary man of my mind will never again come and go on the revolving cycle of birth and death.
 Text 5
@@ -1610,7 +1610,7 @@ From Stava-Mālā by
 (refrain) kṛṣṇa deva bhavantaṁ vande
 man-mānasa-madhukaram arpaya nija-pada-paṅkaja-makarande
 
-kṛṣṇa—O Kṛṣṇa!; deva—O Lord!; bhavantam—to You; vande—I praise; mat—my; mānasa-madhukaram—bee-like mind; arpaya—please offer; nija—Your own; pada-paṅkaja—of Your lotus feet; makarande—in the nectar.
+kṛṣṇa—O Kṛṣṇa!; deva—O Lord!; bhavantam—to You; vande—I praise; mat—my; mānasa-madhukaram—bee like mind; arpaya—please offer; nija—Your own; pada-paṅkaja—of Your lotus feet; makarande—in the nectar.
 
 (refrain) O Lord Kṛṣṇa! I offer my obeisances unto You. Please fix my bee-like mind in the nectar of Your lotus feet.
 Text 1
@@ -1718,7 +1718,7 @@ rādhā-prāṇa-mayo hariḥ
 jīvane nidhane nityaṁ
 rādhā-kṛṣṇau gatir mama
 
-kṛṣṇa-prāṇa-mayī—pervades the life-force of Kṛṣṇa; rādhā—Rādhā; rādhā-prāṇa-mayaḥ—pervades the life-force of Rādhā; hariḥ—Hari; jīvane nidhane—in life or in death; nityam—perpetually; rādhā-kṛṣṇau—the pair; gatiḥ mama—my shelter.
+kṛṣṇa-prāṇa-mayī—pervades the life force of Kṛṣṇa; rādhā—Rādhā; rādhā-prāṇa-mayaḥ—pervades the life force of Rādhā; hariḥ—Hari; jīvane nidhane—in life or in death; nityam—perpetually; rādhā-kṛṣṇau—the pair; gatiḥ mama—my shelter.
 
  Rādhā pervades the life-force of Kṛṣṇa and Hari pervades the life-force of Rādhā-In life or in death, Rādhā and Kṛṣṇa are my eternal shelter.
 Text 4
@@ -1791,7 +1791,7 @@ kṛṣṇa-matta-bhṛṅga-keli-phulla-puṣpa-vāṭikā
 kṛṣṇa-nitya-saṅgamārtha-padma-bandhu-rādhikā
 mahyam ātma-pāda-padma-dāsya-dāstu rādhikā
 
-kauravinda—of coral; kānti—the splendor; nindi—chastising; citra—amazing and colorful; paṭṭa-śāṭikā—She who wears silken garments; kṛṣṇa—Kṛṣṇa; matta—maddened; bhṛṅga—bumblebee; keli—amorous pastimes; phulla—blossomed; puṣpa—flower; vāṭikā—She who is a garden; kṛṣṇa—with Kṛṣṇa; nitya—daily; saṅgama—union; artha—for the purpose; padma-bandhu—the friend of the lotus flowers (the sun-god); rādhikā—She who is the worshipper; mahyam—to me; ātma—Her own; pāda-padma—of the lotus feet; dāsya-dā—the giver of service; astu—may become; rādhikā—Śrīmatī Rādhārāṇī.
+kauravinda—of coral; kānti—the splendor; nindi—chastising; citra—amazing and colorful; paṭṭa-śāṭikā—She who wears silken garments; kṛṣṇa—Kṛṣṇa; matta—maddened; bhṛṅga—bumblebee; keli—amorous pastimes; phulla—blossomed; puṣpa—flower; vāṭikā—She who is a garden; kṛṣṇa—with Kṛṣṇa; nitya—daily; saṅgama—union; artha—for the purpose; padma-bandhu—the friend of the lotus flowers (the sun god); rādhikā—She who is the worshipper; mahyam—to me; ātma—Her own; pāda-padma—of the lotus feet; dāsya-dā—the giver of service; astu—may become; rādhikā—Śrīmatī Rādhārāṇī.
 
  Her amazing and colorful silken garments make the splendor of coral feel ashamed. She is a garden of blossoming flowers where the maddened bumble-bee named Kṛṣṇa performs amorous pastimes. She worships the Sun-god daily in order to attain the continual association of Her beloved Kṛṣṇa. May Śrī Rādhikā bestow upon me the service of Her own lotus feet.
 Text 3
@@ -1877,7 +1877,7 @@ hari hari! manoratha phalibe āmāre
 duṅhuka manthara gati,  kautuke herabo ati,
 aṅga bhori pulaka aṅkure
 
-hari hari!—oh!; manoratha—inner desire; phalibe—will be fulfilled; āmāre—to me; duṅhuka—both; manthara gati—slow mode of walking; kautuke—in curiosity; herabo—I will behold; ati—very much; aṅge—on the limbs; bhori—full; pulaka aṅkure—thrill-bumps like buds.
+hari hari!—oh!; manoratha—inner desire; phalibe—will be fulfilled; āmāre—to me; duṅhuka—both; manthara gati—slow mode of walking; kautuke—in curiosity; herabo—I will behold; ati—very much; aṅge—on the limbs; bhori—full; pulaka aṅkure—thrill bumps like buds.
 
  Oh! My most cherished desires will be fulfilled! With great curiosity, I will behold the Divine Couple as They arrive with a very slow and majestic gait, Their limbs full of thrill-bumps that look just like flowerbuds.
 Text 3
@@ -1886,7 +1886,7 @@ ciruṇī loiyā kare kori
 kuṭila kuntala saba,  bithāriyā āṅcaḍibo,
 banāibo vicitra kabarī
 
-caudige—in four directions; sakhīr madhye—between the girlfriends; rādhikār īṅgite—on the gesture of Rādhikā; ciraṇi loiyā—taking a comb; kare—in the hand; kori—doing; kuṭila kuntala—curling locks; saba—all; bithāriyā—combing out; āṅcaḍibo—I will arrange; banāibo—I will tie together; vicitra kabarī—a variegated hair-style.
+caudige—in four directions; sakhīr madhye—between the girlfriends; rādhikār īṅgite—on the gesture of Rādhikā; ciraṇi loiyā—taking a comb; kare—in the hand; kori—doing; kuṭila kuntala—curling locks; saba—all; bithāriyā—combing out; āṅcaḍibo—I will arrange; banāibo—I will tie together; vicitra kabarī—a variegated hair style.
 
  Rādhikā is surrounded by Her confidential girlfriends, and upon receiving the hint of Her glancing eyes, I will take up a comb in my hand and come near. Combing out Her long and curling locks, I will tie them up in a fascinating and variegated hairstyle.
 Text 4
@@ -1895,7 +1895,7 @@ parāibo manohara hār
 candana kuṅkume,  tilaka basāibo,
 herabo mukha-sudhākar
 
-mṛgamada—musk; malayaja—sandalwood; saba aṅge—on all the limbs; lepabo—I will smear; parāibo—I will place; manohara hār—an enchanting necklace; candana kuṅkume—made of sandalwood and red powder; tilaka basāibo—I will apply tilaka; herabo—I will behold; mukha—the face; sudhākar—the nectar-producing moon.
+mṛgamada—musk; malayaja—sandalwood; saba aṅge—on all the limbs; lepabo—I will smear; parāibo—I will place; manohara hār—an enchanting necklace; candana kuṅkume—made of sandalwood and red powder; tilaka basāibo—I will apply tilaka; herabo—I will behold; mukha—the face; sudhākar—the nectar producing moon.
 
  I will anoint all Her limbs with musk and sandalwood, and fit enchanting necklaces in place. I will paint tilak designs on Her forehead with sandalwood paste mixed with kuṅkum powder, and then gaze upon Her nectar-bestowing moonlike face.
 Text 5
@@ -1922,7 +1922,7 @@ jogāibo doṅhār badane
 adhara sudhā-rase,  tāmbula suvāse,
 bhuñjabo adhika jatane
 
-kanaka sampuṭa—golden jewel-box; kori—taking; karpūra—camphor; tāmbula—betel; bhari—filled; jogāibo—I will place; doṅhār badane—in both their mouths; adhara sudhā-rase—with the nectar-mellows of their lips; tāmbula suvāse—the nicely flavored betel; bhuñjabo—I will eat; adhika jatane—with extra care.
+kanaka sampuṭa—golden jewel box; kori—taking; karpūra—camphor; tāmbula—betel; bhari—filled; jogāibo—I will place; doṅhār badane—in both their mouths; adhara sudhā-rase—with the nectar mellows of their lips; tāmbula suvāse—the nicely flavored betel; bhuñjabo—I will eat; adhika jatane—with extra care.
 
  Going to the jewelled storage box filled with betel nuts scented with camphor, I will take some out and lift them to Their mouths. Afterwards, receiving some of the nuts that are further scented with the nectar of Their lips, I will chew with greatly captivated attention.
 Text 8
@@ -1947,7 +1947,7 @@ harer nāmaiva kevalam
 
 madhuram—more sweet; madhurebhyaḥ—than other sweet things; api—even; maṅgalebhyaḥ—more auspicious; api—even; maṅgalam—than other auspicious things; pāvanam—the greatest purifier; pāvanebhyaḥ—than all purifying things; api—even; hareḥ nāma—the holy name of Hari; eva—indeed; kevalam—is the only thing.
 
- More sweet than all other sweet things; more auspicious than all other auspicious things; the greatest purifier of all purifying things—The holy name of Śrī Hari alone is everything.
+ More sweet than all other sweet things, more auspicious than all other auspicious things, the greatest purifier of all purifying things—The holy name of Śrī Hari alone is everything.
 Text 2
 ābrahmā-stamba-paryantaṁ
 sarvaṁ māyā-mayaṁ jagat
@@ -1974,7 +1974,7 @@ harer nāmaiva kevalam
 
 niḥśvāse—when the breath stops; nāhi—there is not; viśvāsaḥ—certainty; kadā—when; ruddhaḥ—stopped; bhaviṣyati—will be; kīrtanīya—to be chanted; mataḥ—the mentality; bālyāt—from childhood.
 
- There is no certainty when the last breath will come and put an abrupt halt to all one's material plans; therefore it is wise to always practice chanting from very childhood—The holy name of Śrī Hari alone is everything.
+ There is no certainty when the last breath will come and put an abrupt halt to all one's material plans, therefore it is wise to always practice chanting from very childhood—The holy name of Śrī Hari alone is everything.
 Text 5
 hariḥ sadā vaset tatra
 yatra bhāgavatā janāḥ
@@ -2001,7 +2001,7 @@ harer nāmaiva kevalam
 
 dīyatām dīyatām—should be given (heard) again and again; karṇaḥ—to the ears; nīyatām nīyatām—should be uttered over and over; vacaḥ—with the words; gīyatām gīyatām—should be sung and sung; nityam—perpetually.
 
- It should be heard again and again with one's ears; It should be uttered over and over with one's voice; It should be perpetually sung and sung anew—The holy name of Śrī Hari alone is everything.
+ It should be heard again and again with one's ears, It should be uttered over and over with one's voice, It should be perpetually sung and sung anew—The holy name of Śrī Hari alone is everything.
 Text 8
 tṛṇī-kṛtya jagat sarvaṁ
 rājate sakalopari
@@ -2010,7 +2010,7 @@ harer-nāmaiva kevalam
 
 tṛṇī-kṛtya—as a blade of grass; jagat sarvam—the entire universe; rājate sakala-upari—reigns supreme over all; cit-ānanda-mayam—full of eternally conscious divine ecstasy; śuddham—supremely pure.
 
- It makes the entire universe seem insignificant as a blade of grass; it splendrously reigns supreme over all; it is full of eternally conscious divine ecstasy; it is supremely pure—The holy name of Śrī Hari alone is everything.
+ It makes the entire universe seem insignificant as a blade of grass, it splendrously reigns supreme over all, it is full of eternally conscious divine ecstasy, it is supremely pure—The holy name of Śrī Hari alone is everything.
 Song 33: Maine Raṭanā Lagāi Rādhā Nāmakī
 "I Practice the Repetition of Rādhā's Name"
 33. Maine Raṭanā Lagāi Rādhā Nāmakī
@@ -2029,60 +2029,43 @@ maine māṅga bharāi rādha nāmakī
 
 merī—my; palakoṅ meṅ—in the blinking of an eye; rādhā—Rādhā is there; merī—my; alakoṅ meṅ—in the ringlets of hair; rādhā—Rādhā is there; maine—by me; māṅga—part of the hair; bharāi—filled up; rādhā nāmakī—with the name of Rādhā.
 
- Rādhā is there in the blinking of my eyes
-   Rādhā is there in the curls of my hair
-I have filled up the very part of my hair
-   Oh! With the sweet name of Rādhā.
+Rādhā is there in the blinking of my eyes. Rādhā is there in the curls of my hair. I have filled up the very part of my hair. Oh! With the sweet name of Rādhā.
 Text 2
 mere nainoṅ meṅ rādhā, mere bainoṅ meṅ rādhā
 maine bainī guthāi rādha nāmakī
 
 mere—my; nainoṅ meṅ—in the eyes; rādhā—Rādhā is there; mere—my; bainoṅ meṅ—in the words; rādhā—Rādhā is there; maine—by me; bainī—speech; guthāi—interwoven; rādhā nāmakī—with the name of Rādhā.
 
- Rādhā is there within my vision
-   Rādhā is there within my speech
-I interweave my every word
-   Oh! With the sweet name of Rādhā.
+Rādhā is there within my vision. Rādhā is there within my speech. I interweave my every word. Oh! With the sweet name of Rādhā.
 Text 3
 merī dularī meṅ rādhā, merī cunarī meṅ rādhā
 maine nathanī sajāi rādha nāmakī
 
-merī—my; dularī meṅ—in the necklace of two strands; rādhā—Rādhā is there; merī—my; cunarī meṅ—in the colored cloths with white spots; rādhā—Rādhā is there; maine—by me; nathanī—nose-ring; sajāi—adorned; rādhā nāmakī—with the name of Rādhā.
+merī—my; dularī meṅ—in the necklace of two strands; rādhā—Rādhā is there; merī—my; cunarī meṅ—in the colored cloths with white spots; rādhā—Rādhā is there; maine—by me; nathanī—nose ring; sajāi—adorned; rādhā nāmakī—with the name of Rādhā.
 
- Rādhā is there in my necklace
-   Rādhā is there in my sārī
-I have adorned my nose-ring
-   Oh! With the sweet name of Rādhā.
+Rādhā is there in my necklace. Rādhā is there in my sārī. I have adorned my nose-ring. Oh! With the sweet name of Rādhā.
 Text 4
 mere calane meṅ rādhā, mere halane meṅ rādhā
 kaṭi kiṅkinī bajāi rādha nāmakī
 
-mere—my; calane meṅ—in the walking; rādhā—Rādhā is there; mere—my; halane meṅ—in the movements; rādhā—Rādhā is there; kaṭi kiṅkinī—waist-bell ornament; bajāi—resounds; rādhā nāmakī—with the name of Rādhā.
+mere—my; calane meṅ—in the walking; rādhā—Rādhā is there; mere—my; halane meṅ—in the movements; rādhā—Rādhā is there; kaṭi kiṅkinī—waist bell ornament; bajāi—resounds; rādhā nāmakī—with the name of Rādhā.
 
- Rādhā is there in my walking
-   Rādhā is there in my gestures
-My sash of waist-bells resounds
-   Oh! With the sweet name of Rādhā.
+Rādhā is there in my walking. Rādhā is there in my gestures. My sash of waist-bells resounds. Oh! With the sweet name of Rādhā.
 Text 5
 mere dāye bāye rādhā, mere āge pīche rādhā
 roma roma rasa chāi rādha nāmakī
 
 mere—my; dāye—on the right side; bāye—on the left side; rādhā—Rādhā is there; mere—my; āge—in the front; pīche—in the rear; rādhā—Rādhā is there; roma roma—each and every hair (every part of the body); rasa—mellows; chāi—reflected; rādhā nāmakī—with the name of Rādhā.
 
- Rādhā is there on my right and on my left
-   Rādhā is there in front of me and behind
-My every fiber reflects the rasa flowing
-   Oh! With the sweet name of Rādhā.
+Rādhā is there on my right and on my left. Rādhā is there in front of me and behind. My every fiber reflects the rasa flowing. Oh! With the sweet name of Rādhā.
 Text 6
 mere aṅga aṅga rādhā, mere saṅga saṅga rādhā
 gopāl baṁśī bajāi rādha nāmakī
 
 mere—my; aṅga aṅga—limb to limb; rādhā—Rādhā is there; mere—my; saṅga saṅga—accompaniment; rādhā—Rādhā is there; gopāl—Lord Gopāl; baṁśī bajāi—plays on His flute; rādhā nāmakī—with the name of Rādhā.
 
- Rādhā is there on my each and every limb
-   Rādhā is there accompanying me always
-Lord Gopāl plays His flute which calls out
-   Oh! With the sweet name of Rādhā.
+Rādhā is there on my each and every limb. Rādhā is there accompanying me always. Lord Gopāl plays His flute which calls out. Oh! With the sweet name of Rādhā.
+
 Song 34: Mama Mana Mandire
 "In the Temple of My Heart"
 34. Mama Mana Mandire
@@ -2152,7 +2135,7 @@ nava-veśa-kṛtaṁ nava-prema-rasam
 navadhā vilasat śubha-prema-mayaṁ
 praṇamāmi śacī-suta-gaura-varam
 
-nava-prema-yutam—endowed with ever-fresh divine love; nava-nīta-śucam—luminous like fresh butter; nava-veśa-kṛtam—wears fresh attire in novel fashions; nava-prema-rasam—tastes ever-new mellows of love for Kṛṣṇa; navadhā vilasat—whose shines in ninefold newer and newer ways [while executing the nine-fold processes of devotionsal service]; śubha-prema-mayam—auspicious loving nature.
+nava-prema-yutam—endowed with ever fresh divine love; nava-nīta-śucam—luminous like fresh butter; nava-veśa-kṛtam—wears fresh attire in novel fashions; nava-prema-rasam—tastes ever new mellows of love for Kṛṣṇa; navadhā vilasat—whose shines in ninefold newer and newer ways [while executing the nine fold processes of devotionsal service]; śubha-prema-mayam—auspicious loving nature.
 
  He is endowed with ever-fresh love of Godhead. His radiant luster is like the color of fresh butter. His fresh attire is arranged in ever-new fashions. He relishes ever-new mellows of love for Kṛṣṇa. He shines in nine-fold new ways while executing the nine-fold processes of devotion. He is permeated with a most auspicious loving nature.-I bow down to Gaura, the beautiful Son of Mother Śacī.
 Text 3
@@ -2161,7 +2144,7 @@ kara-japya-karaṁ hari-nāma-param
 nayane satataṁ praṇayāśru-dharaṁ
 praṇamāmi śacī-suta-gaura-varam
 
-hari-bhakti-param—absorbed in devotion to Śrī Hari; hari-nāma-dharam—who holds the names of Hari; kara-japya-karam—who uses His hands for chanting japa—meditation; hari-nāma-param—who is addicted to the names of Hari; nayane—in His eyes; satatam—always; praṇaya-aśru—tears of love; dharam—bears.
+hari-bhakti-param—absorbed in devotion to Śrī Hari; hari-nāma-dharam—who holds the names of Hari; kara-japya-karam—who uses His hands for chanting japa meditation; hari-nāma-param—who is addicted to the names of Hari; nayane—in His eyes; satatam—always; praṇaya-aśru—tears of love; dharam—bears.
 
  He is absorbed in devotion to Śrī Hari. He maintains the chanting of the names of Hari. While chanting He counts the holy names on the fingers of His hands. He is addicted to the name of Hari. He always has tears of love welling in His eyes.-I bow down to Gaura, the beautiful Son of Mother Śacī.
 Text 4
@@ -2286,7 +2269,7 @@ rasa-rāja-śiromaṇi-veśa-dharam
 jagadīśvaram-īśvaram-īḍya-varaṁ
 bhaja kṛṣṇa-nidhiṁ vraja-rāja-sutam
 
-vṛṣabhānu-sutā—the daughter of Vrishabhānu; vara-keli param—fond of the best amorous games; rasa-rāja-śiromaṇi—the pinnacle of mellow-kings; veśa-dharam—wearing the garments; jagat-īśvaram-īśvaram—of the lords of the lords of the universe; īḍya-varam—the absolutely most worshipable.
+vṛṣabhānu-sutā—the daughter of Vrishabhānu; vara-keli param—fond of the best amorous games; rasa-rāja-śiromaṇi—the pinnacle of mellow kings; veśa-dharam—wearing the garments; jagat-īśvaram-īśvaram—of the lords of the lords of the universe; īḍya-varam—the absolutely most worshipable.
 
  He Who is most fond of sporting with the Daughter of Vrishabhānu Who dresses impeccably as the Crown Prince of Mellow-Relishers Who is the most praiseworthy Lord of Lords in the entire universe-Just worship Kṛṣṇa, the Dark Jewel,  the son of the King of Vraja
 Song 37: Nitāi Guṇa Maṇi
@@ -2306,7 +2289,7 @@ Text 2
 premer vanyā loiyā nitāi āilā gauḍa-deśe
 ḍubilo bhakata-gaṇa dīna hīna bhāse
 
-premer vanyā—the flood of divine ecstatic love; loiyā—having brought; nitāi—Lord Nityānanda; āilā—having returned; gauḍa-deśe—to Bengal; ḍubilo—has drowned; bhakata-gaṇa—the assembly of devotees; dīna hīna—the fallen non-devotees; bhāse—remained floating.
+premer vanyā—the flood of divine ecstatic love; loiyā—having brought; nitāi—Lord Nityānanda; āilā—having returned; gauḍa-deśe—to Bengal; ḍubilo—has drowned; bhakata-gaṇa—the assembly of devotees; dīna hīna—the fallen non devotees; bhāse—remained floating.
 
  Bringing this overwhelming deluge of prema when He returned to Bengal from Jagannātha Purī on Lord Chaitanya's order, Nitāi has inundated the assembly of devotees. The fallen non-devotees did not drown, however, but remained floating on that ecstatic ocean.
 Text 3
@@ -2414,7 +2397,7 @@ nanī churā āi nā, ore
 boyche rādhār prema jamunā
 hṛdoy mājā re
 
-mā yaśodā—Mother Yaśodā; ḍākche—is crying out; tore—for You; gopāl re—O Gopāl!; prāṇer gopāl—O Gopāl, my life and soul! re—Oh!; nanī churā—O butter thief!; āi nā—won't you come; ore—Oh!; boyche—is flowing; rādhār—of Rādhā; prema jamunā—the river of love; hṛdoy mājā—in Her heart; re—Oh!
+mā yaśodā—Mother Yaśodā; ḍākche—is crying out; tore—for You; gopāl re—O Gopāl!; prāṇer gopāl—O Gopāl, my life and soul!; re—Oh!; nanī churā—O butter thief!; āi nā—won't you come; ore—Oh!; boyche—is flowing; rādhār—of Rādhā; prema jamunā—the river of love; hṛdoy mājā—in Her heart; re—Oh!
 
  Mother Yaśodā is crying out, "O Gopāl! You are my life and soul! Please come home, O butter thief!" Within the heart of Śrī Rādhā, divine love for You flows like the Yamunā river.
 Song 40: Praṇām Tomāi Ghana-śyām
@@ -2424,7 +2407,7 @@ Song 40: Praṇām Tomāi Ghana-śyām
 Traditional Bangladesh Bhajan
 (refrain) praṇām tomāi ghana-śyām
 
-praṇām—obeisance; tomāi—unto You; ghana-śyām—O dark raincloud-like boy!
+praṇām—obeisance; tomāi—unto You; ghana-śyām—O dark raincloud like boy!
 
 (refrain) All obeisances unto You, O Ghana-śyām!
 Text 1
@@ -2600,7 +2583,7 @@ dhṛta-kuṇḍala (e)
 kalita-lalita-vana-mālā
 jaya jaya deva hare
 
-śrita—who rests; kamalā—of the goddess of fortune; kuca-maṇḍala—upon the globe-like breasts; (he)—oh!; dhṛta-kuṇḍala—decorated with earrings; (e)—oh!; kalita—wearing; lalita-vana-mālā—a charming garland of forest flowers; jaya—all glories to You!; jayadeva—O Lord Jayadeva (who defeats all the demigods)!; hare—O Lord Hari!
+śrita—who rests; kamalā—of the goddess of fortune; kuca-maṇḍala—upon the globe like breasts; (he)—oh!; dhṛta-kuṇḍala—decorated with earrings; (e)—oh!; kalita—wearing; lalita-vana-mālā—a charming garland of forest flowers; jaya—all glories to You!; jayadeva—O Lord Jayadeva (who defeats all the demigods)!; hare—O Lord Hari!
 
  O Lord who rests upon the breasts of the goddess of fortune! O Lord decorated with swinging earrings! O Lord who wears a charming garland of forest flowers!-O Lord Jayadeva (who defeats all the demigods)! O Lord Hari, all glories to You!
 Text 2
@@ -2645,7 +2628,7 @@ jita-dūṣaṇa (e)
 samara-śamita-daśa-kaṇṭha
 jaya jaya deva hare
 
-janaka-sutā-kṛta-bhūṣaṇa—O Lord who has become the ornament of Sītā Devī, the daughter of Mahārāja Janaka!; (he)—oh!; jita-dūṣaṇa—O Lord who is victorious over all wicked demons; (e)—oh!; samara-śamita-daśa-kaṇṭha—O Lord who defeated the ten-headed Rāvaṇa in battle!; jaya jayadeva hare...
+janaka-sutā-kṛta-bhūṣaṇa—O Lord who has become the ornament of Sītā Devī, the daughter of Mahārāja Janaka!; (he)—oh!; jita-dūṣaṇa—O Lord who is victorious over all wicked demons; (e)—oh!; samara-śamita-daśa-kaṇṭha—O Lord who defeated the ten headed Rāvaṇa in battle!; jaya jayadeva hare...
 
  O Lord who has become the ornament of the daughter of Mahārāja Janaka! O Lord who is victorious over all wicked demons! O Lord who defeated the ten-headed Rāvaṇa in battle!-O Lord Jayadeva, O Lord Hari! All glories unto You!
 Text 7
@@ -2716,12 +2699,7 @@ bājata hai koi raṅgaṇa meṅ
 koi—someone; gāyata hai—is singing; rādhā-kṛṣṇa nām—the names of Rādhā and Kṛṣṇa; koi—someone; gāyata hai—is singing; hari-guṇa gān—Lord Hari's qualities; maṅgala-tāna—the auspicious sounds; mṛdaṅga-mṛdaṅga drums; rasāla—relishable; bājata hai—is playing; koi—someone; raṅgaṇa meṅ—in that spectacular performance.
 
  Someone in that kīrtan sings the names of Rādhā and Kṛṣṇa, someone else sings songs of Lord Hari's transcendental qualities, while others play the auspicious rhythms of the sweet and relishable mṛdaṅga drums. All this takes place in that spectacular performance.
-sundara-bālā śacī-dulālā
-nācata śrī-hari-kīrtana meṅ
 
-sundara-bālā—gorgeous boy; śacī-dulālā—the darling child of Mother Śacī; nācata—is dancing; śrī-hari-kīrtana meṅ—in the kīrtana of chanting Lord Hari's names.
-
-This gorgeous boy is the darling child of Mother Śacī, dancing in the kīrtan of chanting Lord Hari's names.
 Song 46: Sundara Mor
 "My Beautiful One"
 46. Sundara Mor
@@ -2799,7 +2777,7 @@ na tuyā ādi avasānā
 tohe janami puna,  tohe samāota,
 sāgara-laharī samānā
 
-koto—how many; catura-ānana—four-faced Brahmās; mari mari jāota—have died one after another; na—not; tuyā—Your; ādi avasānā—beginning or end; tohe—in You; janami—they take birth; puna—and then; tohe—in You; samāota—they are absorbed; sāgara-laharī—the waves of the ocean; samānā—like.
+koto—how many; catura-ānana—four faced Brahmās; mari mari jāota—have died one after another; na—not; tuyā—Your; ādi avasānā—beginning or end; tohe—in You; janami—they take birth; puna—and then; tohe—in You; samāota—they are absorbed; sāgara-laharī—the waves of the ocean; samānā—like.
 
  Numberless Brahmās have died one after another, whereas You are without beginning or end. All of them take birth from You and are again absorbed into You, just like waves in the ocean.
 Text 5
@@ -2834,7 +2812,7 @@ durjana-tarjana-nāda-viśālam
 bhava-bhaya-bhañjana-kāraṇa-karuṇaṁ
 taṁ praṇamāmi ca śrī-śacī-tanayam
 
-gadgada—choked-up; antara—internally; bhāva-vikāram—ecstatic transformations; durjana—wicked men; tarjana—threatening; nāda—sounds; viśālam—immense; bhava-bhaya—fear of the repeating cycle of birth and death; bhañjana—smashing; kāraṇa—cause; karuṇam—mercy; tam—to Him; praṇamāmi—I bow down; ca—also; śrī-śacī-tanayam—to the son of Mother Śacī.
+gadgada—choked up; antara—internally; bhāva-vikāram—ecstatic transformations; durjana—wicked men; tarjana—threatening; nāda—sounds; viśālam—immense; bhava-bhaya—fear of the repeating cycle of birth and death; bhañjana—smashing; kāraṇa—cause; karuṇam—mercy; tam—to Him; praṇamāmi—I bow down; ca—also; śrī-śacī-tanayam—to the son of Mother Śacī.
 
  Within Himself there are transformations of ecstasy such as faltering of the voice. The mighty sound of His voice chastises wicked men. His mercy dispels all fears caused by worldly existence.-Unto that son of Śrī Śacīdevī I bow.
 Text 3
@@ -2900,7 +2878,7 @@ tomā vinā duḥkha hari
 kṛpā koro nāth, me hu mana
 rākho lāj hāmāre
 
-vaṁśī-dhārī—O holder of the flute!; kṛṣṇa murāri—O all-attractive killer of the Mura demon!; tomā vinā—without You; duḥkha—misery; hari—O remover of distress!; kṛpā koro—please be merciful; nāth—O Lord!; me—my; hu—is; mana—mind; rākho—keep; lāj—modesty; hāmāre—mine.
+vaṁśī-dhārī—O holder of the flute!; kṛṣṇa murāri—O all attractive killer of the Mura demon!; tomā vinā—without You; duḥkha—misery; hari—O remover of distress!; kṛpā koro—please be merciful; nāth—O Lord!; me—my; hu—is; mana—mind; rākho—keep; lāj—modesty; hāmāre—mine.
 
  O Vaṁśī-dhārī! O Kṛṣṇa-Murāri! Without You, all is misery, O remover of distress! Please be merciful to me, O Lord, and protect my modesty.
 Text 2

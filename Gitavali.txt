@@ -92,11 +92,11 @@ abidyā timira-tapana-rūpe
 Text 8 
  
 kṛṣṇa-nāma-sudhā koriyā pān
-jur6āo bhakatibinoda prāṇ
+juḍāo bhakatibinoda prāṇ
 nāma binā kichu nāhika āra
 caudda-bhubana-mājhe
  
-     kṛṣṇa - of Lord Kṛṣṇa; nāma - of the holy name; sudhā - thenectar; koriyā - doing; pān - drinking; jur6āaḥ - pleasecool; bhakatibinoda - of Bhaktivinoda; prāṇ - the life; nāma - the name; binā - without; kichu - something; nāhika - isnot; āra - other; caudda-bhubana-mājhe - in the fourteen worlds.
+     kṛṣṇa - of Lord Kṛṣṇa; nāma - of the holy name; sudhā - thenectar; koriyā - doing; pān - drinking; juḍāaḥ - pleasecool; bhakatibinoda - of Bhaktivinoda; prāṇ - the life; nāma - the name; binā - without; kichu - something; nāhika - isnot; āra - other; caudda-bhubana-mājhe - in the fourteen worlds.
  
      Please drink the nectar of Lord Kṛṣṇa's names and cool the burning life of Bhaktivinoda. In the fourteen worlds nothing is like the holy name.
 
@@ -146,7 +146,7 @@ hari-nāma mahā-mantra lao tumi māgi'
 
 Text 5 
  
-bhakatibinoda prabhu-caraṇe por6iyā
+bhakatibinoda prabhu-caraṇe porḍiyā
 sei hari-nāma mantro loilo māgiyā
  
      bhakatibinoda - Bhaktivinoda; prabhu-caraṇe - at the feet of the Lord; poriyā - falling; sei - this; hari-nāma - holy name of Lord Kṛṣṇa; mantraḥ - mantra; loilaḥ - takes; māgiyā - requesting.
@@ -186,10 +186,10 @@ sabu-sakhī-beṣṭita kiśora-kiśorī
 
 Text 3 
  
-puraṭa-jar6ita kota maṇi-gajamati
+puraṭa-jarḍita kota maṇi-gajamati
 jhamaki' jhamaki' labhe prati-aṅga-jyotiḥ
  
-     puraṭa - gold; jar6ita - studded; kota - how many?;maṇi - jewels; gajamati - elephant pearls; jhamaki' - shinign; jhamaki' - shining; labhe - attains; prati - of every; aṅga - limb;jyotiḥ - splendor.
+     puraṭa - gold; jarḍita - studded; kota - how many?;maṇi - jewels; gajamati - elephant pearls; jhamaki' - shinign; jhamaki' - shining; labhe - attains; prati - of every; aṅga - limb;jyotiḥ - splendor.
  
      How many are Their ornaments of gold, jewels, and elephant-pearls? Their every limb glistens and glistens.
  
@@ -259,7 +259,7 @@ Text 10
 bhakatibinoda rohi' surabhī ki kuñje
 ārati-daraśane prema-sukha bhuñje
  
-     bhakatibinoda - Bhaktivinoda; rohi' - staying; surabhī ki kuñje - at Surabhi-kunja; ārati - of the arati; daraśane - in the sight; prema - of love; sukha - hapiness; bhuñje - enjoys.
+     bhakatibinoda - Bhaktivinoda; rohi' - staying; surabhī ki kuñje - at Surabhi kunja; ārati - of the arati; daraśane - in the sight; prema - of love; sukha - hapiness; bhuñje - enjoys.
  
      Staying in Surabhi-kuñja and gazing at this ārati, Bhaktivinoda feels great love and bliss.
 
@@ -350,10 +350,10 @@ Arati for the Divine Couple
 
 Text 1
  
-jaya jaya rādhā-kṛṣṇa jugala-milana
+jaya jaya Rādhā Kṛṣṇa jugala-milana
 ārati karowe lalitādi sakhī-gaṇa
  
-     jaya - glory; jaya - glory; rādhā-kṛṣṇa - Śrī Śrī Rādhā Kṛṣṇa; jugala-milana - meeting; ārati - arati; karowe - do; lalitādi - headed by Lalita; sakhī-gaṇa - the gopīs.
+     jaya - glory; jaya - glory; Rādhā Kṛṣṇa - Śrī Śrī Rādhā Kṛṣṇa; jugala-milana - meeting; ārati - arati; karowe - do; lalitādi - headed by Lalita; sakhī-gaṇa - the gopīs.
  
      Glory, glory to the ārati Lalitā and the gopīs offer to Śrī Śrī Rādhā and Kṛṣṇa!
  
@@ -361,9 +361,9 @@ jaya jaya rādhā-kṛṣṇa jugala-milana
 Text 2 
  
 madana-mohana rūpa tri-bhaṅga-sundara
-pītāmbara sikhi-puccha-cūr6ā-manohara
+pītāmbara sikhi-puccha-cūḍā-manohara
  
-     madana - than Kamadeva; mohana - more charming; rūpa - form; tri-bhaṅga - threefold bending; sundara - handsome; pītāmbara - yellow garments; sikhi-puccha-cūr6ā - peacock feather crown; manohara - charming.
+     madana - than Kamadeva; mohana - more charming; rūpa - form; tri-bhaṅga - threefold bending; sundara - handsome; pītāmbara - yellow garments; sikhi-puccha-cūḍā - peacock feather crown; manohara - charming.
  
      Wearing yellow garments and a charming peacock-feather crown, threefold-bending Kṛṣṇa is more handsome than Kāmadeva.
  
@@ -403,9 +403,9 @@ Text 6
 śrī-rādhā-mādhaba-pada-sarasija-āśe
 bhakatibinoda sakhī-pade sukhe bhāse
  
-     śrī-rādhā-mādhaba - of Śrī Rādhā-Kṛṣṇa; pada - feet;sarasija - lotus; āśe - hope; bhakatibinoda - Bhaktivinoda; sakhī-pade - at the sakhis' feet; sukhe - in happiness;bhāse - floats.
+     śrī-rādhā-mādhaba - of Śrī Rādhā Kṛṣṇa; pada - feet;sarasija - lotus; āśe - hope; bhakatibinoda - Bhaktivinoda; sakhī-pade - at the sakhis' feet; sukhe - in happiness;bhāse - floats.
  
-     Yearning to attain the lotus feet of Śrī Śrī Rādhā-Kṛṣṇa, Bhaktivinoda floats in happiness at the gopīs' feet.
+     Yearning to attain the lotus feet of Śrī Śrī Rādhā Kṛṣṇa, Bhaktivinoda floats in happiness at the gopīs' feet.
 
  
 
@@ -456,10 +456,10 @@ Text 4
 
 Text 5 
  
-mugdha-bor6ā māṣa-bor6ā roṭikā ghṛtānna
+mugdha-boḍā māṣa-boḍā roṭikā ghṛtānna
 śaṣkulī piṣṭaka khīra puli pāyasānna
  
-     mugdha-bor6ā - mung-dal cakes; māṣa-bor6ā - urad dal cakes; roṭikā - capatis; ghṛtānna - rice cooked in ghee;śaṣkulī - sesame sweets; piṣṭaka - rice-flour sweets; khīra - milk-pudding; puli - cakesfloating in milk; pāyasānna - sweet-rice.
+     mugdha-boḍā - mung-dal cakes; māṣa-boḍā - urad dal cakes; roṭikā - capatis; ghṛtānna - rice cooked in ghee;śaṣkulī - sesame sweets; piṣṭaka - rice-flour sweets; khīra - milk-pudding; puli - cakesfloating in milk; pāyasānna - sweet-rice.
  
  . . . mung-dāla cakes, urad-dāl cakes, capātis, rice with ghee, sesame sweets, rice sweets, milk-pudding, cakes floating in milk, sweet-rice, . . .
  
@@ -567,9 +567,9 @@ jaśomatī-ājñā pe'ye dhaniṣṭha-ānīto
 Text 16 
  
 lalitādi sakhī-gaṇa abaśeṣa pāya
-mane mane sukhe rādhā-kṛṣṇa-guṇa gāya
+mane mane sukhe Rādhā Kṛṣṇa-guṇa gāya
  
-     lalitā - Lalitā; ādi - beginning with; sakhī-gaṇa – the gopīs; abaśeṣa - remnants; pāya - attaining; mane mane - in theirhearts; sukhe - happy; rādhā-kṛṣṇa-guṇa - the glories of Śrī Śrī r-Kṛṣṇa;gāya - sing.
+     lalitā - Lalitā; ādi - beginning with; sakhī-gaṇa – the gopīs; abaśeṣa - remnants; pāya - attaining; mane mane - in theirhearts; sukhe - happy; Rādhā Kṛṣṇa-guṇa - the glories of Śrī Śrī r-Kṛṣṇa;gāya - sing.
  
      Honoring the remnants of that meal, with happy hearts Lalitā and the gopīs sing Rādhā and Kṛṣṇa's glories.
  
@@ -609,12 +609,12 @@ the senses the tongue is the most voracious and uncontrollable. It is very diffi
 
 Text 2 
  
-kṛṣṇa bor6o doyāmoy       karibāre jihwā joy
+kṛṣṇa boḍo doyāmoy       karibāre jihwā joy
 swa-prasādānna dilo bhāi
-sei annāmṛta khāo        rādhā-kṛṣṇa guṇa gāo
+sei annāmṛta khāo        Rādhā Kṛṣṇa guṇa gāo
 preme ḍāko caitanya-nitāi
  
-     kṛṣṇa - Kṛṣṇa; bor6aḥ - very; doyāmoy - kind;karibāre - to do; jihwā - tongue; joy - conquest; swa - own; prasāda - mercy; anna - food; dilaḥ - gives; bhāi - O brothers; sei - this; anna - food; amṛta - nectar; khāaḥ - eat; rādhā-kṛṣṇa - Rādhā and Kṛṣṇa;guṇa - virtues; gāaḥ - sing; preme - with love; ḍākaḥ - call out; caitanyanitāi - Caitanya - Nitāi.
+     kṛṣṇa - Kṛṣṇa; boḍaḥ - very; doyāmoy - kind;karibāre - to do; jihwā - tongue; joy - conquest; swa - own; prasāda - mercy; anna - food; dilaḥ - gives; bhāi - O brothers; sei - this; anna - food; amṛta - nectar; khāaḥ - eat; Rādhā Kṛṣṇa - Rādhā and Kṛṣṇa;guṇa - virtues; gāaḥ - sing; preme - with love; ḍākaḥ - call out; caitanyanitāi - Caitanya - Nitāi.
  
      But You, dear Kṛṣṇa, are very kind to us and have given us such nice prasādam just to control the tongue. Now let us take this prasādam to our full satisfaction and glorify You, Śrī Śrī 
 Rādhā and Kṛṣṇa, and in love call out for the help of Lord Caitanya and Nityānanda.*
@@ -670,14 +670,14 @@ love.
 
 Text 2 
  
-mocā-ghaṇṭa phula-bor6i        ḍāli ḍālnā caccor6i
+mocā-ghaṇṭa phula-borḍi        ḍāli ḍālnā caccorḍi
 śacī mātā korilo randhana
 ta'ra śuddha bhakti heri'          bhojana korilo hari
 sudhā-sama e anna-byañjana
  
-     mocā-ghaṇṭa - banana flowers; phula-bor6i - dal cakes; ḍāli - baskets of fruit; ḍālnā - dal cakes; caccor6i - spicy vegetables; śacī - Śacī; mātā - Mother; korilaḥ - did; randhana - coking; ta'ra - of that; śuddha - pure;bhakti - devotion; heri' - seeing; bhojana - eating; korilaḥ - did; hari - Lord Kṛṣṇa; sudhā-sama - like nectar; e - this; anna - rice; byañjana - andvegetables.
+     mocā-ghaṇṭa - banana flowers; phula-borḍi - dal cakes; ḍāli - baskets of fruit; ḍālnā - dal cakes; caccorḍi - spicy vegetables; śacī - Śacī; mātā - Mother; korilaḥ - did; randhana - coking; ta'ra - of that; śuddha - pure;bhakti - devotion; heri' - seeing; bhojana - eating; korilaḥ - did; hari - Lord Kṛṣṇa; sudhā-sama - like nectar; e - this; anna - rice; byañjana - andvegetables.
  
-     Mother Śacī cooked banana flowers, dāl cakes, and caccor6i spicy vegetables. Seeing her pure devotion, Lord Kṛṣṇa ate her rice and vegetables, which were delicious like nectar.
+     Mother Śacī cooked banana flowers, dāl cakes, and caccorḍi spicy vegetables. Seeing her pure devotion, Lord Kṛṣṇa ate her rice and vegetables, which were delicious like nectar.
  
 
 Text 3 
@@ -839,10 +839,10 @@ kṛṣṇa mātā kṛṣṇa pitā kṛṣṇa dhana prāṇa
  
 Text 4 
  
-kṛṣṇera soṁsāra koro chār6i' anācāra
+kṛṣṇera soṁsāra koro chārḍi' anācāra
 jībe doyā kṛṣṇa-nāma sarba-dharma-sāra
  
-     kṛṣṇera - of Kṛṣṇa; soṁsāra - world; koraḥ - do; chār6i' - renmouncing; anācāra - sins; jībe - to the souls;doyā - mercy; kṛṣṇa - of Kṛṣṇa; nāma - the holy name; sarba-dharam-sāra – the essence of all religion.
+     kṛṣṇera - of Kṛṣṇa; soṁsāra - world; koraḥ - do; chārḍi' - renmouncing; anācāra - sins; jībe - to the souls;doyā - mercy; kṛṣṇa - of Kṛṣṇa; nāma - the holy name; sarba-dharam-sāra – the essence of all religion.
  
      Give up all sins. Make Kṛṣṇa your whole world. Be merciful to all souls. Chant Kṛṣṇa's names. That is the essence of all religion.
 
@@ -878,7 +878,7 @@ Text 3
 māyā-jāle baddha hoye, ācho miche kāja lo'ye
 ekhona cetana pe'ye, rādhā-mādhaba nām bolo re
  
-     māyā - of illusions; jāle - in the trap; baddha - bound;hoye - is; āchaḥ - is; miche - false; kāja - work; lo'ye - accept;ekhona - one; cetana - consciousness; pe'ye, - attaining; rādhā-mādhaba - Rādhā-Kṛṣṇa; nām - names; bolaḥ - chant; re - Oh.
+     māyā - of illusions; jāle - in the trap; baddha - bound;hoye - is; āchaḥ - is; miche - false; kāja - work; lo'ye - accept;ekhona - one; cetana - consciousness; pe'ye, - attaining; rādhā-mādhaba - Rādhā Kṛṣṇa; nām - names; bolaḥ - chant; re - Oh.
  
      You were caught in Māyā's trap. Your work was only illusion. Aware of that, please chant Rādhā and Mādhava's names.
  
@@ -915,9 +915,9 @@ Text 2
 keno sukha duḥkha bhoya, ahamtā-mamatā-moya
 tuccha jaya-parajaya, krodha hiṁsā dweṣa anya-jane
 bhakatibinoda koya, kori gorā-padāśroya
-cid-ānanda-rasa-moya, hao rādhā-kṛṣṇa-nāma-gāne
+cid-ānanda-rasa-moya, hao Rādhā Kṛṣṇa-nāma-gāne
  
-     kenaḥ - why?; sukha - happiness; duḥkha - distress;bhoya, - fear; ahamtā - false ego; mamatā - false possessiveness;moya - consisting; tuccha - insignificant; jaya - victory; parajaya - and defeat; krodha - anger; hiṁsā - violence;dweṣa - hatred; anya-jane - for other people; bhakatibinoda - Bhaktivinoda;koya, - says; kori - taking; gorā - of Lord Caitanya; pada - of the feet; āśroya - shelter; cid-ānanda-rasa-moya, - full of blissful spiritual nectar; haaḥ - please do; rādhā-kṛṣṇa - of Rādhā and Kṛṣṇa; nāma - the names; gāne - songs.
+     kenaḥ - why?; sukha - happiness; duḥkha - distress;bhoya, - fear; ahamtā - false ego; mamatā - false possessiveness;moya - consisting; tuccha - insignificant; jaya - victory; parajaya - and defeat; krodha - anger; hiṁsā - violence;dweṣa - hatred; anya-jane - for other people; bhakatibinoda - Bhaktivinoda;koya, - says; kori - taking; gorā - of Lord Caitanya; pada - of the feet; āśroya - shelter; cid-ānanda-rasa-moya, - full of blissful spiritual nectar; haaḥ - please do; Rādhā Kṛṣṇa - of Rādhā and Kṛṣṇa; nāma - the names; gāne - songs.
  
      Why do you experience pleasure, pain, fear, pathetic victory and defeat, anger, violence, and hatred for others? All these come from material thoughts of "I" and "mine". Bhaktivinoda says: Please take shelter of Lord Caitanya's feet and become filled with the nectar of spiritual bliss as you sing the names of Rādhā and Kṛṣṇa.
 
@@ -928,17 +928,17 @@ Song 4
 
 Text 1
  
-rādhā-kṛṣṇa bol bol bolo re sobhāi 
+Rādhā Kṛṣṇa bol bol bolo re sobhāi 
 (ei) śikhā diyā          saba nadīyā
 phirche nece' gaur-nitāi
 (miche) māyāra bośe      jāccho bese'
 khaccho hābuḍubu bhāi
  
-     rādhā-kṛṣṇa - Rādhā-Kṛṣṇa; bol - chant; bol - chant; bolaḥ - chant; re - O; sobhāi - everyone; ei - this; śikhā - teaching;diyā - giving; saba - all; nadīyā - Nadīyā; phirche -  - go; nece' - dance; gaur-nitāi - Gaura-Nitāi; miche - false; māyāra - of Maya;bośe - under the control; jāccho bese'      khaccho hābuḍubu - tossed to and fro by the waves; bhāi - O brothers.
+     Rādhā Kṛṣṇa - Rādhā Kṛṣṇa; bol - chant; bol - chant; bolaḥ - chant; re - O; sobhāi - everyone; ei - this; śikhā - teaching;diyā - giving; saba - all; nadīyā - Nadīyā; phirche -  - go; nece' - dance; gaur-nitāi - Gaura-Nitāi; miche - false; māyāra - of Maya;bośe - under the control; jāccho bese'      khaccho hābuḍubu - tossed to and fro by the waves; bhāi - O brothers.
  
-Please chant, "Rādhā-Kṛṣṇa!"
+Please chant, "Rādhā Kṛṣṇa!"
 
-     Lord Caitanya and Lord Nityānanada, while dancing in the streets of Nadīyā, said, "All of you please chant: Rādhā-Kṛṣṇa! Why are you washed away by the waves of Māyā? The whole 
+     Lord Caitanya and Lord Nityānanada, while dancing in the streets of Nadīyā, said, "All of you please chant: Rādhā Kṛṣṇa! Why are you washed away by the waves of Māyā? The whole 
 day and night you are full of anxieties. Why are you struggling in the ocean of Māyā, sometimes drowning and sometimes coming up?*
  
 
@@ -962,7 +962,7 @@ bole jakhona o-nāma gāi
      
 rādhā - Rādhā; kṛṣṇa - Kṛṣṇa; bolaḥ - say;saṅge - in association; colaḥ - go; ei-mātra - this only;bhikhā - charity; cāi - I wish; jaya - victory; sakala - all; bipoda - calamity; bhaktibinoda - Bhaktivinoda; bole - says; jakhona - what; onāma - the holy names; gāi - saing.
 
-     "Whenever I chant `Rādhā-Kṛṣṇa!' I become free of all kinds of dangers. Simply chant Hare Kṛṣṇa and follow me, so your struggle for existence in this material world will cease."* This Bhaktivinoda says. 
+     "Whenever I chant `Rādhā Kṛṣṇa!' I become free of all kinds of dangers. Simply chant Hare Kṛṣṇa and follow me, so your struggle for existence in this material world will cease."* This Bhaktivinoda says. 
 
 
 
@@ -990,7 +990,7 @@ eka-bāra bolo rasanā uccaiḥ-sware
 (bolo) nandera nandana        jaśodā-jībana
 śrī-rādhā-ramaṇa prema-bhare
  
-     eka - one; bāra - time; bolaḥ - chant; rasanā - tongue; uccaiḥ-sware - with a loud voice; (bolo) - cvhant; nandera - of Nanda;nandana - the son; jaśodā-jībana - the life of Yaśodā; śrī-rādhā-ramaṇa - the lover of Rādhā; prema-bhare - with great love.
+     eka - one; bāra - time; bolaḥ - chant; rasanā - tongue; uccaiḥ-sware - with a loud voice; (bolo) - chant; nandera - of Nanda;nandana - the son; jaśodā-jībana - the life of Yaśodā; śrī-rādhā-ramaṇa - the lover of Rādhā; prema-bhare - with great love.
  
      "Just once with great love make your tongues loudly chant: `Nanda-nandana (son of Nanda)! Yaśodā-jīvana (life of Yaśodā)! Śrī Rādhā-ramaṇa (lover of Śrī Rādhā)! 
  
@@ -1140,9 +1140,9 @@ jagat mātāya nitāi premera mālasāṭe
 Text 6 
 (torā dekhe jā're) 
 adwaitādi bhakta-bṛnda nāce ghāṭe ghāṭe
-palāya duranta kali por6iyā bibhrāṭe
+palāya duranta kali porḍiyā bibhrāṭe
 
-     tora - you; dekhe - look; jā're - whom; adwaitādi – headed by Advaita Acārya; bhakta-bṛnda - the devotees; nāce - dance;ghāṭe - at ghata; ghāṭe - after ghata; palāya - flees; duranta - ferocious;kali - Kali; por6iyā - falling; bibhrāṭe - into calamity.
+     tora - you; dekhe - look; jā're - whom; adwaitādi – headed by Advaita Acārya; bhakta-bṛnda - the devotees; nāce - dance;ghāṭe - at ghata; ghāṭe - after ghata; palāya - flees; duranta - ferocious;kali - Kali; porḍiyā - falling; bibhrāṭe - into calamity.
 
      (Everyone come and look!) Led by Advaita, the devotees dance at ghāṭa after ghāṭa. Finding himself in grave danger, ferocious Kali-yuga has fled far away.
 
@@ -1196,7 +1196,7 @@ O Lord who finds bliss in the holy names (Nāmānanda), O Lord who was a restles
 
 
 Text 4 
-bidyārthi-ur6upa caura-dwayera mohana
+bidyārthi-uḍupa caura-dwayera mohana
 tairthika-sarbaswa grāmya-bālikā-krīḍana
 
 O moon of scholars (Vidyārthi-uḍupa), O Lord who bewildered two thieves (Caura-dwayera mohana), O treasure of a pilgrim (Tairthika-sarvasva), O child who teased the village girls 
@@ -1271,9 +1271,9 @@ O lion of kīrtana in the city (Nagara-kīrtana-siṁha), O deliverer of the Kaz
 
 Text 14 
 nārāyaṇī-kṛpā-sindhu jībera niyantā
-adhama-par6uyā-daṇḍī bhaktadoṣa-hantā
+adhama-paḍuyā-daṇḍī bhaktadoṣa-hantā
 
-O Lord who was an ocean of mercy to Nārāyaṇī (Nārāyaṇī-kṛpā-sindhu), O master of all souls (Jībera niyantā), O Lord who punished the degraded students (adhama-par6uyā-daṇḍī), O 
+O Lord who was an ocean of mercy to Nārāyaṇī (Nārāyaṇī-kṛpā-sindhu), O master of all souls (Jībera niyantā), O Lord who punished the degraded students (adhama-paḍuyā-daṇḍī), O 
 Lord who removes the devotees' faults (Bhakta-doṣa-hantā)!
 
 Text 15 
@@ -1321,10 +1321,10 @@ O Lord delighted to see Alālanātha (Alāla-darśanānandī), O Lord who danced
 trāṇa), O deliverer of Devānanda (Devānanda-uddhāraka)!
 
 Text 21 
-kuliyā-prakāśe duṣṭa par6uyāra trāṇa
+kuliyā-prakāśe duṣṭa paḍuyāra trāṇa
 rūpa-sanātana-bandhu sarba-jība-prāṇa
 
-O Lord who, appearing in Kulīyā-grāma, delivered the wicked students (Kuliyā-prakāśe duṣṭa par6uyāra trāṇa), O friend of Rūpa and Sanātana Gosvāmīs (Rūpa-sanātana-bandhu), O life of all living entities (Sarva-jīva-prāṇa)!
+O Lord who, appearing in Kulīyā-grāma, delivered the wicked students (Kuliyā-prakāśe duṣṭa paḍuyāra trāṇa), O friend of Rūpa and Sanātana Gosvāmīs (Rūpa-sanātana-bandhu), O life of all living entities (Sarva-jīva-prāṇa)!
 
 
 
@@ -1353,8 +1353,8 @@ raghunātha-svarūpa-jīvana)!
 
 Text 25 
 nadīyā-nāgare nitāi nece' nece gāya re
-bhakatibinoda tā'ra par6e rāṅgā-pāya re
-     nadīyā-nāgare - in the twons of Nadīyā; nitāi - Lord Nityānanda; nece' - dancing; nece - and dancing;gāya - sang; re - O; bhakatibinoda - Bhaktivinoda; tā'ra - of Him; par6e - falls down; rāṅgā-pāya - at the reddishfeet; re - Oh.
+bhakatibinoda tā'ra paḍe rāṅgā-pāya re
+     nadīyā-nāgare - in the twons of Nadīyā; nitāi - Lord Nityānanda; nece' - dancing; nece - and dancing;gāya - sang; re - O; bhakatibinoda - Bhaktivinoda; tā'ra - of Him; paḍe - falls down; rāṅgā-pāya - at the reddishfeet; re - Oh.
      Dancing and dancing in Nadīyā's towns, Lord Nityānanda sang these names. Bhaktivinoda falls down before His reddish feet.
 
 
@@ -1741,7 +1741,7 @@ Text 2
 (ore) aparādha dūre jābe pā'be prema-dhana
 (o nāme aparādha-bicāra to nāi he)
 (takhon) kṛṣṇa-nāme ruci ha'be ghucibe bandhana
-     emon - this; doyāl - merciful; taḥ - that; nāi - not; he - O; māra - a beating; kheye - experiences; prema - love; deya - gives;ore - Oh; aparādha - offense; dūre - far away; jābe - goes; pā'be - will attain; prema - ofecstatic love; dhana - the trewasure; aḥ - and; nāme - in the name; aparādha - offense; bicāra - consideration; taḥ - of You;nāi - not; he - Oh takhon - then; kṛṣṇa-nāme - holy name of Lord Kṛṣṇa;ruci - love; ha'be - will be; ghucibe - will destroy; bandhana - bondage.
+     emon - this; doyāl - merciful; taḥ - that; nāi - not; he - O; māra - a beating; kheye - experiences; prema - love; deya - gives;ore - Oh; aparādha - offense; dūre - far away; jābe - goes; pā'be - will attain; prema - ofecstatic love; dhana - the trewasure; aḥ - and; nāme - in the name; aparādha - offense; bicāra - consideration; taḥ - of You;nāi - not; he - Oh; takhon - then; kṛṣṇa-nāme - holy name of Lord Kṛṣṇa;ruci - love; ha'be - will be; ghucibe - will destroy; bandhana - bondage.
      (O my heart, no one is merciful like Caitanya and Nityānanda. Even when attacked, They gave ecstatic spiritual love to Their attackers.) 
      (O heart,) soon your offenses will flee far away. Soon you will attain a great treasure of spiritual love. 
      (Caitanya and Nityānanda do not take offenses seriously.)
@@ -1753,7 +1753,7 @@ Text 3
 (kṛṣṇa-rati binā jībana to miche he)
 (śeṣe) bṛndābane rādhā-śyāmera pā'be daraśana 
 (gaura-kṛpā ha'le he)
-     kṛṣṇa - of Lord Kṛṣṇa; nāme - for the name;anurāga - love; taḥ - you; ha'be - will be; he - Oh; takhona - then;anāyāse - easily; sa-phala - successful; ha'be - will be; jībera - of the soul; jībana - the life;kṛṣṇa-rati - love for Lord Kṛṣṇa; binā - without; jībana - life;taḥ - you; miche - false; he - Oh; śeṣe - at the end; bṛndābane - inVṛndāvana; rādhā-śyāmera - of Śrī Śrī r-Kṛṣṇa; pā'be - you will attain; daraśana - thesight; gaura - of Lord Caitanya; kṛpā - the mercy; ha'le - will be; he - Oh!
+     kṛṣṇa - of Lord Kṛṣṇa; nāme - for the name;anurāga - love; taḥ - you; ha'be - will be; he - Oh; takhona - then;anāyāse - easily; sa-phala - successful; ha'be - will be; jībera - of the soul; jībana - the life;kṛṣṇa-rati - love for Lord Kṛṣṇa; binā - without; jībana - life;taḥ - you; miche - false; he - Oh; śeṣe - at the end; bṛndābane - in Vṛndāvana; rādhā-śyāmera - of Śrī Śrī Rādhā Kṛṣṇa; pā'be - you will attain; daraśana - thesight; gaura - of Lord Caitanya; kṛpā - the mercy; ha'le - will be; he - Oh!
      (O heart, you will fall in love with Kṛṣṇa's name.)
      (Then) you will easily attain the goal of life.
      (O heart, without love for Kṛṣṇa, life is false.)
@@ -1777,8 +1777,8 @@ hari-nāma aniyāche gauraṅga-nitāi re
 Text 2 
 hari-nāma binā jībera anya dhana nāi-re
 hari-nāme śuddha ha'lo jagāi-mādhāi re
-(bar6o pāpī chilo re)
-     hari-nāma - the holy name of Lord Hari; binā - without; jībera - of the soul; anya - another; dhana - wealth; nāi-re - isnot; hari-nāme - the holy name of Lord Hari; śuddha - pure; ha'laḥ - is; jagāi-mādhāi - Jagai and Madhai; re - ah!;bar6aḥ - great; pāpī - sinners; chilaḥ - were; re - Ah!
+(baḍo pāpī chilo re)
+     hari-nāma - the holy name of Lord Hari; binā - without; jībera - of the soul; anya - another; dhana - wealth; nāi-re - isnot; hari-nāme - the holy name of Lord Hari; śuddha - pure; ha'laḥ - is; jagāi-mādhāi - Jagai and Madhai; re - ah!;baḍaḥ - great; pāpī - sinners; chilaḥ - were; re - Ah!
      Ah! For the soul nothing is a precious treasure but the names of Lord Hari.
      Ah! The holy names of Lord Hari purified even Jagāi and Mādhāi.
      (Ah! They were great sinners.)
@@ -1798,10 +1798,10 @@ miche māyā-baddha ho'ye jībana kāṭāi re
 Text 4 
 hari bo'le deo bhāi āśāra mukhe chāi re
 (nirāśa to sukho re)
-bhoga-mokha-bāñchā cār6i' hari-nāma gāi re
+bhoga-mokha-bāñchā cārḍi' hari-nāma gāi re
 (śuddha-sattwa ho'ye re)
      hari - Hari; bole - chant; deaḥ - give; bhāi - O my brothers; āśāra - of material desires; mukhe - in the face; chāi - a pile of ashes; re - Oh; nirāśa - freedom from material desires;taḥ - that; 
-sukhaḥ - happiness; re - Oh; bhoga - for sense gratification; mokha - and liberation; bāñch - ṭhe desire;a -  cār6i' - renouncing; hari-nāma - the holynames of Lord Hari; gāi - I sing; re - Oh; śuddha - pure; sattwa - goodness; ho'ye - I am; re - Oh.
+sukhaḥ - happiness; re - Oh; bhoga - for sense gratification; mokha - and liberation; bāñcha - ṭhe desire; cārḍi' - renouncing; hari-nāma - the holynames of Lord Hari; gāi - I sing; re - Oh; śuddha - pure; sattwa - goodness; ho'ye - I am; re - Oh.
      Chant, "Hari!", O my brothers. Material desires are worthless like a pile of ashes.
      (Ah! Real happiness is freedom from material desires.)
      Ah! Turning away from desires for sense pleasure or impersonal liberation, I chant the names of Lord Hari.
@@ -1809,10 +1809,10 @@ sukhaḥ - happiness; re - Oh; bhoga - for sense gratification; mokha - and libe
 
 Text 5 
 nāceye-o nāmera guṇe o saba phala pāi re
-(tuccha phale prayāsa cher6e re)
+(tuccha phale prayāsa cheḍe re)
 binoda bole jāi lo'ye nāmera bālāi re
-(nāmera bālāi cher6e re)
-     nāceye-aḥ - I dance; nāmera - of the name; guṇe – the virtues; aḥ - and; saba - all; phala - results; pāi - I attain;re - Oh; tuccha - insignificant; phale - results; prayāsa - struggle; cher6e - I stop; re - Oh;binoda - Bhaktivinoda; bole - says; jai - I go; lo'ye - I take; nāmera - of the holyname; bālāi - obstacles; re - Oh; nāmera - of the name; bālāi - obstacles; cher6e - I renounce;re - Oh.
+(nāmera bālāi cheḍe re)
+     nāceye-aḥ - I dance; nāmera - of the name; guṇe – the virtues; aḥ - and; saba - all; phala - results; pāi - I attain;re - Oh; tuccha - insignificant; phale - results; prayāsa - struggle; cheḍe - I stop; re - Oh;binoda - Bhaktivinoda; bole - says; jai - I go; lo'ye - I take; nāmera - of the holyname; bālāi - obstacles; re - Oh; nāmera - of the name; bālāi - obstacles; cheḍe - I renounce;re - Oh.
      Ah! Inspired by the glory of the holy name, I dance. Now I attain all that is good.
      (Ah! I renounce the struggle to gain pathetic, worthless things.)
      Bhaktivinoda says: Ah! Now I remove all obstacles that stop the holy name.
@@ -1861,10 +1861,10 @@ Kṛṣṇa, chant, "Hari!" Chant!
 
 Text 4 
 bolo hari bolo (3 times)
-asat-saṅga chār6i' bhāi bolo hari bolo
+asat-saṅga chārḍi' bhāi bolo hari bolo
 bolo hari bolo (3 times)
-baiṣṇaba-caraṇe por6i' bolo hari bolo
-     asat-saṅga - bad association; chār6i' - shunning;bhāi - brothers; baiṣṇaba-caraṇe - feet of the Vaisnavas; por6i' - falling down.
+baiṣṇaba-caraṇe porḍi' bolo hari bolo
+     asat-saṅga - bad association; chārḍi' - shunning;bhāi - brothers; baiṣṇaba-caraṇe - feet of the Vaisnavas; porḍi' - falling down.
      Chant, "Hari!" Chant! (3 times)
      Shun the wicked, O my brothers, and chant, "Hari!" Chant!
      Chant, "Hari!" Chant! (3 times)
@@ -1891,7 +1891,7 @@ Text 1
 jādabāya mādhabāya keśabāya namaḥ
 gopāla gobinda rāma śrī-madhusūdana
 rādhā-gobinda bolo (4 times)
-     hare - Hari; haraye - to Lord Hari; namaḥ - obeisances;kṛṣṇa - Kṛṣṇa; jādabāya - to the descendent of King Yadu; namaḥ - obeisances; mādhabāya - to the husband of the goddess of fortune; keśabāya - to the master of Brahmā and Śiva; namaḥ - obeisances; gopāla - O protector of the cows; gobinda - O delight of the cows, land, and senses; rāma - O supreme enjoyer; śrī-madhusūdana - O killer of Madhu; rādhā-gobinda - O Śrī Śrī Rādhā-Kṛṣṇa; bolaḥ - chant.
+     hare - Hari; haraye - to Lord Hari; namaḥ - obeisances;kṛṣṇa - Kṛṣṇa; jādabāya - to the descendent of King Yadu; namaḥ - obeisances; mādhabāya - to the husband of the goddess of fortune; keśabāya - to the master of Brahmā and Śiva; namaḥ - obeisances; gopāla - O protector of the cows; gobinda - O delight of the cows, land, and senses; rāma - O supreme enjoyer; śrī-madhusūdana - O killer of Madhu; rādhā-gobinda - O Śrī Śrī Rādhā Kṛṣṇa; bolaḥ - chant.
      (Hari!) Obeisances to Lord Hari! Obeisances to Lord Kṛṣṇa, the descendent of Mahārāja Yadu! Obeisances to Lord Kṛṣṇa, who is the husband of the goddess of fortune, the master of Brahmā and Śiva, and the descendent of Mahārāja Yadu!      O Gopāla! O Govinda! O Rāma! O Śrī Madhusūdana!     Chant, "Rādhā-Govinda!" (4 times)
 
 Text 2 
@@ -1979,9 +1979,9 @@ Text 4
 caudda bhūbana māha      deba-nara-dānaba
 bhāga jākora balabāna
 nāma-rasa-pīyūṣa         pibo-i anukhaṇa
-chor6ata karama-geyāna
+choḍata karama-geyāna
      caudda - fourteen; bhūbana - worlds; māha - within; deba - demigods; nara - humans; dānaba - demons; bhāga - goodfortune; jākora - of whom; balabāna - powerful; nāma - of the name;rasa-
-pīyūṣa - nectar; pibo-i - drink; anukhaṇa - moment after moment; chor6ata - turning away; karama - from karma; geyāna - and jñāna.
+pīyūṣa - nectar; pibo-i - drink; anukhaṇa - moment after moment; choḍata - turning away; karama - from karma; geyāna - and jñāna.
      Turning away from karma (fruitive work) and jñāna (impersonal speculation), the most fortunate demigods, humans, and demons in the fourteen worlds drink the nectar of the holy  
 name moment after moment.
 
@@ -1997,9 +1997,9 @@ baiṭhata - staying; gā-owe - sing; nirantara - always; nāma - from the name;
 Text 6 
 sabu-rasa-ākara          hari iti dwy-akhara
 sabu-bhābe karoluṅ āśroya
-nāma caraṇe par6i         bhaktibinoda kohe
+nāma caraṇe parḍi         bhaktibinoda kohe
 tuyā pade māgohuṅ niloya
-     sabu - all; rasa - nectar; ākara - source; hari - Ha-ri; iti - thus; dwy - two; akhara - syllables; sabu - all;bhābe - love; karolun - I do; āśroya - shelter; nāma - the holy name; caraṇe - at the feet;par6i - I fall; bhaktibinoda - bhaktivinoda; kohe - says; tuyā - of You; pade - at the feet; māgohun - I beg; niloya - residence.
+     sabu - all; rasa - nectar; ākara - source; hari - Ha-ri; iti - thus; dwy - two; akhara - syllables; sabu - all;bhābe - love; karolun - I do; āśroya - shelter; nāma - the holy name; caraṇe - at the feet;parḍi - I fall; bhaktibinoda - bhaktivinoda; kohe - says; tuyā - of You; pade - at the feet; māgohun - I beg; niloya - residence.
 
      With all love I take shelter of the two syllables  Ha-ri", which are a spring from which all nectar flows. Falling at the feet of the holy name, Bhaktivinoda says, "I beg for a home at Your feet."
 
@@ -2047,8 +2047,8 @@ Text 5
 taba swalpa-sphūrti pāya      ugra-tāpa dūre jāya
 liṅga-bhaṅga hoya anāyāse
 bhakatibinoda koya       jaya hari-nāma joya
-par6e thāki tuyā pada āse
-     taba - of You; swalpa - very slight; sphūrti - manifestation; pāya - attaining; ugra - horrible; tāpa - sufferings; dūre - faraway; jāya - go; liṅga - subtle body; bhaṅga - breaking; hoya - is; anāyāse - easily; bhakatibinoda - Bhaktivinoda; koya - is; jaya - glory; harināma - O holy name of Lord Hari; joya - glory; par6e - I fall; thāki - I stay; tuyā - of You; pada - at the feet; āse - go.
+paḍe thāki tuyā pada āse
+     taba - of You; swalpa - very slight; sphūrti - manifestation; pāya - attaining; ugra - horrible; tāpa - sufferings; dūre - faraway; jāya - go; liṅga - subtle body; bhaṅga - breaking; hoya - is; anāyāse - easily; bhakatibinoda - Bhaktivinoda; koya - is; jaya - glory; harināma - O holy name of Lord Hari; joya - glory; paḍe - I fall; thāki - I stay; tuyā - of You; pada - at the feet; āse - go.
      When You are even only slightly manifest, the most horrible sufferings flee far away, and the subtle body, which keeps the soul bound in the material world, is easily broken. Bhaktivinoda 
 says, "O holy name of Lord Hari, glory to You! Glory to You!" I approach Your feet and bows down before them. There I stay.
 
@@ -2062,10 +2062,10 @@ Song 3
 Text 1
 biśwe udita         nāma-tapana
 abidyā-bināśa lāgi'
-chor6ata saba        māyā-bibhaba
+choḍata saba        māyā-bibhaba
 sādhu tāhe anurāgī
 
-     biśwe - in the world; udita - risen; nāma - of the holy name; tapana - the sun; abidyā - ignroance;bināśa - destruction; lāgi' - accepting; chor6ata - abandoning; saba-all; māyā - of Māyā; bibhaba - power; sādhu - devotee; tāhe - in Him; anurāgī - love.
+     biśwe - in the world; udita - risen; nāma - of the holy name; tapana - the sun; abidyā - ignroance;bināśa - destruction; lāgi' - accepting; choḍata - abandoning; saba-all; māyā - of Māyā; bibhaba - power; sādhu - devotee; tāhe - in Him; anurāgī - love.
 
      Rising in this world, the sun of the holy name destroys all ignorance. Turning from māyā's glories, the saintly devotees fall in love with the holy name.
 
@@ -2218,11 +2218,11 @@ rādhā-bhajana-sukha-śālī
 
 Text 6
 ity-ādika nāma      swarūpe prakāma
-bār6uka mora rati rāge
+bāḍuka mora rati rāge
 rūpa-swarūpa-pada        jāni' nija-sampada
 bhaktibinoda dhori' māge
 
-     ity - yhus; ādika - beginning; nāma - names; swarūpe - original form; prakāma - enough; bār6uka - mayincrease; mora - my; rati - love; rāge - with love; rūpa-swarūpa-pada - at the feet of Śrīla Rūpa Gosvāmī and Śrīla Svarūpa Dāmodara Gosvāmī; jāni' - knowing; nijasampada - own good fortune; bhaktibinoda - Bhaktivinoda; dhori' - grasping; māge - begs.
+     ity - yhus; ādika - beginning; nāma - names; swarūpe - original form; prakāma - enough; bāḍuka - mayincrease; mora - my; rati - love; rāge - with love; rūpa-swarūpa-pada - at the feet of Śrīla Rūpa Gosvāmī and Śrīla Svarūpa Dāmodara Gosvāmī; jāni' - knowing; nijasampada - own good fortune; bhaktibinoda - Bhaktivinoda; dhori' - grasping; māge - begs.
 
      Fully aware of what is for his own benefit, Bhaktivinoda grasps the feet of Śrīla Rūpa Gosvāmī and Śrīla Svarūpa Dāmodara Gosvāmī and begs, "I pray that I may fall more and more 
 deeply in love with these holy names of the Lord."
@@ -2326,17 +2326,17 @@ taba pade nati āmi kori bāra bāra
 
 Text 2 
 gokulera mahotsaba ānanda-sāgora
-tomāra caraṇe par6i hoiyā katora
+tomāra caraṇe parḍi hoiyā katora
 
-     gokulera - of Gokula; mahotsaba - great festival of bliss; ānanda-sāgora - ocean of bliss; tomāra - of You; caraṇe - at thefeet; par6i - I fall; hoiyā - being; katora - unhappy.
+     gokulera - of Gokula; mahotsaba - great festival of bliss; ānanda-sāgora - ocean of bliss; tomāra - of You; caraṇe - at thefeet; parḍi - I fall; hoiyā - being; katora - unhappy.
 
      O festival of Gokula, O ocean of bliss, I, who am very unhappy, fall down before Your feet.
 
 Text 3 
 tumi kṛṣṇa pūrṇa-bapu rasera nidāna
-taba pade por6i' taba guṇa kori gāna
+taba pade porḍi' taba guṇa kori gāna
 
-     tumi - You; kṛṣṇa - of Lord Kṛṣṇa; pūrṇa-bapu - the full form; rasera - of nectar; nidāna - the origin; taba - of You; pade - atthe feet; por6i' - falling; taba - of You; guṇa - the virtues; kori - I do; gāna - songs.
+     tumi - You; kṛṣṇa - of Lord Kṛṣṇa; pūrṇa-bapu - the full form; rasera - of nectar; nidāna - the origin; taba - of You; pade - atthe feet; porḍi' - falling; taba - of You; guṇa - the virtues; kori - I do; gāna - songs.
 
      You are Lord Kṛṣṇa Himself. You are His form in all fullness. You are the spring from which streams of nectar flow. Falling down before Your feet, I sing of Your glories.
 
@@ -2469,9 +2469,9 @@ nirupādhi kṛṣṇa-preme hṛdoye deho āśroya
 Song 2
 
 Text 1
-āra keno māyā-jāle par6itecho jība-mīna
+āra keno māyā-jāle parḍitecho jība-mīna
 nāhi jāno baddha ho'ye ro'be tumi cira-dina
-     āra - and; kenaḥ - why?; māyā - of Maya; jāle - in thenet; par6itechaḥ - fallen; jība - of the soul; mīna - fish;nāhi - not; jānaḥ - know; baddha - bound; ho'ye - is; ro'be - will stay; tumi - you; cira-dina - for a long time.
+     āra - and; kenaḥ - why?; māyā - of Maya; jāle - in thenet; parḍitechaḥ - fallen; jība - of the soul; mīna - fish;nāhi - not; jānaḥ - know; baddha - bound; ho'ye - is; ro'be - will stay; tumi - you; cira-dina - for a long time.
      O jīva, why have you become like a fish fallen into Māyā's net? You do not know that you will be trapped in that net for a very long time.
 
 Text 2 
@@ -2483,7 +2483,7 @@ rohile bikṛta-bhābe daṇḍya jathā parādhīna
 Text 3 
 ekhona bhakati-bale kṛṣṇa-prema-sindhu-jale
 krīḍā kori' anāyāse thāko tumi kṛṣṇādhīna
-     ekhona - one; bhakati - of devotional service; bale - by the power; kṛṣṇa-prema - of love for Lord Kṛṣṇa; sindhu - of theocean; jale - in the water; krīḍā - playing; kori' - doing; anāyāse - easily; thākaḥ - stay; tumi - you; kṛṣṇaon LordKṛṣṇa; adhīna - dependent.
+     ekhona - one; bhakati - of devotional service; bale - by the power; kṛṣṇa-prema - of love for Lord Kṛṣṇa; sindhu - of theocean; jale - in the water; krīḍā - playing; kori' - doing; anāyāse - easily; thākaḥ - stay; tumi - you; kṛṣṇa - on Lord Kṛṣṇa; adhīna - dependent.
      By the power of devotional service, you will be set free. Playing in the ocean of love for Kṛṣṇa, you will take shelter of Kṛṣṇa and be His servant.
 
 
@@ -2557,9 +2557,9 @@ bhajanera liṅga nānā nānā deśe nānā jane
      Why do you dislike the way foreigners worship the Lord? Different people in different countries have different ways of worship.
 
 Text 2 
-keho mukta-kacche bhaje keho hāṭu gār6i' pūje
+keho mukta-kacche bhaje keho hāṭu gārḍi' pūje
 keho ba nayana mudi' thāke brahma-arādhāne
-     kehaḥ - some; mukta-kacche - Buddhists; bhaje - worship;kehaḥ - some; hāṭu - knees; gār6i' - bowing; pūje - worship;kehaḥ - some; ba - or; nayana - eyes; mudi' - closing; thāke - stay; brahma-arādhāne - worshiping Brahman.
+     kehaḥ - some; mukta-kacche - Buddhists; bhaje - worship;kehaḥ - some; hāṭu - knees; gārḍi' - bowing; pūje - worship;kehaḥ - some; ba - or; nayana - eyes; mudi' - closing; thāke - stay; brahma-arādhāne - worshiping Brahman.
      Some worship as Buddhists. Others kneel down when they worship. Others close their eyes and worship the impersonal Brahman.
 
 Text 3 
@@ -2585,15 +2585,15 @@ Song 6
 Text 1
 bhaja re bhaja re āmāra mana ati manda
 (bhajana binā gati nāi re)
-(bhaja) braja-bane rādhā-kṛṣṇa-caraṇārabinda
+(bhaja) braja-bane Rādhā Kṛṣṇa-caraṇārabinda
 (jñāna-karma parihari' re) 
-(bhaja) (braja-bane rādhā-kṛṣṇa)
-     bhaja - worship; re - O; āmāra - my; mana - mind;ati - very; manda - slow; bhajana - worship; binā - without;gati - destination; nāi - not; re - O; bhaja - worship; braja-bane - the forests of Vraja;rādhā-kṛṣṇa-caraṇārabinda - the lotus feet of Śrī Śrī Rādhā-Kṛṣṇa;jñāna-karma - jnana and karma; parihari' - renouncing.
+(bhaja) (braja-bane Rādhā Kṛṣṇa)
+     bhaja - worship; re - O; āmāra - my; mana - mind;ati - very; manda - slow; bhajana - worship; binā - without;gati - destination; nāi - not; re - O; bhaja - worship; braja-bane - the forests of Vraja;Rādhā Kṛṣṇa-caraṇārabinda - the lotus feet of Śrī Śrī Rādhā Kṛṣṇa;jñāna-karma - jnana and karma; parihari' - renouncing.
      Worship! Worship, O my slow mind!
      (Without worshiping the Lord, you will not attain the goal of life.)
-     (Worship) the lotus feet of Śrī Śrī Rādhā-Kṛṣṇa in the forests of Vraja!
+     (Worship) the lotus feet of Śrī Śrī Rādhā Kṛṣṇa in the forests of Vraja!
      (Ah! Renounce jñāna and karma.)
-     (Worship) (Śrī Śrī Rādhā-Kṛṣṇa in the forests of Vraja) 
+     (Worship) (Śrī Śrī Rādhā Kṛṣṇa in the forests of Vraja) 
 
 Text 2 
 (bhaja) gaura-gadādharādwaita guru-nityānanda
@@ -2603,7 +2603,7 @@ Text 2
 (gaura-preme smara smara re)
 (smara) (gaura-preme smara smara re)
 (smara) (śrīnibāsa-haridāse)
-     bhaja - worship; gaura-gadādharādwaita - Kaṁsa, Gadādahara, and Advaita; guru-nityānanda - Guru Nityānanda; (gaura-kṛṣṇe - Gaura-Kṛṣṇa; abheda - not different; jene' - know; re) - O; (guru-kṛṣṇapreṣṭha - dear to guru and Kṛṣṇa; jene' - know; re) - O;(smara) - remember; śrīnibāsa - Śrīvasa; haridāsa - Haridasa; murāri - Murari; mukunda - Mukunda; gaura-preme - with love for LordCaitanya; smara - remember.
+     bhaja - worship; gaura-gadādharādwaita - Kaṁsa, Gadādahara, and Advaita; guru-nityānanda - Guru Nityānanda; (gaura-kṛṣṇe - Gaura Kṛṣṇa; abheda - not different; jene' - know; re) - O; (guru-kṛṣṇapreṣṭha - dear to guru and Kṛṣṇa; jene' - know; re) - O;(smara) - remember; śrīnibāsa - Śrīvasa; haridāsa - Haridasa; murāri - Murari; mukunda - Mukunda; gaura-preme - with love for LordCaitanya; smara - remember.
      (Worship) Lord Caitanya, Lord Nityānanda, Lord Advaita, and Lord Gadādhara.
      (Know that Lord Caitanya is not different from Lord Kṛṣṇa.)
      (Know that the spiritual master is most dear to Lord Kṛṣṇa.)
@@ -2618,7 +2618,7 @@ Text 3
 (smara) rāghaba-gopāla-bhaṭṭa-swarūpa-rāmānanda
 (kṛṣṇa-prema jadi cāo re)
 (swarūpa-rāmānande smara)
-     smara - remember; rūpa-sanātana-jība-raghunātha-dwandwa - Rūpa, Sanātana, Jīva, the two Raghunāthas; kṛṣṇa-bhajana - worship of Lord Kṛṣṇa; jadi - of; korbe - you will do; re - Oh; smara - remember;rāghaba-gopāla-bhaṭṭa-swarūpa-rāmānanda - Rāghava-, Gopāla Bhaṭṭa, Svarūpa, and Rāmānanda; kṛṣṇa-prema - love for Lord Kṛṣṇa; jadi - if; cāaḥ - youdesire; re) - Oh.
+     smara - remember; rūpa-sanātana-jība-raghunātha-dwandwa - Rūpa, Sanātana, Jīva, the two Raghunāthas; kṛṣṇa-bhajana - worship of Lord Kṛṣṇa; jadi - of; korbe - you will do; re - Oh; smara - remember;rāghaba-gopāla-bhaṭṭa-swarūpa-rāmānanda - Rāghava, Gopāla Bhaṭṭa, Svarūpa, and Rāmānanda; kṛṣṇa-prema - love for Lord Kṛṣṇa; jadi - if; cāaḥ - youdesire; re) - Oh.
      (Remember) Rūpa Gosvāmī, Sanātana Gosvāmī, Jīva Gosvāmī, and the two Raghunāthas
      (if you wish to worship Lord Kṛṣṇa.)
      (Remember Rūpa and Sanātana.)
@@ -2633,7 +2633,7 @@ Text 4
 (smara) rūpānuga sādhu-jana bhajana-ānanda
 (braje bāsa jadi cāo re)
 rūpānuga sadhu smara)
-     smara - remember; goṣṭhi-saha - with his associates; karṇapūra - Kavi-karnapura; sena śibānanda - Śivananda Sena; ajasra - always; smara - remember; rūpānuga - the followers of Rupa Gosvami; sādhu-jana - saintly devotees; bhajana-ānanda - the bliss of devotional service; (braje - in Vraja; bāsa - residence; jadi - if;cāaḥ - you desire.
+     smara - remember; goṣṭhi-saha - with his associates; karṇapūra - Kavi karnapura; sena śibānanda - Śivananda Sena; ajasra - always; smara - remember; rūpānuga - the followers of Rupa Gosvami; sādhu-jana - saintly devotees; bhajana-ānanda - the bliss of devotional service; (braje - in Vraja; bāsa - residence; jadi - if;cāaḥ - you desire.
      (Remember Kavi-karṇapūra, Śivānanda Sena, and their associates.
      (Always remember them. Remember them.)
      (Kavi-karṇapūra and his associates.)
@@ -2673,14 +2673,14 @@ ghireche tomāre bhāi e saba ariṣṭa
 Text 3 
 
 
-e saba na cher6e kise pā'be rādhā-kṛṣṇa
-(jatane chār6o chār6o he)
+e saba na cheḍe kise pā'be Rādhā Kṛṣṇa
+(jatane chāḍo chāḍo he)
 sādhu-saṅga binā āra kothā taba iṣṭa
 (sādhu-saṅga koro koro he)
 baiṣṇaba-caraṇa maja ghucibe aniṣṭa
 (eka-bāra bhebe' dekho he)
-     e - these; saba - all; na - not; cher6e - renounce;kise - how?; pā'be - you will attain; rādhā-kṛṣṇa - Rādhā-Kṛṣṇa; jatane - with agreat effort; chār6aḥ - renounce; he - Oh; sādhu-saṅga - theassociation of devotees; binā - without; āra - or; kothā - where?;taba - of you; iṣṭa - desired; sādhu-saṅga - association of devotees; koraḥ - do; he - Oh; baiṣṇaba-caraṇa - the feet of the Vaiṣnavas; maja - dive; ghucibe - will destroy; aniṣṭa - not desired;eka - one; bāra - one; bhebe' - think; dekhaḥ - see; he - Oh.
-     If you do not turn from all these, how will you attain Śrī Śrī Rādhā-Kṛṣṇa?
+     e - these; saba - all; na - not; cheḍe - renounce;kise - how?; pā'be - you will attain; Rādhā Kṛṣṇa - Rādhā Kṛṣṇa; jatane - with agreat effort; chāḍaḥ - renounce; he - Oh; sādhu-saṅga - theassociation of devotees; binā - without; āra - or; kothā - where?;taba - of you; iṣṭa - desired; sādhu-saṅga - association of devotees; koraḥ - do; he - Oh; baiṣṇaba-caraṇa - the feet of the Vaiṣnavas; maja - dive; ghucibe - will destroy; aniṣṭa - not desired;eka - one; bāra - one; bhebe' - think; dekhaḥ - see; he - Oh.
+     If you do not turn from all these, how will you attain Śrī Śrī Rādhā Kṛṣṇa?
      (Struggle to give them up! Give them  up!)
      Without associating with devotees, how will you attain your desire?
      (Associate with devotees! Associate with them!)
@@ -2723,8 +2723,8 @@ labhibe bujhoha eka-mane
 Text 3 
 rādhikā ujjwala-raser ācārja
 rādhā-mādhaba-śuddha-prema bicārja
-     rādhikā - Śrī Rādhā; ujjwala - splendid; raseḥ - of the rasa; ācārja - the ācārya; rādhā-mādhaba - Śrī Śrī Rādhā-Kṛṣṇa; śuddha - pure; prema - love; bicārja - to be considered.
-     Śrī Rādhā is the teacher of ujjvala-rasa. Now we will consider the topic of pure love for Śrī Śrī Rādhā-Kṛṣṇa.
+     rādhikā - Śrī Rādhā; ujjwala - splendid; raseḥ - of the rasa; ācārja - the ācārya; rādhā-mādhaba - Śrī Śrī Rādhā Kṛṣṇa; śuddha - pure; prema - love; bicārja - to be considered.
+     Śrī Rādhā is the teacher of ujjvala-rasa. Now we will consider the topic of pure love for Śrī Śrī Rādhā Kṛṣṇa.
 
 
 
@@ -2794,7 +2794,7 @@ latā chāri' nāhi rahe kono kāla
 Text 6 
 tamāla chāriyā latā nāhi bāñche
 se latā milana sadā-kāla jāce
-     tamāla - the tamala tree; chār6iyā - leaving; latā - thevine; nāhi - not; bāñche - desires; se - that; latā - vine;milana - meeting; sadā-kāla - always; jāce - requests.
+     tamāla - the tamala tree; chārḍiyā - leaving; latā - thevine; nāhi - not; bāñche - desires; se - that; latā - vine;milana - meeting; sadā-kāla - always; jāce - requests.
      That vine never desires to leave the tamāla tree. The vine always prays to stay with that tree.
 
 Text 7 
@@ -3196,9 +3196,9 @@ adbhuta rasa tuyā pūrāobo āśā
      Material thirst will no longer stay on your tongue. This wonderful nectar will fulfill all your desires.
 
 Text 6 dāsa-raghunātha-pade bhaktibinoda
-jāco-i rādhā-kṛṣṇa-nāma pramoda
-     dāsa-raghunātha-pade - at the feet of Raghunatha dasa Gosvami; bhaktibinoda - Bhaktivinoda; jāco-i - begs; rādhākṛṣṇa - of Śrī Śrī Rādhā-Kṛṣṇa; nāma - names; pramoda - bliss.
-     At Śrīla Raghunātha dāsa Gosvāmī's feet Bhaktivinoda begs for the bliss of Śrī Śrī Rādhā-Kṛṣṇa's holy names.
+jāco-i Rādhā Kṛṣṇa-nāma pramoda
+     dāsa-raghunātha-pade - at the feet of Raghunatha dasa Gosvami; bhaktibinoda - Bhaktivinoda; jāco-i - begs; rādhākṛṣṇa - of Śrī Śrī Rādhā Kṛṣṇa; nāma - names; pramoda - bliss.
+     At Śrīla Raghunātha dāsa Gosvāmī's feet Bhaktivinoda begs for the bliss of Śrī Śrī Rādhā Kṛṣṇa's holy names.
 
 
 
@@ -3304,8 +3304,8 @@ parama jatane taṅhi labha adhikāra
      If you make a great effort in your heart to chant Lord Kṛṣṇa's holy name, then you will become qualified to chant.
 
 Text 2 tṛṇādhika hīna dīna akiñcana chāra
-āpane mānobi sadā chār6i' ahaṅkāra
-     tṛṇa - a blade of grass; adhika - more;hīna - insignificant; dīna - low; akiñcana - without anything; chāra - ashes;āpane - own; mānobi - you will think; sadā - always; chār6i' - renouncing; ahaṅkāra - false ego.
+āpane mānobi sadā chārḍi' ahaṅkāra
+     tṛṇa - a blade of grass; adhika - more;hīna - insignificant; dīna - low; akiñcana - without anything; chāra - ashes;āpane - own; mānobi - you will think; sadā - always; chārḍi' - renouncing; ahaṅkāra - false ego.
      Then You will turn away from false ego. Then you will think yourself more fallen and lowly than a blade of grass, less important than a pile of ashes.
 
 Text 3 bṛkha-sama khamā-guṇa korbi sādhana
@@ -3321,8 +3321,8 @@ sukha - own happiness; pāśaribe - you will forget.
      In the course of your life you will never give trouble to others. Forgetting your own happiness, you will help others.
 
 Text 5 hoile-o sarba-guṇe guṇī mahāśoya
-prathiṣṭhāśā chār6i' koro amānī hṛdoya
-     hoile-aḥ - is; sarba-guṇe - all virtues; guṇī - virtuous; mahāśoya - saintly; prathiṣṭhā - for fame; āśā - the desire; chār6i' - renoincing; koraḥ - do; amānī - humble;hṛdoya - heart.
+prathiṣṭhāśā chārḍi' koro amānī hṛdoya
+     hoile-aḥ - is; sarba-guṇe - all virtues; guṇī - virtuous; mahāśoya - saintly; prathiṣṭhā - for fame; āśā - the desire; chārḍi' - renoincing; koraḥ - do; amānī - humble;hṛdoya - heart.
      Then you will become saintly. You will have all virtues. Turning from the desire for fame, you will be humble.
 
 Text 6 kṛṣṇa-adhiṣṭhāna sarba-jībe jāni' sadā
@@ -3394,19 +3394,19 @@ Song 5
 (Choṭa Daśakuśī)
 
 Text 1
-anādi karama-phale       por6i bhabārṇaba-jale
+anādi karama-phale       porḍi bhabārṇaba-jale
 toribaṛe na dekhi upāya
 e-biṣaya-halāhale        dibā-niśi hiyā jwale
 mana kabhu sukha nāhi pāya
-     anādi - beginningless; karama - of karma; phale - fruit; por6i - falling; bhaba - of birth and death; arṇaba - of the ocean; jale - in the water; toribaṛe - to cross over; na - not; dekhi - I see; upāya - a way; e-biṣaya - of material senseobjects; halāhale - poison; dibā - day; niśi - and night; hiyā - the heart; jwale - burns; mana - mind; kabhu - when; sukha - happiness; nāhi - not;pāya - attains.
+     anādi - beginningless; karama - of karma; phale - fruit; porḍi - falling; bhaba - of birth and death; arṇaba - of the ocean; jale - in the water; toribaṛe - to cross over; na - not; dekhi - I see; upāya - a way; e-biṣaya - of material senseobjects; halāhale - poison; dibā - day; niśi - and night; hiyā - the heart; jwale - burns; mana - mind; kabhu - when; sukha - happiness; nāhi - not;pāya - attains.
      Due to my past fruitive activities I have fallen into this ocean of nescience and I do not see any means of getting out of this great ocean. It is just like an ocean of poison. As soon as one takes some pungent food, it burns the heart. Similarly, as we try to be happy by sense enjoyment, it becomes the opposite -  3}the cause of burning the heart. That burning sensation goes on twenty-four hours, day and night, and on account of this my mind is not at all in satisfaction. I am always making plans -  3}by the hundreds and thousands -  3}how I will be happy, but actually all of this gives me only trouble, day and night, for twenty-four hours.*
 
 Text 2 āśā-pāśa-śata-śata       kleśa deya abirata
 prabṛtti-ūrmira tāhe khelā
-kāma-krodha-ādi choya         bāṭapār6e deya bhoya
+kāma-krodha-ādi choya         bāṭapāḍe deya bhoya
 abasāna hoilo āsi' belā
      āśā - of desires; pāśa - ropes; śata-śata - hund4reds and hundreds; kleśa - troubles; deya - given; abirata - withoutstop; prabṛtti - action; ūrmira - waves; tāhe - in that; khelā - playing; kāma-krodha
-ādi - beginning with lust and anger; choya - six; bāṭapār6e - thieves; deya - given; bhoya - fear; abasāna - opportunity;hoilaḥ - is; āsi' - taking; belā - was.
+ādi - beginning with lust and anger; choya - six; bāṭapāḍe - thieves; deya - given; bhoya - fear; abasāna - opportunity;hoilaḥ - is; āsi' - taking; belā - was.
      It is exactly like the waves of the ocean always passing one another. That is my position. Besides that there are so many thieves and rogues. Especially they are six in number: lust, anger, envy, and illusion. In so many ways they are always present, and I am afraid of them.*
 
 Text 3 jñāna-karma ṭhuga dui        more pratāriyā loi
@@ -3434,8 +3434,8 @@ Text 1
 aparādha-phale mama      citta bhelo bajra-sama
 tuyā nāme na labhe bikāra
 hatāśa hoiye hari        taba nāma ucca kori'
-bor6o duḥkhe ḍāki bāra bāra
-     aparādha - of offenses; phale - by the fruits; mama - of me; citta - heart; bhelaḥ - was; bajra - thunderbolt; sama - like; tuyā - of You; nāme - in the name; na - not; labhe - attained; bikāra - ecstasy; hata - destroyed;āśa - hopes; hoiye - is; hari - O Kṛṣṇa; taba - of You; nāma - name;ucca - loud; kori' - doing; bor6aḥ - did; duḥkhe - suffering; ḍāki - I call out;bāra - again; bāra - and again.
+boḍo duḥkhe ḍāki bāra bāra
+     aparādha - of offenses; phale - by the fruits; mama - of me; citta - heart; bhelaḥ - was; bajra - thunderbolt; sama - like; tuyā - of You; nāme - in the name; na - not; labhe - attained; bikāra - ecstasy; hata - destroyed;āśa - hopes; hoiye - is; hari - O Kṛṣṇa; taba - of You; nāma - name;ucca - loud; kori' - doing; boḍaḥ - did; duḥkhe - suffering; ḍāki - I call out;bāra - again; bāra - and again.
      Because of my past offenses, my heart became like a thunderbolt. I had no ecstatic love for Your holy name. Now my hopes are all destroyed. In great distress I call Your name again and again.    
 Text 2 dīna doyāmoya koruṇā-nidāna
 bhāba-bindhu dei rākhoha parāṇa
@@ -3523,9 +3523,9 @@ rādhā-nāthe - the Lord of Rādhā; bhakatibinoda- - of Bhaktivinoda; minati -
 Text 8 
 
 śrī-kṛṣṇa-biroha āra sahite nā pāri
-parāṇa chār6ite āra dina dui cāri
+parāṇa chārḍite āra dina dui cāri
      śrī-kṛṣṇa-biroha - separation from Lord Kṛṣṇa; āra - or;
-sahite - to tolerate; nā - not; pāri - I am able;parāṇa - life; chār6ite - to leave; āra - and; dina - days; dui - two; cāri - or four.
+sahite - to tolerate; nā - not; pāri - I am able;parāṇa - life; chārḍite - to leave; āra - and; dina - days; dui - two; cāri - or four.
      I have no power to bear this separation from Lord Kṛṣṇa. In two or four days I will give up this life.
 (Daśakuśī) Text 9
 gāite gobinda-nāma       upajilo bhāba-grāma
@@ -3655,16 +3655,16 @@ sakala samāna bāsi
 dāsī - the maidservant of Their feet; milane - in meeting;ānanda - bliss; birohe - in separation; jātanā - torment; sakala - always; samāna - the same; bāsi - I stay.
      I am always the maidservant at Their feet. The joy of meeting Them and the agony of separation from Them are all the same to me.
 
-Text 6 rādhā-kṛṣṇa prāṇa mora jībane maraṇe
+Text 6 Rādhā Kṛṣṇa prāṇa mora jībane maraṇe
 more rākhi' māri' sukhe thākuka du' jane
-     rādhā-kṛṣṇa - Rādhā-Kṛṣṇa; prāṇa - life; mora - ofme; jībane - in life; maraṇe - in death; more - to me; rākhi' - protecting; māri' - killing; sukhe - in happiness; thākuka - may stay;du' - two; jane - persons.
+     Rādhā Kṛṣṇa - Rādhā Kṛṣṇa; prāṇa - life; mora - ofme; jībane - in life; maraṇe - in death; more - to me; rākhi' - protecting; māri' - killing; sukhe - in happiness; thākuka - may stay;du' - two; jane - persons.
      Rādhā and Kṛṣṇa are my life. Whether I live or die, whether They save me or kill me, I pray They will always be happy.
 
 Text 7 bhakatibinoda       āna nāhi jane
-por6i nija-sakhī pāya
+porḍi nija-sakhī pāya
 rādhikāra gaṇe      thākiyā satata
 jugala-caraṇa cāya
-     bhakatibinoda - Bhaktivinoda; āna - another; nāhi - not; jane - knows; por6i - I fall; nija-sakhī - own friend;pāya - attaining; rādhikāra - of Rādhā; gaṇe - in the group; thākiyā - staying; satata - always; jugala - of the divine couple; caraṇa - the feet; cāya - desires.
+     bhakatibinoda - Bhaktivinoda; āna - another; nāhi - not; jane - knows; porḍi - I fall; nija-sakhī - own friend;pāya - attaining; rādhikāra - of Rādhā; gaṇe - in the group; thākiyā - staying; satata - always; jugala - of the divine couple; caraṇa - the feet; cāya - desires.
      Bhaktivinoda knows nothing but Them. Falling down before them, she joins the sakhīs. Always staying in Rādhā's group, she desires only the feet of the divine couple.
 
 
@@ -3681,7 +3681,7 @@ yadi te hari-pāda-saroja-sudhā-
 parihṛtya gṛhaṁ kali-bhāva-mayaṁ
      bhaja godruma-kānana-kuñja-vidhum
 
-     yadi - if; te - of you; hari-pāda-saroja-sudhā - the nectar ofLord Kṛṣṇa's lotus feet; rasa - nectar; pāna - drinking;paraṁ - intent; hṛdayaṁ - heart; satatam - always; parihṛtya - renouncing; gṛhaṁ - home; kali-bhāva-mayaṁ - consisting of Kali-yuga; bhaja - worship; godruma - of Godruma; kānana - of the forests; kuñja - in the groves; vidhum - the moon.
+     yadi - if; te - of you; hari-pāda-saroja-sudhā - the nectar ofLord Kṛṣṇa's lotus feet; rasa - nectar; pāna - drinking;paraṁ - intent; hṛdayaṁ - heart; satatam - always; parihṛtya - renouncing; gṛhaṁ - home; kali-bhāva-mayaṁ - consisting of Kali yuga; bhaja - worship; godruma - of Godruma; kānana - of the forests; kuñja - in the groves; vidhum - the moon.
 
      O friend, if you desire to drink the nectarean beverage of service to the lotus feet of Lord Hari, and if your home has become a fortress for the age of quarrel and an impediment to your devotional service, then just give up such a home and worship Lord Caitanya, who is like a moon shining in the groves of Godruma forest.
 
@@ -3714,7 +3714,7 @@ jaḍa-kavya-raso na hi kavya-rasaḥ
 alam anya-kathādy anuśīlanayā
      bhaja godruma-kānana-kuñja-vidhum
 
-     jaḍa - material and dull; kavya - poetry; raso - nectar;na - not; hi - indeed; kavya-rasaḥ - nectar poetry; kali - Kali-yuga; pāvana - purifying; gaura - of Lord Caitanya; raso - nectar; hi - indeed; rasaḥ - nectar; alam - greatly; anya - other;kathā - talks; ady - beginning with; anuśīlanayā - following.
+     jaḍa - material and dull; kavya - poetry; raso - nectar;na - not; hi - indeed; kavya-rasaḥ - nectar poetry; kali - Kali yuga; pāvana - purifying; gaura - of Lord Caitanya; raso - nectar; hi - indeed; rasaḥ - nectar; alam - greatly; anya - other;kathā - talks; ady - beginning with; anuśīlanayā - following.
 
      So-called nectarean poetry describing dull material topics is not at all sweet. The actual nectar is in the glorification of Lord Caitanya, the purifier of Kali-yuga. What is the use of studying these dull, material poems? Just give them up and worship Lord Caitanya, who is like a moon shining in the groves of Godruma forest.
 
@@ -3736,7 +3736,7 @@ hari-kīrtana-madhya-gataṁ sva-janaiḥ
 nija-gauḍa-janaika-kṛpā-jaladhiṁ
      bhaja godruma-kānana-kuñja-vidhum
 
-     hari-kīrtana - in the chanting of Lord Kṛṣṇa;s holy names; madhya - in the middle; gataṁ - gone; sva-janaiḥ - with Hisdevotees; pariveṣṭita - surrounded; jāmbunada - golden; ābha - splendor; harim - Kṛṣṇa;nija - own; gauḍa - of West Bengal; jana - people; eka - one; kṛpā - mercy;jaladhiṁ - ocean.
+     hari-kīrtana - in the chanting of Lord Kṛṣṇa's holy names; madhya - in the middle; gataṁ - gone; sva-janaiḥ - with His devotees; pariveṣṭita - surrounded; jāmbunada - golden; ābha - splendor; harim - Kṛṣṇa;nija - own; gauḍa - of West Bengal; jana - people; eka - one; kṛpā - mercy;jaladhiṁ - ocean.
 
      Surrounded by His own associates, Lord Caitanya chanted the holy names of Lord Hari and became the exclusive ocean of mercy spreading love of God to the residents of Bengal. Just worship that Lord Caitanya, who is like a moon shining in the groves of Godruma forest.
 
@@ -3758,8 +3758,7 @@ kali-kukkura-mudgara-bhāva-dharaṁ
 patitārta-dayārdra-su-mūrti-dharaṁ
      bhaja godruma-kānana-kuñja-vidhum
 
-     kali - of Kali-yuga; kukkura - of the dog; mudgara - with astick; bhāva - feature; dharaṁ - manifesting; hari-nāma - of Lord Kṛṣṇa's
-name; maha - great; auṣadha - medicine; dāna - gift; param - devoted; patita - fallen;ārta - distress; dayā - with mercy; ardra - melting; su-mūrti-dharaṁ - manifesting a glorious form.
+     kali - of Kali yuga; kukkura - of the dog; mudgara - with astick; bhāva - feature; dharaṁ - manifesting; hari-nāma - of Lord Kṛṣṇa's name; maha - great; auṣadha - medicine; dāna - gift; param - devoted; patita - fallen;ārta - distress; dayā - with mercy; ardra - melting; su-mūrti-dharaṁ - manifesting a glorious form.
 
      Out of compassion for ther sufferings of the conditioned souls, the Supreme Lord has assumed the beautiful form of Lord Caitanya. Chasing away the dog of Kali-yuga with a stick, Lord Caitanyacontinually administers the supreme medicine of the chanting of Lord Hari's holy names. Just worship that Supreme Person, who is like a moon shining in the groves of Godruma forest.
 
@@ -3782,7 +3781,7 @@ iha copaniṣat-parigīta-vibhur
 nija-dhāmani khelati bandhu-yuto
      bhaja godruma-kānana-kuñja-vidhum
 
-     iha - here; ca - and; upaniṣat - by the Upanisads; parigīta - sung; vibhur - glory; dvija-rāja-sutaḥ - sonm of the kingof brāhmaṇas; puraṭa - gold; ābha - splendor; hariḥ - chamring; nijadhāmani - in His own abode; khelati - enjoys pastimes; bandhu-yuto - with Hisassociates.
+     iha - here; ca - and; upaniṣat - by the Upanisads; parigīta - sung; vibhur - glory; dvija-rāja-sutaḥ - son of the king of brāhmaṇas; puraṭa - gold; ābha - splendor; hariḥ - chamring; nijadhāmani - in His own abode; khelati - enjoys pastimes; bandhu-yuto - with His associates.
 
      Lord Caitanya is glorified by all the Upaniṣads, and the splendor of His complexion has eclipsed the glory of gold. He has appeared as the son of Jagannātha Miśra, the best of brāhmaṇas, and He performs pastimes with His associates in His own abode of Navadvīpa. Just worship that Lord Caitanya, who is like a moon shining in the groves of Godruma forest.
 
@@ -3862,7 +3861,7 @@ vṛṣabhānu-sutā-priya-nātha sadā
      bhaja godruma-kānana-kuñja-vidhum
 
      vada - say; yādava - descendent of Yadu; mādhava - husband of the
-goddess of fortune; kṛṣṇa - all-attractive; hare - remover of allthat is inauspicious; vada - say; rāma - the supreme enjoyer;janārdana - he who removes distress; keśava - the master of Brahma and Siva; he - O; vṛṣabhānu-sutāpriya-
+goddess of fortune; kṛṣṇa - all attractive; hare - remover of allthat is inauspicious; vada - say; rāma - the supreme enjoyer;janārdana - he who removes distress; keśava - the master of Brahma and Siva; he - O; vṛṣabhānu-sutāpriya-
 nātha - the dear lover of Śrī Rādhā; sadā - always.
 
      O friend, just call out the names of the Personality of Godhead, saying: "O Yādava, O Mādhava, O Kṛṣṇa, O Hari, O Rāma, O Janārdana, O Keśava, O dear master of the daughter of King Vṛṣabhānu!" Continually worship Lord Caitanya, who is like a moon shining in the groves of Godruma forest.
@@ -3875,7 +3874,7 @@ vada rāsa-rasāyaṇa gaura-hare
      bhaja godruma-kānana-kuñja-vidhum
 
      vada - say; yāmuna-tīra - by the Yamuna's banl; vana - in the forests; adri - and hills; pate - master; vada - say;gokula-kānana-
-puñja - in the forests of Gokula; rave - sound; vada - say; rāsa-rasāyaṇa - the nectar of the rasadnace; gaura-hare - Gaura-hari.
+puñja - in the forests of Gokula; rave - sound; vada - say; rāsa-rasāyaṇa - the nectar of the rasadnace; gaura-hare - Gaura Hari.
 
      Please call out: "O Kṛṣṇa, O master of Govardhana Hill, Vṛndāvana, and the banks of the Yamunā! O Lord who appears like a brilliant sun shining in the forests of Gokula! O Lord who relishes the transcendental pastime of the rāsa dance! O Lord Caitanya, O fair-complexioned Lord Hari!" In this way just worship Lord Caitanya, who is like a moon shining in the groves of Godruma forest.
 
@@ -3897,7 +3896,7 @@ smara gaura-gadādhara-keli-kalaṁ
 śṛṇu gaura-gadādhara-cāru-kathāṁ
      bhaja godruma-kānana-kuñja-vidhum
 
-     smara - remember; gaura-gadādhara-keli-kalaṁ - the pastimes of Gaura-Gadādhara; bhava - become; gaura-gadādhara - of Gaura-Gadādhara; pakṣa-caraḥ - a follower; śṛṇu - hear; gaura-gadādhara-cārukathāṁ - the beautiful descriptions of Gaura-Gadādhara.
+     smara - remember; gaura-gadādhara-keli-kalaṁ - the pastimes of Gaura Gadādhara; bhava - become; gaura-gadādhara - of Gaura Gadādhara; pakṣa-caraḥ - a follower; śṛṇu - hear; gaura-gadādhara-cārukathāṁ - the beautiful descriptions of Gaura Gadādhara.
 
      Remember the transcendental pastimes of Gaura-Gadādhara, become a devotee of Gaura-Gadādhara, and hear the pleasing instructions of Gaura-Gadādhara. Worship Lord Caitanya, who is like a moon shining in the groves of Godruma forest.
 

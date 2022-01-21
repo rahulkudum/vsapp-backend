@@ -98,6 +98,13 @@ app.get("/", (req, res) => {
  res.send("chant and be happy");
 });
 
+app.get("/engtut", (req, res) => {
+ res.send("englishyoutubelink");
+});
+app.get("/hintut", (req, res) => {
+ res.send("hindiyoutubelink");
+});
+
 app.get("/files/:id", function (req, res) {
  const filePath = path.join(__dirname, "./" + req.params.id + ".txt");
  let val2 = "";
