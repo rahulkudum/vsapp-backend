@@ -99,10 +99,10 @@ app.get("/", (req, res) => {
 });
 
 app.get("/engtut", (req, res) => {
- res.json("englishyoutubelink");
+ res.send("https://youtu.be/jpfE6aHcAJ4");
 });
 app.get("/hintut", (req, res) => {
- res.json("hindiyoutubelink");
+ res.send("https://youtu.be/2_1wsroha9Q");
 });
 
 app.get("/files/:id", function (req, res) {
