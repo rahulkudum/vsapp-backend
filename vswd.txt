@@ -2233,7 +2233,7 @@ translation
 song name:gay goracand jiver tore
 author: bhaktivinoda thakura
 book name:gitavali (section: sri nagar kirtana sri nama song 5)
-(refrain) gay goracand jiver tore
+gay goracand jiver tore
 hare krsna hare hare
 (1)
 hare krsna hare krsna krsna krsna hare hare
@@ -2250,7 +2250,7 @@ murali vadana nrtya kore
 (bol) agha nisudan putana ghatana
 brahma vimohana urdhva kare
 translation
-refrain: lord gaurachanda sings the mahamantra for the deliverance of all fallen souls hare krsna hare
+0) lord gaurachanda sings the mahamantra for the deliverance of all fallen souls hare krsna hare
 1) hare krsna hare krsna krsna krsna hare hare hare rama hare rama rama rama hare hare
 2) fill yourself with divine love by chanting loudly just once all these names of krsna o nanda nandana o yasoda jivana o sri radha ramana
 3) dancing with your arms in the air chant o sri madhusudana o gopi prana dhana o murli vadana o agha nisudana o putana ghatana o brahma vimohana
@@ -2818,7 +2818,7 @@ translation
 5) lord caitanya is the source of all the transcendental mellows of vraja dhama (braja rasa bhavana) he is the destroyer of all mischievous and wicked mentality (dustamata satana) and he dissolves the mundane lust of the deceitful insincere souls by his causeless mercy (kapati vighatana kama) he maintains and protects his pure vaisnava devotees (suddha bhakta palana) and he chastises dry speculative knowledge (suskajnana tadana) he destroys pretentious and hypocritical devotion (chala bhakti dusana) and he is the reservoir of pleasure (rama)
 song name:keno hare krsna nam
 author: bhaktivinoda thakura
-(refrain) keno hare krsna nam hari bole
+keno hare krsna nam hari bole
 mano pran kande na
 (1)
 pakhi na jani kon aparadhe
@@ -2843,7 +2843,7 @@ loye jabe smasan ghatete
 ore o tor mukhe aguna jihve tule
 ki korobi tai bolo na
 translation
-refrain: oh why does my heart not weep from chanting the holy names hare krsna
+0) oh why does my heart not weep from chanting the holy names hare krsna
 1) the bird of my heart does not know what past sinful activities it has committed to cause this inability to chant hare krsna properly
 2) o forest bird i have kept something for you very carefully within the cottage of my heart the holy name of hari which is overflowing with pure sweet honey o bird you could learn the chanting of this name if you were taught
 3) a bird is easily able to speak all names; why then does this bird of my heart refuse to chant hare krsna oh why does my heart not weep from chanting the holy names hare krsna
@@ -2943,7 +2943,7 @@ translation
 5) in this way i can renounce the desire for honor for myself and can offer respect to others weeping sincerely at your lotus feet and rolling on the ground i pray that you will give me the ability to chant nama purely
 song name:mama mana mandire
 author: bhaktivinoda thakura
-(refrain) mama mana mandire raha nisi din
+mama mana mandire raha nisi din
 krsna murari sri krsna murari
 (1)
 bhakti priti mala candan
@@ -2961,7 +2961,7 @@ tomara virahe giridhari
 bandana gane tava bajuk jivana
 krsna murari sri krsna murari
 translation
-refrain: please abide in the temple of my heart both day and night o krsna murari o sri krsna murari
+0) please abide in the temple of my heart both day and night o krsna murari o sri krsna murari
 1) devotion love flower garlands and sandalwood please accept them o delighter of the heart
 2) in life or in death i worship you with these offerings beautiful one o enchanter of the heart
 3) come son of nanda and then o son of nanda i will offer your arati ceremony with the lamplight of my love
@@ -4519,7 +4519,6 @@ translation
 song name:krsna tava punya habe bhai
 official name:bhagavan krsner pada padme prarthana (prayer unto the lotus feet of krsna)
 author: ac bhaktivedanta swami
-(refrain)
 krsna taba punya habe bhai
 e punya koribe jabe radharani khusi habe
 dhruva ati boli toma tai
@@ -4569,7 +4568,7 @@ baro asa dakilam tai
 ami tomara nitya dasa tai kori eta asa
 tumi bina anya gati nai
 translation
-refrain: o brothers (o brother) the supreme lord krsna will bestow virtue upon you  but he will do this only when srimati radharani first becomes pleased with you this i surely declare to you
+0) o brothers (o brother) the supreme lord krsna will bestow virtue upon you  but he will do this only when srimati radharani first becomes pleased with you this i surely declare to you
 1) sri srimad bhaktisiddhanta sarasvati thakura who is very dear to lord gauranga the son of mother saci is unparalleled in his service to the supreme lord sri krsna he is that great saintly spiritual master most magnanimous within this universe who bestows devotion to krsna in various places throughout the world
 2) his desire is very powerful and thus he is causing the holy name of lord gauranga to spread throughout all the countries of the western world in all the cities towns and villages on the earth extending to all the oceans rivers and streams everyone may accept the holy name of krsna
 3) thus all directions will be conquered by a flood of transcendental ecstasy flowing with the excessive mercy of sri caitanya mahaprabhu when all the miserable living entities that have been corrupted by maya become happy then the vaisnavas desire is fulfilled
@@ -5285,7 +5284,7 @@ translation
 song name:krsna deva bhavantam vande
 author: rupa goswami
 book name:stavamala (section: volume 6 song 24)
-(refrain) krsna deva bhavantam vande
+krsna deva bhavantam vande
 man manasa madhukaram arpaya nija padapankaja makarande
 (1)
 yad api samadhisu vidhir api pasyati
@@ -5303,7 +5302,7 @@ kalitadbhuta rasa bharam
 nivasatu nityam ihamrta nindati
 vindan madhurima saram
 translation
-refrain: o lord sri krsna i am offering a prayer unto you please let the bee of my mind be offered the nectarian honey of your lotus feet
+0) o lord sri krsna i am offering a prayer unto you please let the bee of my mind be offered the nectarian honey of your lotus feet
 1) although brahma in full samadhi cannot catch a glimpse of even a ray of the effulgence from the tips of your toe nails still o acyutah having heard of the waves of your astonishing mercy i long to receive your grace
 2) o madhava although i dont possess even a sesame seed of bhakti for you still by your inconceivable power which makes the impossible possible please fulfill the desires of my heart
 3) he sanatana because your lotus feet are filled with such wonderful rasa let the bee of my mind always reside unwaveringly in that nectar which puts everything else to shame for they are the essence of all sweetness this is my only prayer
@@ -5311,7 +5310,7 @@ song name:radhe jaya jaya madhava dayite
 official name:sri radhika stava
 author: rupa goswami
 book name:stavamala (section: volume 6 song 14)
-(refrain) radhe jaya jaya madhava dayite
+radhe jaya jaya madhava dayite
 gokula taruni mandala mahite
 (1)
 damodara rati vardhana vese
@@ -5323,7 +5322,7 @@ lalita sakhi guna ramita visakhe
 karunam kuru mayi karuna bharite
 sanaka sanatana varnita carite
 translation
-(refrain) o radha o beloved of madhava o you who are worshiped by all the young girls of gokula all glories unto you all glories unto you
+0) o radha o beloved of madhava o you who are worshiped by all the young girls of gokula all glories unto you all glories unto you
 1) you who dress yourself in such a way as to increase lord damodaras love and attachment for you o queen of vrndavana which is the pleasure grove of lord hari
 2) o new moon that has arisen from the ocean of king vrsabhanu o friend of lalita o you who make visakha loyal to you due to your wonderful qualities of friendliness kindness and faithfulness to krsna
 3) o you who are filled with compassion o you whose divine characteristics are described by the great sages sanaka and sanatana o radha please be merciful to me
@@ -6632,7 +6631,7 @@ translation
 3) you have to first clean the dirty mind only then will affection for the names and glorification of lord will arise with affection i applied tilakbut could not do gaur bhajanoh lost mind 
 4) my merciful nitai stays in the home of that person who loves this eternal commodity of love when you call out with utmost devotion to that dear one of lord your path will be a success and not a failure
 song name:antara mandire jago jago
-(refrain) antara mandire jago jago
+antara mandire jago jago
 madhava krsna gopal
 (1)
 nava aruna sama
@@ -6656,7 +6655,6 @@ translation
 2) tears are pouring from my eyes like a monsoon cloudburst please arise please arise o youthful kisora o dark syamal o most beloved of srimati radharani please arise in my heart please arise o maintainer of the cowheards
 3) o darling of yasoda come please come o butter thief o lord of my life please come o youthful boy bringing radha along at your left in the abode of vraja within my heart please come o protector of vraja
 song name:ar ke bajabe bamsi
-(refrain)
 ar ke bajabe bamsi syama braje nai (go)
 (1)
 mana duhkhe kande eka kamalini rai go
@@ -6673,13 +6671,12 @@ baja na syamer venu
 gosthe cale na dhenu
 vrajete cale gecche praner kanai (go)
 translation
-refrain: now that syama has left braja who else will play the flute
+0) now that syama has left braja who else will play the flute
 1) since syama has left braja the beautiful lotus like radharani is so unhappy that she is constantly weeping
 2) while decorating a forest bower with wildflowers radharani exclaims my dear friend all night i lie awake weeping because syama will not be coming he is no longer in braja
 3) due to separation of syama both male and female parrots are weeping along with the cowherd girls of braja syama is no longer playing the flute and the cows no longer go out to the pasture my dear friend our life and soul krsna has left braja
 song name:ar koto kal
 author: mira bhai
-(refrain)
 ar koto kal giridhari lal
 arale arale robe
 (1)
@@ -6703,7 +6700,6 @@ after how long will i see you o darling giridhari lal until then i will simply r
 
 song name:bhaja gauranga kaha gauranga
 author: krsnadasa kaviraja goswami
-(refrain)
 bhaja gauranga kaha gauranga laha gaurangera nama re
 je jan gauranga bhaje sei (hoy) amara prana re
 (1)
@@ -6711,12 +6707,11 @@ gauranga boliya du bahu tuliya naciya naciya bedao re
 (2)
 gauranga bhajile gauranga japile hoy duḥkhera abasana re
 translation
-refrain: worship lord gauranga chant gauranga speak about lord gauranga only those who worships lord gauranga is indeed my life and soul (these lines are sung by lord nityananda prabhu) 
+0) worship lord gauranga chant gauranga speak about lord gauranga only those who worships lord gauranga is indeed my life and soul (these lines are sung by lord nityananda prabhu) 
 1) chanting gauranga go out with your arms raised dancing and dancing
 2) by chanting gauranga and worshipping him ones miseries will end
 song name:carana kamal
 author: sura dasa
-(refrain)
 carana kamal vandon hari rayi
 (1)
 jalki krpa pangu giri lange
@@ -6728,7 +6723,7 @@ ranka cale sira chatra dharaye
 surdas swami karunamaye
 bara bara vandon tehi paye
 translation
-refrain: i offer prayers unto the lotus feet of the worshipful lord hari
+0) i offer prayers unto the lotus feet of the worshipful lord hari
 1) by his mercy a lame person crosses mountains a blind person sees everything 
 2) a deaf person hears a dumb person again speaks and even a poor person walks with a servant holding an umbrella over his head
 3) the lord of sura das is full of compassion therefore i offer my obeisances unto his lotus feet again and again
@@ -6759,7 +6754,6 @@ translation
 5) lord hari is in his heart lord hari is in his meditation and he always chants the name of hari with his voice gaura chanda is intoxicated by ecstatic mellows and rolls around on the ground while singing and singing harinama
 6) arriving on the bank of the yamuna river he dances wildly while chanting hari hari mother yamuna becomes so ecstatic that she arises and comes forward to wash lord gaurangas feet
 song name:duhkher sagore
-(refrain)
 duhkher sagore bhasiyechi
 uttariye jani na
 (1)
@@ -6772,7 +6766,7 @@ par koro amai shamne tuphan
 tumi jadi prabhu nahi koro par
 parer asa rakhi na
 translation
-refrain: i am swimming in the ocean of material suffering and i do not know of any way to be lifted out
+0) i am swimming in the ocean of material suffering and i do not know of any way to be lifted out
 1) o lord please rescue me from the raging storm that is rapidly approaching with torrents of rain when it reaches me i do not know what will happen
 2) you o lord are the supreme personality of godhead who is merciful to poor fallen souls please save me from the terrible storm that menaces before me
 3) if you do not deliver me o lord then i do not even hope to be saved
@@ -6951,7 +6945,6 @@ translation
 5) he who prevented the dishonoring of the daughter of king drupada and who delivered the elephant gajendra from the grasp of the alligator unto he who is the abode of all compassion i offer my most humble obeisances again and again
 6) he who caused the great war between the kurus and the pandavas and who spoke divine instructions to arjuna on the battlefield unto he who is the lord of all helpless fallen souls i offer my most humble obeisances again and again
 song name:maine ratana lagai radha nama ki
-(refrain)
 maine ratana lagai radha namaki
 (1)
 meri palakon men radha meri alakon men radha
@@ -6972,7 +6965,7 @@ roma roma rasa chai radha namaki
 mere anga anga radha mere sanga sanga radha
 gopal bamsi bajai radha namaki
 translation
-refrain: i am ever engaged in repeating the sweet name of radha
+0) i am ever engaged in repeating the sweet name of radha
 1) radha is there in the blinking of my eyes radha is there in the curls of my hair i have filled up the very part of my hair oh with the sweet name of radha
 2) radha is there within my vision radha is there within my speech i interweave my every word oh with the sweet name of radha
 3) radha is there in my necklace radha is there in my sari i have adorned my nose ring oh with the sweet name of radha
@@ -7033,7 +7026,6 @@ translation
 8) it makes the entire universe seem insignificant as a blade of grass; it splendorously reigns supreme over all; it is full of eternally conscious divine ecstasy; it is supremely pure the holy name of sri hari alone is everything
 song name:mirar prabhu eso giridhari syamol sundara syam
 author: mira bai
-(refrain)
 mirar prabhu eso giridhari
 syamol sundara syam
 (1)
@@ -7055,7 +7047,7 @@ abhagini mirar minoti rakho
 bhulo bhulo abhiman
 syamol sundara syam
 translation
-(refrain): the beautiful syama is the lord of mirabai please come to me giridhari
+0) the beautiful syama is the lord of mirabai please come to me giridhari
 1) my heart which is like the jamuna river is restricted by its two banks is now overflowing with divine love for you
 2) the kadamba tree of my mind is blooming with flowers that sway to and fro on the waves of divine love o hari please come and play your flute you are the life and soul of sri radhika
 3) mirabai says for your sake o syama i gave up my home and i have also given up my own family in the same way that the gopis of vraja cried out of separation from you i also cry as your loving devotee please keep this prayer of your most unfortunate mira at your lotus feet and disregard my false pride
@@ -7182,7 +7174,6 @@ translation
 3) sridama sudama and your brother balarama are calling o kanai please come back while tending the calves and playing on their flutes they entreat o brother please come home
 4) mother yasoda is crying out o gopal you are my life and soul please come home o butter thief within the heart of srimati radharani divine love for you flows like the yamuna river
 song name:pranam tomai ghana syam
-(refrain)
 pranam tomai ghana syam
 (1)
 tomar carana sarana kori
@@ -7200,7 +7191,7 @@ darao jugal murti dhori
 dekhbo tomai nayana bhori
 purna kori manuskam
 translation
-refrain: all obeisances to you o ghana syam
+0) all obeisances to you o ghana syam
 1) taking refuge at your lotus feet i fearlessly implore you this time o hari give me your mercy i shall cross the ocean of sorrow by the boat of your holy name
 2) o lord we are always asleep while you are ever awake every moment we can only make errors our eyes being covered by illusion
 3) please remove this covering my lord so i may behold your form as the divine couple with sri radha by your side i will gaze at you until my hankering eyes are pacified thus fulfilling my souls desire o ghana syam i offer this prayer unto you
@@ -7211,7 +7202,6 @@ radhe radhe radhe sri krsna radhe radhe radhe radhe radhe sri krsna radhe radhe
 radhe radhe / syama sri radhe radhe radhe / syama sri radhe
 song name:raja rani mira
 author: mira bai
-(refrain)
 raj rani mira bhikharini
 giridhari tomaro lagiya
 (1)
@@ -7231,7 +7221,7 @@ rakho more ange misaya go
 giridhari tomaro pran mirar
 giridhari tomaro lagiya
 translation
-refrain: the queen mira is simply a beggar woman but only for your sake o giridhari
+0) the queen mira is simply a beggar woman but only for your sake o giridhari
 1) i simply wander here and there like a mendicant but i seek only the alms of your holy name
 2) people say mira has become a madwoman the king says she has disgraced her family but mira says o lord giridhari my only desire is to remain at your lotus feet
 3) o prabhuji kindly reveal yourself to me mira simply weeps for you my lord please dont make this most unfortunate person cry any more please keep me tightly embraced as if united with your own body
@@ -7334,7 +7324,7 @@ translation
 4) someone in that kirtana sings the names of radha and krsna someone else sings songs of lord haris transcendental qualities while others play the auspicious rhythms of the sweet and relishable mrdanga drums all this takes place in that spectacular performance
 song name:sundara kundala naina visala
 author: sri vasudeva ghosa
-(refrain) jaya madhava madana murari radhe syama syama syama
+jaya madhava madana murari radhe syama syama syama
 jaya kesava kali mala hari radhe syama syama syama
 (1)
 sundara kundala naina visala gale sohe vaijayanti mala
@@ -7364,7 +7354,7 @@ lijo khabara hamari radhe syama syama syama
 arjuna ke ratha hankana hare gita ke upadesa tumhare
 cakra sudarsana dhari radhe syama syama syama
 translation
-(refrain) glories to the husband of the goddess of fortune who is the transcendental cupid and the enemy of the demon mura glories to the divine couple radhe syama also known as syama syama glories to lord kesava who has fine hair who removes the miseries of the age of kali radhe syama syama syama
+0) glories to the husband of the goddess of fortune who is the transcendental cupid and the enemy of the demon mura glories to the divine couple radhe syama also known as syama syama glories to lord kesava who has fine hair who removes the miseries of the age of kali radhe syama syama syama
 1) o krsna you wear beautiful earrings and you have lovely widened eyes around your neck hangs the splendrous vaijanti flower garland your complexion is most excellent radhe syama syama syama
 2) sometimes you secretly plunder yogurt and eat it and sometimes you design a rasa dance performance with the young gopis in the forest of madhuvana there dances vipina vihari you who love to sport in the forest  radhe syama syama syama
 3) you herd the cows in the company of the cowherd boys you the monarch of the yadu dynasty thus wander from forest to forest carrying a black blanket draped over your shoulder  radhe syama syama syama
@@ -7375,7 +7365,7 @@ translation
 8) you deliver each of your devotees in unique ways alas we who are bereft of devotion are standing here outside your door please favorably receive the news of our presence  radhe syama syama syama
 9) you were the driver of arjunas chariot and on the battlefield you gave arjuna the instructions of the bhagavad gita during the fight you exhibited your form as the wielder of the discus sudarsana  radhe syama syama syama
 song name:sundara mora mana kisora
-(refrain) sundara mor mana kisor
+sundara mor mana kisor
 eso he syamala nayanabhiram
 (1)
 bhajibo tomai mor mana chai
@@ -7394,7 +7384,7 @@ ei jivane hai jadi nahi pai
 maraner upare sarana nilam
 eso he syamala nayanabhiram
 translation
-refrain: o beautiful one o youthful boy who lives in my heart please come to me o dark syamal o delighter of my eyes
+0) o beautiful one o youthful boy who lives in my heart please come to me o dark syamal o delighter of my eyes
 1) the desire of my heart is to worship you intimately in this hope i humbly bow unto your lotus feet
 2) o love of my eyes please take me with you while i am suffering in your separation the melody of our impending meeting is the only thing that gives me any happiness o monarch of my life why do you remain silent and never speak to me tears are flowing from my eyes and nothing in this world gives me any satisfaction
 3) how much longer must i continue living in this condition you are making me weep and cry out for you o darling giridhari lal if i cannot attain you in this lifetime then i shall just give up and surrender myself unto death
