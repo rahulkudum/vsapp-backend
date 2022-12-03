@@ -95,7 +95,7 @@ app.use(cors());
 
 //routes
 app.get("/", (req, res) => {
- res.send("chant and be happy");
+ res.send("chant and be happy!");
 });
 
 app.get("/engtut", (req, res) => {
